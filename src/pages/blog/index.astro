@@ -1,1 +1,55 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
 
+const posts = (await getCollection('blog')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const categories = [...new Set(posts.map(p => p.data.category))];
+
+function catSlug(cat: string) {
+  return cat.toLowerCase().replace(/ae/g,'ae').replace(/oe/g,'oe').replace(/aa/g,'aa').replace(/\s+/g,'-');
+}
+---
+<Layout title="Blog" description="Alle guides, artikler og opskrifter fra UrbanCoast.dk">
+  <div class="category-hero">
+    <div class="container">
+      <h1>Blog</h1>
+      <p>Alle guides, artikler og opskrifter om traening og kost</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div class="category-nav">
+        <a href="/blog" class="category-pill active">Alle</a>
+        {categories.map(cat => (
+          <a href={`/kategori/${cat}`} class="category-pill">{cat}</a>
+        ))}
+      </div>
+
+      <div class="cards-grid">
+        {posts.map(post => (
+          <div class="card">
+            {post.data.image && (
+              <div class="card-img">
+                <a href={`/blog/${post.slug}`}>
+                  <img src={post.data.image} alt={post.data.title} loading="lazy" />
+                </a>
+              </div>
+            )}
+            <div class="card-body">
+              <a href={`/kategori/${post.data.category}`} class={`badge ${catSlug(post.data.category)}`}>{post.data.category}</a>
+              <h3><a href={`/blog/${post.slug}`}>{post.data.title}</a></h3>
+              <p class="card-excerpt">{post.data.description}</p>
+              <div class="card-meta">
+                <span>{post.data.author}</span>
+                <span class="sep">&#183;</span>
+                <span>{new Intl.DateTimeFormat('da-DK',{year:'numeric',month:'short',day:'numeric'}).format(post.data.pubDate)}</span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
