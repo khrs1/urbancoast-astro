@@ -1,15 +1,16 @@
 {
   "name": "urbancoast-astro",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "dev": "astro dev",
-    "start": "astro dev",
+    "start": "serve dist -l $PORT",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.0"
+    "astro": "^4.16.0",
+    "serve": "^14.2.4"
   }
 }
