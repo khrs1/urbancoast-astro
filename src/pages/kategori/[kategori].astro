@@ -1,1 +1,64 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
 
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const categories = [...new Set(posts.map(p => p.data.category))];
+  return categories.map(cat => ({
+    params: { kategori: cat },
+    props: { category: cat, posts: posts.filter(p => p.data.category === cat).sort((a,b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()) },
+  }));
+}
+
+const { category, posts } = Astro.props;
+
+function catSlug(cat: string) {
+  return cat.toLowerCase().replace(/ae/g,'ae').replace(/oe/g,'oe').replace(/aa/g,'aa').replace(/\s+/g,'-');
+}
+
+const catDescriptions: Record<string, string> = {
+  'Traeniingsguides': 'Dybdegaaende guides til korrekt teknik i squat, doedloeft, baenkpres, lunges og meget mere.',
+  'Kosttilskudguides': 'Alt du behoever at vide om proteinpulver, kreatin, BCAA, pre-workout og andre kosttilskud.',
+  'Proteinopskrifter': 'Laekre og sunde opskrifter med hoejt proteinindhold – perfekt til aktive mennesker.',
+  'Artikler': 'Informative artikler om fitness, kost og en sund aktiv livsstil.',
+};
+---
+<Layout title={category} description={catDescriptions[category] ?? `Alle indlaeg i kategorien ${category}`}>
+  <div class="category-hero">
+    <div class="container">
+      <a href="/blog" style="color:rgba(255,255,255,0.6);font-size:.85rem;margin-bottom:.75rem;display:inline-block">&#8592; Alle kategorier</a>
+      <h1>{category}</h1>
+      {catDescriptions[category] && <p>{catDescriptions[category]}</p>}
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <p style="color:#6b7280;margin-bottom:1.5rem;font-size:.9rem">{posts.length} indlaeg i {category}</p>
+      <div class="cards-grid">
+        {posts.map(post => (
+          <div class="card">
+            {post.data.image && (
+              <div class="card-img">
+                <a href={`/blog/${post.slug}`}>
+                  <img src={post.data.image} alt={post.data.title} loading="lazy" />
+                </a>
+              </div>
+            )}
+            <div class="card-body">
+              <span class={`badge ${catSlug(post.data.category)}`}>{post.data.category}</span>
+              <h3><a href={`/blog/${post.slug}`}>{post.data.title}</a></h3>
+              <p class="card-excerpt">{post.data.description}</p>
+              <div class="card-meta">
+                <span>{post.data.author}</span>
+                <span class="sep">&#183;</span>
+                <span>{new Intl.DateTimeFormat('da-DK',{year:'numeric',month:'short',day:'numeric'}).format(post.data.pubDate)}</span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
