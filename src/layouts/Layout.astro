@@ -1,1 +1,79 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = "Vejledning, Tests & Guides til træning & kost" } = Astro.props;
+---
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <title>{title} | UrbanCoast.dk</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/global.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="logo">Urban<span>Coast</span>.dk</a>
+      <nav>
+        <a href="/">Forside</a>
+        <a href="/blog">Blog</a>
+        <a href="/kategori/Traeniingsguides">Traening</a>
+        <a href="/kategori/Kosttilskudguides">Kosttilskud</a>
+        <a href="/kategori/Proteinopskrifter">Opskrifter</a>
+      </nav>
+    </div>
+  </header>
 
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h4>UrbanCoast.dk</h4>
+          <p style="font-size:.85rem;line-height:1.6;color:rgba(255,255,255,0.55)">
+            Dansk website for dig, der leder efter fede produkter til en sund og aktiv livsstil. Vejledning, tests & guides til traening & kost.
+          </p>
+        </div>
+        <div class="footer-col">
+          <h4>Kategorier</h4>
+          <ul>
+            <li><a href="/kategori/Traeniingsguides">Traeniingsguides</a></li>
+            <li><a href="/kategori/Kosttilskudguides">Kosttilskud guides</a></li>
+            <li><a href="/kategori/Proteinopskrifter">Proteinopskrifter</a></li>
+            <li><a href="/kategori/Artikler">Artikler</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Populaere guides</h4>
+          <ul>
+            <li><a href="/blog/squats-guide">Squat teknik guide</a></li>
+            <li><a href="/blog/baenkpres-teknik">Baenkpres teknik</a></li>
+            <li><a href="/blog/lunges-guide">Guide til lunges</a></li>
+            <li><a href="/blog/crossfit-grips">CrossFit grips</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Information</h4>
+          <ul>
+            <li><a href="https://urbancoast.dk/om-urbancoast-dk/" target="_blank" rel="noopener">Om UrbanCoast.dk</a></li>
+            <li><a href="https://urbancoast.dk/kontakt/" target="_blank" rel="noopener">Kontakt</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&#169; {new Date().getFullYear()} UrbanCoast.dk | Vejledning & Guides til traening & kost</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
