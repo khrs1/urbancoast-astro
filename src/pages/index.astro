@@ -2,103 +2,103 @@
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('blog')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const allPosts = await getCollection('blog');
+const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const featured = posts[0];
 const recent = posts.slice(1, 7);
 
 function catSlug(cat: string) {
-  return cat.toLowerCase().replace(/ae/g,'ae').replace(/oe/g,'oe').replace(/aa/g,'aa').replace(/\s+/g,'-');
+  return cat.toLowerCase().replace(/[^a-z0-9]+/g, '');
 }
 
-const categories = [
-  { name: 'Traeniingsguides', emoji: '&#127947;', desc: 'Teknikguides til squat, doedloeft, baenkpres og meget mere.' },
-  { name: 'Kosttilskudguides', emoji: '&#128138;', desc: 'Alt om proteinpulver, kreatin, BCAA og andre kosttilskud.' },
-  { name: 'Proteinopskrifter', emoji: '&#129367;', desc: 'Sunde og laekre opskrifter med hoejt proteinindhold.' },
-  { name: 'Artikler', emoji: '&#128240;', desc: 'Dybdegaaende artikler om fitness og sund livsstil.' },
-];
+const uniqueCats = [...new Set(allPosts.map(p => p.data.category))];
+
+const catMeta: Record<string, { emoji: string; desc: string }> = {
+  'Kosttilskudguides': { emoji: '&#128138;', desc: 'Alt om proteinpulver, kreatin, BCAA og andre kosttilskud.' },
+  'Proteinopskrifter': { emoji: '&#129367;', desc: 'Sunde og laekre proteinrige opskrifter.' },
+  'Artikler': { emoji: '&#128240;', desc: 'Dybdegaaende artikler om fitness og sund livsstil.' },
+};
+const defaultCatMeta = { emoji: '&#127947;', desc: 'Teknikguides til squat, baenkpres og meget mere.' };
 ---
 <Layout title="UrbanCoast.dk | Vejledning, Tests & Guides til traening & kost">
-  <section class="hero">
-    <div class="container">
-      <h1>Din guide til traening & kost</h1>
-      <p>Uvildig vejledning, tests og guides til kosttilskud, traeniingsudstyr og en aktiv livsstil.</p>
-      <a href="/blog" class="hero-btn">Laes alle guides &#8594;</a>
-    </div>
-  </section>
 
-  <section class="section" style="background:#f9fafb;border-bottom:1px solid #e5e7eb;">
-    <div class="container">
-      <div class="section-header">
-        <h2>Kategorier</h2>
-      </div>
-      <div class="cards-grid" style="grid-template-columns:repeat(auto-fill,minmax(240px,1fr))">
-        {categories.map(cat => (
-          <a href={`/kategori/${cat.name}`} style="text-decoration:none">
-            <div class="card" style="padding:1.5rem;gap:.75rem;cursor:pointer;min-height:140px">
-              <div style="font-size:2rem" set:html={cat.emoji}></div>
-              <div>
-                <div style="font-weight:700;font-size:1rem;margin-bottom:.25rem">{cat.name}</div>
-                <div style="font-size:.85rem;color:#6b7280;line-height:1.5">{cat.desc}</div>
-              </div>
-            </div>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
+<section class="hero">
+<div class="container">
+<h1>Din guide til<br/>traening & kost</h1>
+<p>Uvildig vejledning, tests og guides til kosttilskud, traeningsudstyr og en aktiv livsstil.</p>
+<a href="/blog" class="hero-btn">Laes alle guides &#8594;</a>
+</div>
+</section>
 
-  {featured && (
-    <section class="section">
-      <div class="container">
-        <div class="section-header">
-          <h2>Seneste indlaeg</h2>
-          <a href="/blog">Se alle &#8594;</a>
-        </div>
-        <div class="featured-post">
-          {featured.data.image && (
-            <div class="fp-img">
-              <img src={featured.data.image} alt={featured.data.title} />
-            </div>
-          )}
-          <div class="fp-body">
-            <a href={`/kategori/${featured.data.category}`} class={`badge ${catSlug(featured.data.category)}`}>{featured.data.category}</a>
-            <h2>{featured.data.title}</h2>
-            <p>{featured.data.description}</p>
-            <div style="font-size:.8rem;color:#6b7280;margin-top:.25rem">
-              Af {featured.data.author} &#183; {new Intl.DateTimeFormat('da-DK',{year:'numeric',month:'long',day:'numeric'}).format(featured.data.pubDate)}
-            </div>
-            <a href={`/blog/${featured.slug}`} class="read-more">Laes guide &#8594;</a>
-          </div>
-        </div>
-      </div>
-    </section>
-  )}
+<section class="section" style="background:var(--surface);border-bottom:1px solid var(--border)">
+<div class="container">
+<div class="section-header"><h2>Kategorier</h2></div>
+<div class="cards-grid" style="grid-template-columns:repeat(auto-fill,minmax(220px,1fr))">
+{uniqueCats.map(cat => (
+<a href={'/kategori/' + encodeURIComponent(cat)} style="text-decoration:none">
+<div class="cat-card">
+<div class="cat-icon" set:html={catMeta[cat]?.emoji ?? defaultCatMeta.emoji}></div>
+<div class="cat-name">{cat}</div>
+<div class="cat-desc">{catMeta[cat]?.desc ?? defaultCatMeta.desc}</div>
+</div>
+</a>
+))}
+</div>
+</div>
+</section>
 
-  <section class="section" style="padding-top:0">
-    <div class="container">
-      <div class="cards-grid">
-        {recent.map(post => (
-          <div class="card">
-            {post.data.image && (
-              <div class="card-img">
-                <a href={`/blog/${post.slug}`}>
-                  <img src={post.data.image} alt={post.data.title} loading="lazy" />
-                </a>
-              </div>
-            )}
-            <div class="card-body">
-              <a href={`/kategori/${post.data.category}`} class={`badge ${catSlug(post.data.category)}`}>{post.data.category}</a>
-              <h3><a href={`/blog/${post.slug}`}>{post.data.title}</a></h3>
-              <p class="card-excerpt">{post.data.description}</p>
-              <div class="card-meta">
-                <span>{post.data.author}</span>
-                <span class="sep">&#183;</span>
-                <span>{new Intl.DateTimeFormat('da-DK',{year:'numeric',month:'short',day:'numeric'}).format(post.data.pubDate)}</span>
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
+{featured && (
+<section class="section">
+<div class="container">
+<div class="section-header">
+<h2>Seneste indlaeg</h2>
+<a href="/blog">Se alle &#8594;</a>
+</div>
+<div class="featured-post">
+{featured.data.image && (
+<div class="fp-img">
+<img src={featured.data.image} alt={featured.data.title} />
+</div>
+)}
+<div class="fp-body">
+<a href={'/kategori/' + encodeURIComponent(featured.data.category)} class={'badge ' + catSlug(featured.data.category)}>{featured.data.category}</a>
+<h2>{featured.data.title}</h2>
+<p>{featured.data.description}</p>
+<div style="font-size:.8rem;color:var(--muted);margin-top:.25rem">
+Af {featured.data.author} &#183; {new Intl.DateTimeFormat('da-DK',{year:'numeric',month:'long',day:'numeric'}).format(featured.data.pubDate)}
+</div>
+<a href={'/blog/' + featured.slug} class="read-more">Laes guide &#8594;</a>
+</div>
+</div>
+</div>
+</section>
+)}
+
+<section class="section" style="padding-top:0">
+<div class="container">
+<div class="cards-grid">
+{recent.map(post => (
+<div class="card">
+{post.data.image && (
+<div class="card-img">
+<a href={'/blog/' + post.slug}>
+<img src={post.data.image} alt={post.data.title} loading="lazy" />
+</a>
+</div>
+)}
+<div class="card-body">
+<a href={'/kategori/' + encodeURIComponent(post.data.category)} class={'badge ' + catSlug(post.data.category)}>{post.data.category}</a>
+<h3><a href={'/blog/' + post.slug}>{post.data.title}</a></h3>
+<p class="card-excerpt">{post.data.description}</p>
+<div class="card-meta">
+<span>{post.data.author}</span>
+<span class="sep">&#183;</span>
+<span>{new Intl.DateTimeFormat('da-DK',{year:'numeric',month:'short',day:'numeric'}).format(post.data.pubDate)}</span>
+</div>
+</div>
+</div>
+))}
+</div>
+</div>
+</section>
 </Layout>
