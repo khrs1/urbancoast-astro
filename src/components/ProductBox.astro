@@ -1,0 +1,79 @@
+---
+import type { Product } from '../data/products';
+import { buildUrl } from '../data/products';
+
+interface Props { product: Product; }
+const { product } = Astro.props;
+const href = buildUrl(product.url);
+const full = product.rating ? Math.floor(product.rating) : 0;
+const half = product.rating ? product.rating - full >= 0.5 : false;
+---
+<div class="pb">
+  {product.badge && <span class="pb-badge">{product.badge}</span>}
+  {product.image && (
+    <div class="pb-img"><img src={product.image} alt={product.name} loading="lazy" /></div>
+  )}
+  <div class="pb-body">
+    <div class="pb-head">
+      {product.brand && <span class="pb-brand">{product.brand}</span>}
+      <h3 class="pb-name">{product.name}</h3>
+      {product.rating && (
+        <div class="pb-rating" aria-label={`${product.rating} ud af 5`}>
+          {Array.from({ length: 5 }).map((_, i) => (
+            <span class={i < full ? 'on' : i === full && half ? 'half' : 'off'}>&#9733;</span>
+          ))}
+          <span class="pb-score">{product.rating.toFixed(1)}</span>
+        </div>
+      )}
+    </div>
+    <p class="pb-desc">{product.description}</p>
+    {(product.pros || product.cons) && (
+      <div class="pb-procon">
+        {product.pros && (
+          <ul class="pb-pros">
+            {product.pros.map((p) => <li>{p}</li>)}
+          </ul>
+        )}
+        {product.cons && (
+          <ul class="pb-cons">
+            {product.cons.map((c) => <li>{c}</li>)}
+          </ul>
+        )}
+      </div>
+    )}
+    <div class="pb-foot">
+      {product.price && <span class="pb-price">{product.price}</span>}
+      <a class="pb-cta" href={href} target="_blank" rel="sponsored nofollow noopener">
+        {product.cta ?? 'Se pris'}
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>
+      </a>
+    </div>
+    {product.merchant && <span class="pb-merchant">{product.merchant} &middot; annonce</span>}
+  </div>
+</div>
+
+<style>
+  .pb{position:relative;display:flex;flex-direction:column;background:#fff;border:1px solid var(--border);border-radius:var(--r);box-shadow:0 1px 3px rgba(0,0,0,.07);overflow:hidden;transition:transform .2s,box-shadow .2s}
+  .pb:hover{transform:translateY(-3px);box-shadow:0 14px 36px rgba(0,0,0,.12)}
+  .pb-badge{position:absolute;top:.75rem;left:.75rem;z-index:2;background:var(--accent);color:#fff;font-size:.68rem;font-weight:800;text-transform:uppercase;letter-spacing:.04em;padding:.3rem .7rem;border-radius:50px;box-shadow:0 2px 10px rgba(34,197,94,.35)}
+  .pb-img{aspect-ratio:16/10;background:#e2e8f0;overflow:hidden}
+  .pb-img img{width:100%;height:100%;object-fit:cover}
+  .pb-body{display:flex;flex-direction:column;gap:.6rem;padding:1.25rem 1.25rem 1.35rem;flex:1}
+  .pb-brand{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+  .pb-name{font-size:1.1rem;font-weight:800;letter-spacing:-.02em;line-height:1.25;margin:.1rem 0 0}
+  .pb-rating{display:flex;align-items:center;gap:.12rem;font-size:.95rem;margin-top:.15rem}
+  .pb-rating .on{color:#f59e0b}
+  .pb-rating .half{color:#f59e0b;opacity:.5}
+  .pb-rating .off{color:#d1d5db}
+  .pb-score{margin-left:.4rem;font-size:.8rem;font-weight:700;color:var(--muted)}
+  .pb-desc{color:#475569;font-size:.92rem;line-height:1.6}
+  .pb-procon{display:flex;flex-wrap:wrap;gap:.35rem 1.5rem;margin:.1rem 0}
+  .pb-pros,.pb-cons{list-style:none;margin:0;padding:0;font-size:.85rem;line-height:1.7;color:#475569}
+  .pb-pros li::before{content:'\2713';color:var(--accent-dk);font-weight:900;margin-right:.5rem}
+  .pb-cons li::before{content:'\2013';color:#ef4444;font-weight:900;margin-right:.5rem}
+  .pb-foot{display:flex;align-items:center;justify-content:space-between;gap:.75rem;margin-top:auto;padding-top:.5rem}
+  .pb-price{font-weight:800;font-size:1rem;color:var(--text)}
+  .pb-cta{display:inline-flex;align-items:center;gap:.4rem;background:var(--accent);color:#fff;font-weight:800;font-size:.9rem;padding:.65rem 1.35rem;border-radius:50px;white-space:nowrap;transition:background .15s,transform .15s}
+  .pb-cta:hover{background:var(--accent-dk);transform:translateY(-1px)}
+  .pb-merchant{font-size:.72rem;color:var(--muted);letter-spacing:.02em}
+</style>

@@ -1,0 +1,61 @@
+---
+import type { Product } from '../data/products';
+import { buildUrl } from '../data/products';
+
+interface Props { products: Product[]; title?: string; }
+const { products, title } = Astro.props;
+---
+<div class="pc-wrap">
+  {title && <h3 class="pc-title">{title}</h3>}
+  <div class="pc-scroll">
+    <table class="pc">
+      <thead>
+        <tr>
+          <th>Produkt</th>
+          <th>Bedst til</th>
+          <th>Vurdering</th>
+          <th>Pris</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {products.map((p) => (
+          <tr>
+            <td class="pc-name">
+              <strong>{p.name}</strong>
+              {p.badge && <span class="pc-badge">{p.badge}</span>}
+            </td>
+            <td class="pc-desc">{p.description}</td>
+            <td class="pc-rating">{p.rating ? `${p.rating.toFixed(1)} / 5` : '–'}</td>
+            <td class="pc-price">{p.price ?? '–'}</td>
+            <td class="pc-cta-cell">
+              <a class="pc-cta" href={buildUrl(p.url)} target="_blank" rel="sponsored nofollow noopener">
+                {p.cta ?? 'Se pris'}
+              </a>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="pc-note">Priser er vejledende og kan variere. Links er annoncer.</p>
+</div>
+
+<style>
+  .pc-wrap{margin:.5rem 0}
+  .pc-title{font-size:1.25rem;font-weight:800;letter-spacing:-.02em;margin:0 0 1rem}
+  .pc-scroll{overflow-x:auto;border:1px solid var(--border);border-radius:var(--r);box-shadow:0 1px 3px rgba(0,0,0,.07)}
+  .pc{width:100%;border-collapse:collapse;font-size:.9rem;min-width:640px}
+  .pc thead th{background:var(--dark);color:#fff;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;text-align:left;padding:.85rem 1rem}
+  .pc tbody td{padding:1rem;border-top:1px solid var(--border);vertical-align:top;color:#475569;line-height:1.55}
+  .pc tbody tr:nth-child(even){background:var(--surface)}
+  .pc-name strong{display:block;color:var(--text);font-size:.95rem;font-weight:800;letter-spacing:-.01em}
+  .pc-badge{display:inline-block;margin-top:.4rem;background:#dcfce7;color:#15803d;font-size:.66rem;font-weight:800;text-transform:uppercase;letter-spacing:.03em;padding:.2rem .55rem;border-radius:50px}
+  .pc-desc{max-width:280px}
+  .pc-rating{font-weight:700;color:var(--text);white-space:nowrap}
+  .pc-price{font-weight:700;color:var(--text);white-space:nowrap}
+  .pc-cta-cell{text-align:right}
+  .pc-cta{display:inline-block;background:var(--accent);color:#fff;font-weight:800;font-size:.82rem;padding:.55rem 1.1rem;border-radius:50px;white-space:nowrap;transition:background .15s}
+  .pc-cta:hover{background:var(--accent-dk)}
+  .pc-note{font-size:.75rem;color:var(--muted);margin:.6rem 0 0}
+</style>

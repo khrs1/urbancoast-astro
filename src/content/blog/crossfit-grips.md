@@ -5,6 +5,16 @@ pubDate: 2021-03-08
 author: "Karsten Hansen"
 category: "Træningsguides"
 image: "https://urbancoast.dk/wp-content/uploads/2021/03/crossfit-grips-til-pullups2.jpg"
+recommendationsTitle: "Bedste CrossFit grips"
+products:
+  - victory-grips-3-finger
+  - jaw-pullup-grips
+  - bear-komplex-grips
+comparison:
+  - victory-grips-3-finger
+  - jaw-pullup-grips
+  - bear-komplex-grips
+comparisonTitle: "CrossFit grips sammenlignet"
 ---
 
 Ønsker du at skåne dine håndflader, når du dyrker CrossFit? Det er et problem for mange udøvere i sporten, at de mange gentagelser i pullups og andre øvelser kan slide på håndfladen, give vabler og i værste tilfælde rive huden.

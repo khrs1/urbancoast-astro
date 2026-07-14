@@ -1,5 +1,9 @@
 ---
 import Layout from './Layout.astro';
+import ProductBox from '../components/ProductBox.astro';
+import ProductComparison from '../components/ProductComparison.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+import { getProducts } from '../data/products';
 
 interface Props {
   title: string;
@@ -8,8 +12,20 @@ interface Props {
   author: string;
   category: string;
   image?: string;
+  products?: string[];
+  comparison?: string[];
+  comparisonTitle?: string;
+  recommendationsTitle?: string;
 }
-const { title, description, pubDate, author, category, image } = Astro.props;
+const {
+  title, description, pubDate, author, category, image,
+  products = [], comparison = [], comparisonTitle, recommendationsTitle,
+} = Astro.props;
+
+const recommended = getProducts(products);
+const compare = getProducts(comparison);
+const hasAffiliate = recommended.length > 0 || compare.length > 0;
+
 const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(pubDate);
 const catSlug = category.toLowerCase().replace(/ae/g,'ae').replace(/oe/g,'oe').replace(/aa/g,'aa').replace(/\s+/g,'-');
 ---
@@ -34,11 +50,40 @@ const catSlug = category.toLowerCase().replace(/ae/g,'ae').replace(/oe/g,'oe').r
     </div>
   )}
 
+  {hasAffiliate && (
+    <div class="post-disclosure">
+      <AffiliateDisclosure />
+    </div>
+  )}
+
   <article class="post-content">
     <slot />
   </article>
 
-  <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
-    <a href="/blog" style="color:#0f3460;font-weight:600;font-size:.9rem">&#8592; Tilbage til alle indlaeg</a>
+  {compare.length > 0 && (
+    <section class="post-affiliate">
+      <ProductComparison products={compare} title={comparisonTitle ?? 'Sammenlign vores anbefalinger'} />
+    </section>
+  )}
+
+  {recommended.length > 0 && (
+    <section class="post-affiliate">
+      <h2 class="aff-heading">{recommendationsTitle ?? 'Vores anbefalinger'}</h2>
+      <div class="aff-grid">
+        {recommended.map((p) => <ProductBox product={p} />)}
+      </div>
+      <AffiliateDisclosure compact />
+    </section>
+  )}
+
+  <div class="back-link">
+    <a href="/blog">&#8592; Tilbage til alle indlaeg</a>
   </div>
 </Layout>
+
+<style>
+  .post-disclosure{max-width:740px;margin:0 auto;padding:1.5rem 1.5rem 0}
+  .post-affiliate{max-width:740px;margin:0 auto;padding:1rem 1.5rem 1.5rem}
+  .aff-heading{font-size:1.5rem;font-weight:800;letter-spacing:-.025em;margin:.5rem 0 1.25rem}
+  .aff-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,260px),1fr));gap:1.25rem;margin-bottom:1.25rem}
+</style>

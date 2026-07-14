@@ -5,6 +5,16 @@ pubDate: 2020-08-20
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
 image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
+recommendationsTitle: "Anbefalet proteinpulver"
+products:
+  - whey-protein
+  - casein-protein
+  - vegan-protein
+comparison:
+  - whey-protein
+  - casein-protein
+  - vegan-protein
+comparisonTitle: "Typer af proteinpulver sammenlignet"
 ---
 
 Proteinpulver er et af de mest populære kosttilskud på markedet. Men med så mange produkter at vælge imellem kan det være svært at navigere. Her gennemgår vi de vigtigste fakta, du bør kende.

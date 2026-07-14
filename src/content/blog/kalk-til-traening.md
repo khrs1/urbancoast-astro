@@ -5,6 +5,10 @@ pubDate: 2020-09-15
 author: "Karsten Hansen"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
+recommendationsTitle: "Anbefalet kalk til træning"
+products:
+  - liquid-chalk
+  - loose-chalk
 ---
 
 Kalk – eller magnesiumpulver – er et uundværligt hjælpemiddel for mange atleter inden for CrossFit, vægtløftning, gymnastik og klatring. Men hvad er det egentlig, og hvordan bruger du det korrekt?
