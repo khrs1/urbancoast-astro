@@ -1,5 +1,9 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
+
 export default defineConfig({
-  site: 'https://urbancoast-astro-production.up.railway.app',
+  site: 'https://urbancoast.dk',
+  integrations: [sitemap({
+    filter: (page) => !page.includes('/go/') && !page.includes('/produkter/'),
+  })],
 });
-// build v4

@@ -1,0 +1,74 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const entries = (await getCollection('glossary')).sort((a, b) => a.data.title.localeCompare(b.data.title, 'da'));
+---
+
+<Layout title="Ordbog - Fitness ordbog og glossary" description="Komplet ordbog over fitness- og træningstermer. Forstå vigtige begreber som AMRAP, DOMS, HIIT, bulk, cut og meget mere.">
+  <div class="category-hero">
+    <div class="container">
+      <h1>Ordbog</h1>
+      <p>Komplet ordbog over fitness- og træningstermer</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div class="glossary-grid">
+        {entries.map(entry => (
+          <a href={`/ordbog/${entry.slug}`} class="glossary-card">
+            <h3>{entry.data.title}</h3>
+            <p class="glossary-excerpt">{entry.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+.glossary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr));
+  gap: 1rem;
+}
+@media (max-width: 480px) {
+  .glossary-grid {
+    gap: .75rem;
+  }
+}
+.glossary-card {
+  display: block;
+  background: var(--bg);
+  border-radius: var(--r);
+  border: 1px solid var(--border);
+  padding: 1.25rem 1.5rem;
+  transition: transform .2s, box-shadow .2s, border-color .2s;
+  box-shadow: 0 1px 3px rgba(0,0,0,.07);
+}
+.glossary-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(0,0,0,.1);
+  border-color: var(--accent);
+}
+.glossary-card h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: -.01em;
+  margin-bottom: .4rem;
+}
+.glossary-card:hover h3 {
+  color: var(--accent);
+}
+.glossary-excerpt {
+  color: var(--muted);
+  font-size: .85rem;
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+</style>

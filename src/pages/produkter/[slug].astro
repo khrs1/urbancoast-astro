@@ -1,0 +1,82 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  return products.map(product => ({
+    params: { slug: product.slug },
+    props: { product },
+  }));
+}
+
+const { product } = Astro.props;
+const { Content } = await product.render();
+
+// Get related products in same category
+const allProducts = await getCollection('products');
+const related = allProducts
+  .filter(p => p.data.category === product.data.category && p.slug !== product.slug)
+  .slice(0, 4);
+---
+
+<Layout
+  title={product.data.title}
+  description={product.data.description}
+  image={product.data.image}
+  type="article"
+  publishedTime={product.data.pubDate.toISOString()}
+  author={product.data.author}
+>
+  <div class="post-header">
+    <div class="container">
+      <div style="margin-bottom:.75rem">
+        <a href="/produkter" class="badge">{product.data.category}</a>
+      </div>
+      <h1>{product.data.title}</h1>
+      <div class="post-meta">
+        <span>Af <strong>{product.data.author}</strong></span>
+        <span class="sep">·</span>
+        <span>{new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(product.data.pubDate)}</span>
+      </div>
+    </div>
+  </div>
+
+  {product.data.image && (
+    <div class="post-cover">
+      <img src={product.data.image} alt={product.data.title} />
+    </div>
+  )}
+
+  <article class="post-content">
+    <Content />
+  </article>
+
+  {related.length > 0 && (
+    <section class="section" style="padding-top:0">
+      <div class="container">
+        <h2 style="font-size:1.5rem;font-weight:800;margin-bottom:1.5rem">Relaterede produkter</h2>
+        <div class="cards-grid" style="grid-template-columns:repeat(auto-fill,minmax(min(100%,250px),1fr))">
+          {related.map(p => (
+            <ProductCard
+              name={p.data.title}
+              description={p.data.description}
+              price={p.data.price}
+              image={p.data.image}
+              affiliateId={p.data.affiliateId}
+              affiliateUrl={p.data.affiliateUrl}
+              network={p.data.network}
+              rating={p.data.rating}
+              badge={p.data.badge}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
+    <a href="/produkter" style="color:#22c55e;font-weight:600;font-size:.9rem">← Tilbage til alle produkter</a>
+  </div>
+</Layout>

@@ -8,25 +8,25 @@ const featured = posts[0];
 const recent = posts.slice(1, 7);
 
 function catSlug(cat: string) {
-  return cat.toLowerCase().replace(/[^a-z0-9]+/g, '');
+  return cat.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-');
 }
 
 const uniqueCats = [...new Set(allPosts.map(p => p.data.category))];
 
 const catMeta: Record<string, { emoji: string; desc: string }> = {
   'Kosttilskudguides': { emoji: '&#128138;', desc: 'Alt om proteinpulver, kreatin, BCAA og andre kosttilskud.' },
-  'Proteinopskrifter': { emoji: '&#129367;', desc: 'Sunde og laekre proteinrige opskrifter.' },
-  'Artikler': { emoji: '&#128240;', desc: 'Dybdegaaende artikler om fitness og sund livsstil.' },
+  'Proteinopskrifter': { emoji: '&#129367;', desc: 'Sunde og lækre proteinrige opskrifter.' },
+  'Artikler': { emoji: '&#128240;', desc: 'Dybdgående artikler om fitness og sund livsstil.' },
 };
-const defaultCatMeta = { emoji: '&#127947;', desc: 'Teknikguides til squat, baenkpres og meget mere.' };
+const defaultCatMeta = { emoji: '&#127947;', desc: 'Teknikguides til squat, bænkpres og meget mere.' };
 ---
-<Layout title="UrbanCoast.dk | Vejledning, Tests & Guides til traening & kost">
+<Layout title="UrbanCoast.dk | Vejledning, Tests & Guides til træning & kost">
 
 <section class="hero">
 <div class="container">
-<h1>Din guide til<br/>traening & kost</h1>
-<p>Uvildig vejledning, tests og guides til kosttilskud, traeningsudstyr og en aktiv livsstil.</p>
-<a href="/blog" class="hero-btn">Laes alle guides &#8594;</a>
+<h1>Din guide til<br/>træning & kost</h1>
+<p>Uvildig vejledning, tests og guides til kosttilskud, træningsudstyr og en aktiv livsstil.</p>
+<a href="/blog" class="hero-btn">Læs alle guides &#8594;</a>
 </div>
 </section>
 
@@ -51,7 +51,7 @@ const defaultCatMeta = { emoji: '&#127947;', desc: 'Teknikguides til squat, baen
 <section class="section">
 <div class="container">
 <div class="section-header">
-<h2>Seneste indlaeg</h2>
+<h2>Seneste indlæg</h2>
 <a href="/blog">Se alle &#8594;</a>
 </div>
 <div class="featured-post">
@@ -67,7 +67,7 @@ const defaultCatMeta = { emoji: '&#127947;', desc: 'Teknikguides til squat, baen
 <div style="font-size:.8rem;color:var(--muted);margin-top:.25rem">
 Af {featured.data.author} &#183; {new Intl.DateTimeFormat('da-DK',{year:'numeric',month:'long',day:'numeric'}).format(featured.data.pubDate)}
 </div>
-<a href={'/blog/' + featured.slug} class="read-more">Laes guide &#8594;</a>
+<a href={'/blog/' + featured.slug} class="read-more">Læs guide &#8594;</a>
 </div>
 </div>
 </div>

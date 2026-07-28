@@ -1,0 +1,10 @@
+---
+title: "Hvad er KALORIEUNDERSKUD?"
+description: "Kalorieunderskud er at komme under ens ligevægtsindtag for at tabe sig. Man indtager med andre ord mindre kalorier for at mindske sin vægt, da kroppen vil begynde at forbrænde fedtdepoter i stedet...."
+pubDate: 2018-06-05
+author: "Karsten Hansen"
+category: "Ordbog"
+tags: ["KALORIEUNDERSKUD"]
+---
+
+Kalorieunderskud er at komme under ens ligevægtsindtag for at tabe sig. Man indtager med andre ord mindre kalorier for at mindske sin vægt, da kroppen vil begynde at forbrænde fedtdepoter i stedet. Er man i et mindre kalorieunderskud vil man primært forbrænde fedt. Er man i et stort kalorieunderskud vil man miste både fedt og-muskelmasse. En tommelfingerregel er, hvis du spiser dig til et kalorieunderskud på 500 kalorier hver dag, så vil du tabe dig ca. 500 gram pr. uge.

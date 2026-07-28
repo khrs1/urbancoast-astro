@@ -1,0 +1,185 @@
+---
+interface Props {
+  name: string;
+  description?: string;
+  price?: string;
+  image?: string;
+  affiliateId?: string;
+  affiliateUrl?: string;
+  network?: 'partner-ads' | 'adtraction' | 'direct';
+  rating?: number;
+  badge?: string;
+}
+
+const {
+  name,
+  description,
+  price,
+  image,
+  affiliateId,
+  affiliateUrl,
+  network = 'partner-ads',
+  rating,
+  badge,
+} = Astro.props;
+
+// Build the affiliate link based on network
+let href = '#';
+if (affiliateUrl) {
+  href = affiliateUrl;
+} else if (affiliateId) {
+  switch (network) {
+    case 'partner-ads':
+      href = `https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=${affiliateId}`;
+      break;
+    case 'adtraction':
+      href = `https://track.adtraction.com/t/t?a=1234567&as=1234567&p=${affiliateId}`;
+      break;
+    case 'direct':
+      href = `/go/?id=${affiliateId}`;
+      break;
+  }
+}
+---
+
+<div class="product-card" itemscope itemtype="https://schema.org/Product">
+  {image && (
+    <div class="product-img">
+      <a href={href} rel="nofollow sponsored" target="_blank" aria-label={`Køb ${name} hos forhandler`}>
+        <img src={image} alt={name} loading="lazy" width="300" height="300" itemprop="image" />
+      </a>
+    </div>
+  )}
+  <div class="product-body">
+    {badge && <span class="product-badge">{badge}</span>}
+    <h3 class="product-name" itemprop="name">{name}</h3>
+    {description && <p class="product-desc" itemprop="description">{description}</p>}
+    {rating !== undefined && (
+      <div class="product-rating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+        <span class="stars" aria-label={`Rating: ${rating} ud af 5`}>
+          {Array.from({ length: 5 }).map((_, i) => (
+            <span class={i < Math.round(rating) ? 'star filled' : 'star'} aria-hidden="true">★</span>
+          ))}
+        </span>
+        <meta itemprop="ratingValue" content={String(rating)} />
+        <meta itemprop="bestRating" content="5" />
+      </div>
+    )}
+    {price && (
+      <div class="product-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+        <span class="price">{price}</span>
+        <meta itemprop="price" content={price.replace(/[^\d.,]/g, '')} />
+        <meta itemprop="priceCurrency" content="DKK" />
+      </div>
+    )}
+    <a
+      href={href}
+      rel="nofollow sponsored"
+      target="_blank"
+      class="product-btn"
+      aria-label={`Køb ${name} hos forhandler`}
+    >
+      Køb hos forhandler →
+    </a>
+  </div>
+</div>
+
+<style>
+.product-card {
+  background: #fff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07);
+  height: 100%;
+}
+.product-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+}
+.product-img {
+  aspect-ratio: 1;
+  overflow: hidden;
+  background: #f1f5f9;
+}
+.product-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s;
+}
+.product-card:hover .product-img img {
+  transform: scale(1.05);
+}
+.product-body {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+.product-badge {
+  display: inline-block;
+  background: #22c55e;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 50px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  width: fit-content;
+}
+.product-name {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #0f172a;
+}
+.product-desc {
+  font-size: 0.85rem;
+  color: #64748b;
+  line-height: 1.5;
+  flex: 1;
+}
+.product-rating {
+  margin: 0.25rem 0;
+}
+.stars {
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+}
+.star {
+  color: #e2e8f0;
+}
+.star.filled {
+  color: #f59e0b;
+}
+.product-price {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0.25rem 0;
+}
+.product-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #22c55e;
+  color: #fff;
+  padding: 0.7rem 1rem;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  text-decoration: none;
+  transition: background 0.15s;
+  margin-top: auto;
+  cursor: pointer;
+}
+.product-btn:hover {
+  background: #16a34a;
+}
+</style>

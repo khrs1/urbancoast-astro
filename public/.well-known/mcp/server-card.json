@@ -1,0 +1,36 @@
+{
+  "serverInfo": {
+    "name": "UrbanCoast.dk",
+    "version": "1.0.0"
+  },
+  "description": "Dansk website med vejledning, tests og guides til træning, kosttilskud og en aktiv livsstil. Vi anmelder kosttilskud, træningsudstyr og fitnessprodukter.",
+  "transport": {
+    "type": "webmcp",
+    "endpoint": "https://urbancoast.dk/mcp/"
+  },
+  "capabilities": {
+    "tools": true
+  },
+  "tools": [
+    {
+      "name": "search_posts",
+      "description": "Søg i blog indlæg på UrbanCoast.dk efter søgeord. Søger i titel, beskrivelse og tags. Returnerer op til 20 resultater sorteret efter dato."
+    },
+    {
+      "name": "get_post",
+      "description": "Hent det fulde indhold af et specifikt blog indlæg via dets slug. Returnerer titel, beskrivelse, datoer, tags og markdown indhold."
+    },
+    {
+      "name": "list_posts",
+      "description": "Vis alle publicerede blog indlæg på UrbanCoast.dk med titler, slugs, URL'er, datoer, beskrivelser og tags. Sorteret efter dato."
+    },
+    {
+      "name": "get_site_info",
+      "description": "Hent information om UrbanCoast.dk, forfattere og emner der dækkes."
+    },
+    {
+      "name": "search_glossary",
+      "description": "Søg i fitness ordbogen efter terminologi og definitioner."
+    }
+  ]
+}

@@ -1,14 +1,32 @@
 ---
-interface Props { title: string; description?: string; }
-const { title, description = "Vejledning, Tests & Guides til traening & kost" } = Astro.props;
+import SEO from '../components/SEO.astro';
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  publishedTime?: string;
+  modifiedTime?: string;
+  author?: string;
+  canonical?: string;
+}
+const { title, description = "Vejledning, Tests & Guides til træning & kost", image, type = 'website', publishedTime, modifiedTime, author, canonical } = Astro.props;
 ---
 <!doctype html>
 <html lang="da">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content={description} />
-<title>{title} | UrbanCoast.dk</title>
+<SEO
+  title={title}
+  description={description}
+  image={image}
+  type={type}
+  publishedTime={publishedTime}
+  modifiedTime={modifiedTime}
+  author={author}
+  canonical={canonical}
+/>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
@@ -115,56 +133,34 @@ nav a:hover{color:#fff}
 .footer-col p{font-size:.85rem;line-height:1.65}
 .footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:1.5rem;font-size:.8rem;text-align:center}
 </style>
-<style>
-#pw-gate{position:fixed;inset:0;background:#0a0f1e;display:flex;align-items:center;justify-content:center;z-index:9999;flex-direction:column;gap:1.5rem}
-#pw-gate h2{color:#fff;font-size:1.5rem;font-weight:800;font-family:'Inter',sans-serif}
-#pw-gate input{padding:.75rem 1.25rem;border-radius:8px;border:2px solid #22c55e;background:#111827;color:#fff;font-size:1rem;width:260px;outline:none;font-family:'Inter',sans-serif}
-#pw-gate button{background:#22c55e;color:#0a0f1e;font-weight:800;padding:.75rem 2rem;border-radius:8px;border:none;cursor:pointer;font-size:1rem;font-family:'Inter',sans-serif}
-#pw-gate .err{color:#ef4444;font-size:.85rem;display:none}
-</style>
 </head>
 <body>
-<div id="pw-gate">
-<h2>Urban<span style="color:#22c55e">Coast</span>.dk</h2>
-<input type="password" id="pw-input" placeholder="Adgangskode" />
-<button onclick="checkPw()">Fortsaet</button>
-<span class="err" id="pw-err">Forkert adgangskode</span>
-</div>
-<script is:inline>
-(function(){
-if(sessionStorage.getItem('uc_auth')==='ok'){document.getElementById('pw-gate').style.display='none';}
-document.getElementById('pw-input').addEventListener('keydown',function(e){if(e.key==='Enter')checkPw();});
-})();
-function checkPw(){
-var v=document.getElementById('pw-input').value;
-if(v==='rainbow696969'){sessionStorage.setItem('uc_auth','ok');document.getElementById('pw-gate').style.display='none';}
-else{document.getElementById('pw-err').style.display='block';}
-}
-</script>
-<header class="site-header">
+<header class="site-header" role="banner">
 <div class="header-inner">
-<a href="/" class="logo">Urban<span>Coast</span>.dk</a>
-<nav>
+<a href="/" class="logo" aria-label="UrbanCoast.dk forside">Urban<span>Coast</span>.dk</a>
+<nav aria-label="Hovednavigation">
 <a href="/">Forside</a>
 <a href="/blog">Blog</a>
-<a href="/kategori/Tr%C3%A6ningsguides">Traening</a>
+<a href="/produkter">Produkter</a>
+<a href="/ordbog">Ordbog</a>
+<a href="/kategori/Træningsguides">Træning</a>
 <a href="/kategori/Kosttilskudguides">Kosttilskud</a>
-<a href="/kategori/Proteinopskrifter">Opskrifter</a>
 </nav>
-<button class="nav-toggle" onclick="document.getElementById('mm').classList.toggle('open')" aria-label="Menu">
-<svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+<button class="nav-toggle" onclick="document.getElementById('mm').classList.toggle('open')" aria-label="Åbn menu" aria-expanded="false">
+<svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
 </button>
 </div>
-<div class="mobile-menu" id="mm">
-<a href="/">Forside</a>
-<a href="/blog">Blog</a>
-<a href="/kategori/Tr%C3%A6ningsguides">Traening</a>
-<a href="/kategori/Kosttilskudguides">Kosttilskud</a>
-<a href="/kategori/Proteinopskrifter">Opskrifter</a>
+<div class="mobile-menu" id="mm" role="menu" aria-label="Mobil menu">
+<a href="/" role="menuitem">Forside</a>
+<a href="/blog" role="menuitem">Blog</a>
+<a href="/produkter" role="menuitem">Produkter</a>
+<a href="/ordbog" role="menuitem">Ordbog</a>
+<a href="/kategori/Træningsguides" role="menuitem">Træning</a>
+<a href="/kategori/Kosttilskudguides" role="menuitem">Kosttilskud</a>
 </div>
 </header>
-<main><slot /></main>
-<footer class="site-footer">
+<main role="main" id="main-content"><slot /></main>
+<footer class="site-footer" role="contentinfo">
 <div class="container">
 <div class="footer-grid">
 <div class="footer-col">
@@ -174,7 +170,10 @@ else{document.getElementById('pw-err').style.display='block';}
 <div class="footer-col">
 <h4>Kategorier</h4>
 <ul>
-<li><a href="/kategori/Tr%C3%A6ningsguides">Traening</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/produkter">Produkter</a></li>
+<li><a href="/ordbog">Ordbog</a></li>
+<li><a href="/kategori/Træningsguides">Træning</a></li>
 <li><a href="/kategori/Kosttilskudguides">Kosttilskud</a></li>
 <li><a href="/kategori/Proteinopskrifter">Opskrifter</a></li>
 <li><a href="/kategori/Artikler">Artikler</a></li>
@@ -198,7 +197,7 @@ else{document.getElementById('pw-err').style.display='block';}
 </div>
 </div>
 <div class="footer-bottom">
-<p>&#169; {new Date().getFullYear()} UrbanCoast.dk | Vejledning & Guides til traening & kost</p>
+<p>&#169; {new Date().getFullYear()} UrbanCoast.dk | Vejledning & Guides til træning & kost</p>
 </div>
 </div>
 </footer>

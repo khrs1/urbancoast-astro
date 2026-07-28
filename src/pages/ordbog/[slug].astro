@@ -1,0 +1,46 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('glossary');
+  return entries.map(entry => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(entry.data.pubDate);
+---
+
+<Layout
+  title={entry.data.title + " - Ordbog"}
+  description={entry.data.description}
+  type="article"
+  publishedTime={entry.data.pubDate.toISOString()}
+  author={entry.data.author}
+>
+  <div class="post-header">
+    <div class="container">
+      <div style="margin-bottom:.75rem">
+        <a href="/ordbog" class="badge">Ordbog</a>
+      </div>
+      <h1>{entry.data.title}</h1>
+      <div class="post-meta">
+        <span>Af <strong>{entry.data.author}</strong></span>
+        <span class="sep">&#183;</span>
+        <span>{formattedDate}</span>
+      </div>
+    </div>
+  </div>
+
+  <article class="post-content">
+    <Content />
+  </article>
+
+  <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
+    <a href="/ordbog" style="color:#0f3460;font-weight:600;font-size:.9rem">&#8592; Tilbage til ordbog</a>
+  </div>
+</Layout>

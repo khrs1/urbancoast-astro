@@ -1,0 +1,45 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { getCollection } from 'astro:content';
+
+const products = (await getCollection('products')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const categories = [...new Set(products.map(p => p.data.category))];
+---
+
+<Layout title="Produktanmeldelser" description="Anmeldelser af kosttilskud, træningsudstyr og fitnessprodukter fra UrbanCoast.dk">
+  <div class="category-hero">
+    <div class="container">
+      <h1>Produktanmeldelser</h1>
+      <p>Anmeldelser af kosttilskud, træningsudstyr og fitnessprodukter</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      {categories.map(cat => (
+        <div style="margin-bottom:2.5rem">
+          <h2 style="font-size:1.5rem;font-weight:800;margin-bottom:1.5rem">{cat}</h2>
+          <div class="cards-grid" style="grid-template-columns:repeat(auto-fill,minmax(min(100%,250px),1fr))">
+            {products.filter(p => p.data.category === cat).map(product => (
+              <ProductCard
+                name={product.data.title}
+                description={product.data.description}
+                price={product.data.price}
+                image={product.data.image}
+                affiliateId={product.data.affiliateId}
+                affiliateUrl={product.data.affiliateUrl}
+                network={product.data.network}
+                rating={product.data.rating}
+                badge={product.data.badge}
+              />
+            ))}
+          </div>
+        </div>
+      ))}
+      {products.length === 0 && (
+        <p style="color:#64748b;text-align:center;padding:3rem 0">Ingen produkter endnu. Kommer snart!</p>
+      )}
+    </div>
+  </section>
+</Layout>

@@ -1,0 +1,20 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "UrbanCoast.dk",
+    "identifier": "did:web:urbancoast.dk",
+    "documentationUrl": "https://urbancoast.dk/llms.txt"
+  },
+  "entries": [
+    {
+      "identifier": "urn:ai:urbancoast.dk:server:blog-mcp",
+      "displayName": "UrbanCoast.dk MCP Server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://urbancoast.dk/.well-known/mcp/server-card.json",
+      "representativeQueries": [
+        "find an MCP server that can search a Danish fitness blog about supplements and training"
+      ],
+      "version": "1.0.0"
+    }
+  ]
+}

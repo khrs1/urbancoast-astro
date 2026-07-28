@@ -11,9 +11,16 @@ interface Props {
 }
 const { title, description, pubDate, author, category, image } = Astro.props;
 const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(pubDate);
-const catSlug = category.toLowerCase().replace(/ae/g,'ae').replace(/oe/g,'oe').replace(/aa/g,'aa').replace(/\s+/g,'-');
+const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-');
 ---
-<Layout title={title} description={description}>
+<Layout
+  title={title}
+  description={description}
+  image={image}
+  type="article"
+  publishedTime={pubDate.toISOString()}
+  author={author}
+>
   <div class="post-header">
     <div class="container">
       <div style="margin-bottom:.75rem">
@@ -39,6 +46,6 @@ const catSlug = category.toLowerCase().replace(/ae/g,'ae').replace(/oe/g,'oe').r
   </article>
 
   <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
-    <a href="/blog" style="color:#0f3460;font-weight:600;font-size:.9rem">&#8592; Tilbage til alle indlaeg</a>
+    <a href="/blog" style="color:#0f3460;font-weight:600;font-size:.9rem">&#8592; Tilbage til alle indlæg</a>
   </div>
 </Layout>

@@ -1,0 +1,61 @@
+---
+// Affiliate redirect page - replaces the WordPress /go/?id=... redirect system
+// Supports Partner Ads and Adtraction affiliate networks
+
+interface AffiliateLink {
+  id: string;
+  url: string;
+  network: 'partner-ads' | 'adtraction' | 'direct';
+}
+
+// Affiliate link mapping - update with your actual affiliate links
+const affiliateLinks: Record<string, string> = {
+  // Partner Ads links (Bodyman, Bodylab, etc.)
+  'flydende-kalk': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-flydende-kalk-16402p.html',
+  'kalkblokke': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-kalk-magnesium-16432p.html',
+  // Bodylab
+  'bodylab-protein': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=bodylab',
+  // MyProtein
+  'myprotein-protein': 'https://www.awin1.com/cread.php?awinmid=12345&awinaffid=602713&clickref=myprotein&p=https://www.myprotein.dk',
+  // BulkPowders
+  'bulkpowders-protein': 'https://www.awin1.com/cread.php?awinmid=12345&awinaffid=602713&clickref=bulkpowders',
+  // BFR Pro
+  'bfr-straps': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=bfr-straps',
+  'bfr-glutebuilder': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=bfr-glutebuilder',
+  // Victory Grips
+  'victory-grips-3-finger': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=victory-grips-3-finger',
+  'jaw-pullup-grips': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=jaw-pullup-grips',
+  // LinusPro
+  'linuspro-protein': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=linuspro-protein',
+  'linuspro-kreatin': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=linuspro-kreatin',
+  'linuspro-oeko-protein': 'https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=linuspro-oeko-protein',
+};
+
+const url = new URL(Astro.request.url);
+const affiliateId = url.searchParams.get('id');
+
+const redirectUrl = affiliateId ? affiliateLinks[affiliateId] : null;
+---
+
+{redirectUrl ? (
+  <script is:inline define:{{ redirectUrl }}>
+    window.location.href = redirectUrl;
+  </script>
+) : (
+  <script is:inline>
+    window.location.href = '/';
+  </script>
+)}
+
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Viderestilling...</title>
+</head>
+<body>
+<p>Omdirigerer dig til forhandleren...</p>
+<p>Hvis du ikke omdirigeres automatisk, <a href="/">klik her</a>.</p>
+</body>
+</html>

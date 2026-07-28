@@ -1,0 +1,36 @@
+# UrbanCoast.dk
+
+> Dansk website med vejledning, tests og guides til træning, kosttilskud og en aktiv livsstil. Vi anmelder kosttilskud, træningsudstyr og fitnessprodukter med affiliate links via Partner Ads og Adtraction.
+
+## Blog indlæg
+
+- [Fakta om proteinpulver](https://urbancoast.dk/blog/proteinpulver-fakta): Alt om proteinpulver, typer og hvornår du skal bruge det.
+- [Hvad er en kreatin kur?](https://urbancoast.dk/blog/hvad-er-en-kreatin-kur): Forklarer hvad en kreatin kur er og hvordan man praktiserer det.
+- [Okklusionstræning: Den store guide](https://urbancoast.dk/blog/okklusionstraening-den-store-guide): Komplet guide til okklusionstræning og KAATSU.
+- [Squats: Stor Guide til Squat-teknik](https://urbancoast.dk/blog/squats-guide): Guide til korrekt squat teknik med highbar og lowbar.
+- [Stor guide til Bænkpres teknik](https://urbancoast.dk/blog/baenkpres): Guide til korrekt bænkpres teknik.
+- [Dødløft Guide](https://urbancoast.dk/blog/doedloeft): Guide til konventionel dødløft teknik.
+- [Rumænsk dødløft](https://urbancoast.dk/blog/rumaensk-doedloeft): Guide til rumænsk dødløft med video.
+- [Lunges: Sådan laver du dem](https://urbancoast.dk/blog/lunges-guide): Guide til korrekt lunge teknik.
+- [Kalk til træning](https://urbancoast.dk/blog/kalk-til-traening): Flydende kalk vs. kalkpulver - fordele og ulemper.
+- [CrossFit grips & Pull up grips](https://urbancoast.dk/blog/crossfit-grips): Anmeldelse af Victory Grips og JAW Pull-up Grips.
+- [Sådan undgår du hård hud fra CrossFit](https://urbancoast.dk/blog/hard-hud-crossfit): Tips til at undgå hård hud og vabler fra træning.
+- [Hvad er styrketræning?](https://urbancoast.dk/blog/hvad-er-styrketraening): Introduktion til styrketræning for begyndere.
+- [Falafel opskrift](https://urbancoast.dk/blog/falafel-opskrift): Sund og proteinrig falafel opskrift.
+- [Proteinpandekager](https://urbancoast.dk/blog/proteinpandekager): Nem opskrift på pandekager med proteinpulver.
+- [10 punkter til et hurtigt vægttab](https://urbancoast.dk/blog/10-punkter-til-et-hurtigt-vaegttab): 10 nemme råd til vægttab.
+- [Sådan påvirker alkohol din træning](https://urbancoast.dk/blog/saadan-paavirker-alkohol-din-traening): Hvordan alkohol påvirker din styrketræning.
+- [Undgå skader ved træning](https://urbancoast.dk/blog/saadan-undgaar-du-skader): Tips til at undgå træningsskader.
+- [Kcal til kJ](https://urbancoast.dk/blog/kcal-til-kj): Forklaring af kalorier og kiloJoule med omregning.
+- [Hvorfor skal man dyrke motion?](https://urbancoast.dk/blog/hvorfor-skal-man-dyrke-motion): Fordelene ved motion og træning.
+- [Hvad skal man spise efter OCR?](https://urbancoast.dk/blog/hvad-skal-man-spise-efter-ocr): Kost og ernæring efter OCR løb.
+- [Din Guide til Løbesko](https://urbancoast.dk/blog/din-guide-til-loebesko): Guide til køb af løbesko og pronation.
+- [Sund Kostplan](https://urbancoast.dk/blog/sund-kostplan): Gratis og nem kostplan med sundhed.
+
+## Ordbog (Fitness terminologi)
+
+- [Fitness ordbog](https://urbancoast.dk/ordbog): Ordbog over fitness- og styrketræningsterminologi.
+
+## Om os
+
+- [Om UrbanCoast.dk](https://urbancoast.dk/om-urbancoast-dk/): Læs mere om UrbanCoast.dk og vores hold.

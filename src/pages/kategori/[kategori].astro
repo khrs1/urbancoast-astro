@@ -14,13 +14,13 @@ export async function getStaticPaths() {
 const { category, posts } = Astro.props;
 
 function catSlug(cat: string) {
-  return cat.toLowerCase().replace(/ae/g,'ae').replace(/oe/g,'oe').replace(/aa/g,'aa').replace(/\s+/g,'-');
+  return cat.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-');
 }
 
 const catDescriptions: Record<string, string> = {
-  'Traeniingsguides': 'Dybdegaaende guides til korrekt teknik i squat, doedloeft, baenkpres, lunges og meget mere.',
-  'Kosttilskudguides': 'Alt du behoever at vide om proteinpulver, kreatin, BCAA, pre-workout og andre kosttilskud.',
-  'Proteinopskrifter': 'Laekre og sunde opskrifter med hoejt proteinindhold – perfekt til aktive mennesker.',
+  'Træningsguides': 'Dybdgående guides til korrekt teknik i squat, dødløft, bænkpres, lunges og meget mere.',
+  'Kosttilskudguides': 'Alt du behøver at vide om proteinpulver, kreatin, BCAA, pre-workout og andre kosttilskud.',
+  'Proteinopskrifter': 'Lækre og sunde opskrifter med højt proteinindhold – perfekt til aktive mennesker.',
   'Artikler': 'Informative artikler om fitness, kost og en sund aktiv livsstil.',
 };
 ---
@@ -35,7 +35,7 @@ const catDescriptions: Record<string, string> = {
 
   <section class="section">
     <div class="container">
-      <p style="color:#6b7280;margin-bottom:1.5rem;font-size:.9rem">{posts.length} indlaeg i {category}</p>
+      <p style="color:#6b7280;margin-bottom:1.5rem;font-size:.9rem">{posts.length} indlæg i {category}</p>
       <div class="cards-grid">
         {posts.map(post => (
           <div class="card">

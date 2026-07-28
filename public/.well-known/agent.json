@@ -1,0 +1,7 @@
+{
+  "name": "UrbanCoast.dk Blog Agent",
+  "description": "Svarer på spørgsmål om træning, kosttilskud og fitness indhold fra UrbanCoast.dk.",
+  "endpoint": "https://urbancoast.dk/api/agent/",
+  "capabilities": ["search", "summarise", "answer-questions"],
+  "version": "0.1.0"
+}
