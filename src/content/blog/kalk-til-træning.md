@@ -7,48 +7,67 @@ category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 ---
 
-Kalk – eller magnesiumpulver – er et uundværligt hjælpemiddel for mange atleter inden for CrossFit, vægtløftning, gymnastik og klatring. Men hvad er det egentlig, og hvordan bruger du det korrekt?
+Denne artikel indeholder affiliate links
 
-## Hvad er kalk?
+### Hvad bruges kalk til under træning?
 
-Kalk til træning er magnesiumkarbonat (MgCO₃), et hvidt pulver, der absorberer sved og fugt fra hænderne. Det skaber et tørrere greb og reducerer dermed risikoen for at miste grebet om vægtstangen eller klatrevæggen.
+Hvis du har tendens til at få svedige håndflader under træning, kan det være svært at bevare et stærkt greb om vægtstangen, eller håndvægtene. Dette er naturligvis frustrerende under løft som f.eks. dødløft, hvor man er meget afhængig af grebet om vægtstangen for at komme i mål med dagens træning.
 
-Det skal ikke forveksles med husholdningskalk (kalciumhydroxid), som er et helt andet stof.
+### Kalk står klar som din redning
 
-## Hvornår bruger man kalk?
+Til CrossFit er der en lang række fordele ved at bruge kalk og du vil ofte være direkte afhængig af kalk i visse løft under en WOD. CrossFit kombineres ofte med træning med høj intensitet, så pulsen kommer op og sveden begynder at pible frem. Kalk er også gavnligt inden for bodybuilding, eller styrkeløft, hvor det kan bidrage til at nå nye rekorder inden for dine løft. Visse sportsgrene, som f.eks. klatring, eller bouldering, er man nødsaget til at bruge kalk hyppigt for at bevare sit greb på sten og andre grebsflader. Hvis du dyrker klatresport, er det nærmest umuligt at dygtiggøre sig uden brugen af kalk.
 
-Kalk er specielt nyttigt ved:
+### Kalk til klatring og bouldering
 
-- **Dødløft og olympisk vægtløftning** – Når du løfter tung vægt og ikke vil have straps
-- **Pull-ups og gymnastikelementer** – Kip pull-ups, muscle-ups og toes-to-bar
-- **Klatring** – Sportsklatring og bouldering
-- **Kettlebell-svingninger** – Forhindrer gnidning
+Produkterne vi gennemgår herunder er også anvendelige i din lokale klatreklub, eller til bouldering. Det er præcist det samme materiale som de kalkprodukter man bruger til fitness og træning. Det skal dog nævnes at der kan være en mindre forskel på de kalktyper man bruges til hhv. indendørs og udendørs klatring. Hvis du bruger en kalkbold, så skal bruge pulverkalk for at genfylde disse, da dette er finere i teksturen.
 
-## Typer af kalk
+### Hvilke typer for kalk findes der?
 
-### Løst pulver
+### Kalkpulver, eller magnesium
 
-Den klassiske form. Billigst og mest effektivt, men skaber støv og er ofte forbudt i mange fitnesscentre.
+#### Fordele:
 
-### Kalkblok
+Kalkpulver er den mest brugte type kalk til powerlifting, stærkmandsstævner, styrkeløft og andre discipliner, hvor man skal løfte meget tung vægt – og det er der en grund til. Langt de fleste oplever at man kan forbedre sine løft drastisk ved at bruge kalkpulver og dette er den bedste type kalk til styrkeløft.
 
-Komprimeret kalk i blokform. Lettere at dosere og skaber mindre rod end løst pulver.
+#### Ulemper:
+
+Kalkpulver er det produkt, der sviner mest. Det støver meget og man skal til tider blot kigge på posen med kalk og så står der en sky op ad den. En anden ulempe er at det ofte er forbudt at bruge pulverkalk i kommercielle fitnesscentre som Fitness World, SATS osv.
+
+### Huskeregler til brugen af kalk
+
+- Nogle oplever at deres hud bliver irriteret af kalk, så selvom du måske ikke har problemer med dette, så kan den næste, der skal bruge udstyret i træningscenteret have det. Rengør derfor altid udstyret, specielt hvis du er i fitnesscenter, som er en del af en kæde, hvor mange forskellige mennesker træner.
+- VI anbefaler du køber en beholder til kalk, eller bruger en plasticpose til at have det i, så du minimere, hvor meget du sviner.
+- Kalk kan være besværligt at få af tøjet og selvom man ikke selv har et problem med at få kalk på tøjet kan andre brugere i fitnesscenteret have det. Så ryd op efter dig selv, hvis du er i et center, hvor det ikke er normen at alle bruger kalk.
 
 ### Flydende kalk
 
-Kalk opløst i alkohol. Påføres som creme og tørrer til et tyndt lag. Mest fitnesscenter-venlig og skaber ikke støv.
+[![flydende kalk til træning og vægtløftning](https://urbancoast.dk/wp-content/uploads/2020/05/MEGAGRIP-LIQUID-CHALK-250-ML.jpg)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-flydende-kalk-16402p.html)
 
-### Kalkpose (chalk bag)
+[Køb flydende kalk hos Bodyman her](https://urbancoast.dk/go/?id=flydende-kalk)
 
-En lille pose med løst kalk, der bruges inden for klatring og gymnastikelementer. Hænges i bæltet under aktiviteten.
+Flydende kalk er magnesiumkarbonat og er et naturligt produkt ligesom pulverkalk.
 
-## Korrekt brug af kalk
+#### Fordele:
 
-1. Brug en lille mængde – for meget kalk øger faktisk friktionen
-2. Gnid det godt ind i håndfladen og på fingrene
-3. Pas på at tørre kalken af, når du er færdig med at træne
-4. Kalk erstatter ikke god teknik – det er et supplement, ikke en løsning
+Flydende kalk holder meget bedre end pulverkalk og det betyder du ikke behøver at bruge det samme mængder. Produktet støver ikke nær lige så meget som pulverkalk. Flydende kalk er ofte også tilladt i danske træningscentre, hvor pulverkalk ofte er bandlyst.
 
-## Kalk og hård hud
+#### Ulemper:
 
-Interessant nok kan for meget kalk faktisk forværre problemet med hård hud. Kalk tørrer huden ud og gør den mere tilbøjelig til at revne. Brug det med omtanke og fugt hænderne efter træning.
+Flydende kalk er ofte lidt dyrere end pulverkalk og nogle brugere oplever deres hænder udtørres mere af flydende kalk. Nogle styrkeløftere oplever ikke flydende kalk kan give samme grebsstyrke som pulverkalk.
+
+### Kalkblokke
+
+[![Kalkblokke til fitness, klatring og træning](https://urbancoast.dk/wp-content/uploads/2020/05/bmchackpic2.jpg)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-kalk-magnesium-16432p.html)
+
+[Køb kalkblokke hos Bodyman her](https://urbancoast.dk/go/?id=kalkblokke)
+
+Blokkalk er blot pulverkalk, som er presset hårdt sammen. Dette er ofte brugt i træningscentre, da blokkalk ikke sviner i samme grad som pulverkalk hurtigt kan komme til. Blokkalk tillader også man minimerer hvor meget kalk man får på hænderne.
+
+#### Fordele:
+
+Sviner ikke så meget og er mere transportabelt. Man kan sagtens have en pose med en kalkblok i træningstasken, som man kan bruge af og til. Det er nemmere at styre, hvor meget kalk man får på hænderne, da man blot gnider kalkblokken. Du kan også blot knuse blokken i en pose og så har du kalkpulver, hvis du er usikker på om du ønsker en blok, eller pulverform.
+
+#### Ulemper:
+
+Blokkalk sviner stadig mere end flydende kalk og flere større kommercielle træningscentre tillader ikke brug af denne type kalk. Det er sværere at dække hænderne med kalk fra blokkalk end ved pulverformen. Det er dog en smagssag, hvor meget kalk man ønsker på hænderne.
+

@@ -7,49 +7,79 @@ category: "Kosttilskudguides"
 image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 ---
 
-Proteinpulver er et af de mest populære kosttilskud på markedet. Men med så mange produkter at vælge imellem kan det være svært at navigere. Her gennemgår vi de vigtigste fakta, du bør kende.
+# Fakta om proteinpulver
 
-## Hvad er proteinpulver?
+Proteinpulver er et af de mest populære kosttilskud på markedet, og det bruges oftest i forbindelse med styrketræning og sport. Langt de fleste anvender proteintilskud i håb om at danne muskelmasse og/eller for at optimere restitution af kroppens muskler. Protein er nemlig grundstenen for muskelvækst, og derfor er det fuldstændigt essentielt at indtage tilstrækkelige mængder, hvis man vil udbygge kroppens muskelmasse. Samtidig nedbryder kroppen protein under træning, og man har altså også et øget behov, når musklerne skal restituere efter fysisk aktivitet. Der findes flere forskellige typer af proteinpulver, både animalske og vegetabilske udgaver, hvilket du kan læse mere om nedenfor.
 
-Proteinpulver er en koncentreret proteinkilde, der typisk er fremstillet af valle (whey), kasein, æg, soja eller ærter. Det bruges primært til at øge dit daglige proteinindtag, særligt hvis du har svært ved at nå dit mål gennem mad alene.
+## Fakta om forskellige typer af proteinpulver
 
-## De vigtigste typer
+### Valle proteinpulver fakta
 
-### Whey protein (valleiprotein)
+”Whey protein”, eller på dansk ”valle protein”
+(animalsk mælkeprotein), er den mest udbredte type af proteinpulver. Denne type
+har ikke alene et højt proteinindhold, men er samtidig en komplet kilde til
+protein. Valle protein indeholder nemlig alle de essentielle aminosyrer (dem
+kroppen ikke selv kan danne), hvilket er en forudsætning for muskelopbygning.
+Derudover er det en rigtig god kilde til BCAA (forgrenede aminosyrer), som er
+vigtige aminosyrer i forbindelse med muskelvækst. Et andet kendetegn er, at valle
+anses som et hurtigt protein. Det betyder, at det optages i kroppen kort efter
+indtagelse og dermed hurtigt bliver tilgængeligt i musklerne.
 
-Det mest populære valg. Fremstilles som et biprodukt ved fremstilling af ost. Absorberes hurtigt og indeholder alle essentielle aminosyrer.
+![fakta om proteinpulver artikel - billede af linuspro basic 1 kg pose](https://urbancoast.dk/wp-content/uploads/2018/02/Linus-Basic-Whey100-blueberry-new.jpg)
 
-**Bedst til:** Efter træning, hurtig restitution
+### Kasein proteinpulver fakta
 
-### Kasein
+Ligesom valle er kasein også et mælkeprotein,
+og det er derfor også en komplet kilde til protein. Kasein har et højt
+proteinindhold, men adskiller sig fra valle ved, at det har en langsommere
+optagelseshastighed (langsomt protein). Mens valle har en kraftig muskelopbyggende
+effekt i 2-3 timer efter indtagelse, har kasein en mindre kraftig, men mere længerevarende
+effekt. Kasein optages i kroppen i en periode på helt op til 6 timer og kan
+f.eks. være effektiv umiddelbart før sengetid, da det kan holde gang i proteinsyntesen,
+mens man sover. Studier peger dog på, at den muskelopbyggende effekt af disse
+to mælkeproteintyper er nogenlunde den samme, når det indtages umiddelbart
+efter træning (Reitelsen et. al. 2011, Dideriksen et. al., 2011)
 
-Fremstilles ligesom whey fra komælk, men absorberes meget langsommere. Giver en jævn frigivelse af aminosyrer over 5-7 timer.
+### Vegetabilsk proteinpulver fakta
 
-**Bedst til:** Inden sengetid, langvarig mæthed
+Der findes mange forskellige vegetabilske typer af [proteinpulver](https://urbancoast.dk/kategori/kosttilskud/proteinpulver/) bl.a. soja, ærte, hamp, ris og mandel. Vegetabilsk proteinpulver er dog generelt lavere i indholdet af forgrenede aminosyrer, mens de ofte skal kombineres for at opnå en komplet kilde til protein. Flere typer af planteprotein har dog et forholdsvis højt proteinindhold, mens disse også rummer andre fordele. Plantebaseret proteinpulver indeholder nemlig almindeligvis flere mineraler, vitaminer og fibre end mælkeprotein og kan derfor have andre gode effekter for kroppen.
 
-### Plantebaseret protein (vegansk)
+## Fakta om proteinpulvers effekt
 
-Ærtprotein, risprotein, hampeprotein og sojaisolat er populære valg. Kvaliteten varierer, men blandinger af plantekider kan matche animalsk protein.
+Er proteinpulver en nødvendighed for at
+opbygge muskelmasse? Svaret er nej. Spiser man en sund og varieret kost med en
+masse proteinrige fødevarer, opnår man den helt samme effekt. Animalske
+fødevarer som kød, æg, mælk og fisk indeholder alle de essentielle aminosyrer
+og er samtidig høje i antal af de vigtige forgrenede aminosyrer. Proteinpulver
+kan derimod være et effektivt og belejligt tilskud i forhold til træning og
+muskelvækst. Det tyder nemlig på, at indtagelse af protein umiddelbart efter
+træning kan øge muskelopbyggelsen.
 
-**Bedst til:** Veganere, laktoseintolerante
+Efter et endt træningspas har kroppen nemlig
+det, vi kalder ”the anabolic window of oppurtunity”, som er den periode, hvor
+man mener, der er en større effekt på muskelproteinsyntesen (L. Kristiansen
+& R. Larsen 2015). Derfor skal man helst indtage protein umiddelbart efter
+en styrketræning (kan også fremme restitutionen), og her er proteinpulver
+utrolig belejligt. Det kan være svært at medbringe kød eller lignende, når man
+er i træningscenteret, hvorimod proteinpulver nemt kan medbringes og drikkes
+umiddelbart efter. Samtidig er proteinpulver en forholdsvis billig kilde til
+gode proteiner og kan altså være et godt tilskud til en sund og varieret kost.
+Det er dog vigtigt at understrege, at proteinpulver ikke må erstatte de store
+daglige måltider, da kroppen har brug for alle næringsstofferne i sunde
+fødevarer.
 
-## Hvornår skal du tage proteinpulver?
+Kilder:
 
-- **Inden for 1-2 timer efter træning** – Optimalt for muskelrestitution
-- **Som mellemmåltid** – Nem proteinkilde
-- **Til morgenmaden** – Tilsæt i grød, smoothie eller pandekager
+- Dideriksen,
+K. J., et al. “Stimulation of muscle protein
+synthesis by whey and caseinate ingestion after resistance exercise in elderly
+individuals.” _Scandinavian journal of medicine & science in_
+_sports_ 21.6 (2011): e372-e383.
 
-## Behøver du proteinpulver?
+- Reitelseder, Søren, et al. “Whey and casein
+labeled with L-\[1-13C\] leucine and muscle protein synthesis: effect of resistance
+exercise and protein ingestion.” _American Journal of_
+_Physiology-Endocrinology and Metabolism_ 300.1 (2010): E231-E242.
 
-Nej – protein fra mad er mindst lige så effektivt. Kylling, æg, mejeriprodukter, fisk og bælgfrugter er alle fremragende proteinkilder. Proteinpulver er et praktisk og effektivt supplement, men bestemt ikke et krav.
-
-## Hvor meget protein har du brug for?
-
-Generelt anbefales 1,6-2,2 g protein pr. kg kropsvægt om dagen, hvis du styrketræner. En person på 80 kg bør altså sigte efter 128-176 g protein dagligt.
-
-## Hvad skal du kigge efter i et godt produkt?
-
-1. Proteinindhold pr. 100 g (gerne over 75 g)
-2. Ingen unødvendige tilsætningsstoffer
-3. Fri for dopingregistrerede stoffer (se efter Informed Sport/WADA-certificering)
-4. Gennemsigtighed i ingredienslisten
+- Suhr, Lasse Kristian, and Rikke Ellekilde
+Kofoed Larsen. _Sportsernæring_. Munksgaard, 2015.

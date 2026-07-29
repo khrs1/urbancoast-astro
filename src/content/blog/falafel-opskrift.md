@@ -7,53 +7,50 @@ category: "Proteinopskrifter"
 image: "https://images.unsplash.com/photo-1593001874117-c99c800e3eb0?w=800&auto=format&fit=crop"
 ---
 
-Falafel er meget udbredt i Mellemøsten og er en fremragende plantebaseret proteinkilde. Det er nemt at lave hjemme og kan bruges i mange forskellige retter.
+# Falafel opskrift
 
-## Ingredienser (ca. 20 falafel)
+## **Stegte og krydrede falafel**
 
-- 400 g tørrede kikærter (IKKE dåse – tørrede giver bedre resultat)
-- 1 løg, groft hakket
-- 4 fed hvidløg
-- En stor håndfuld frisk persille
-- En stor håndfuld frisk koriander
-- 1 tsk spidskommen
-- 1 tsk koriander (malet)
-- 1/2 tsk cayennepeber
-- Salt og peber efter smag
-- 1 tsk bagepulver
-- 2-3 spsk mel (om nødvendigt)
-- Olie til friturestegning
+Falafel er meget udbredt Mellemøsten, og er en grønsags-frikadelle, som hovedsagligt består af kikærter. Falafel er meget fedtfattigt og har et naturligt højt indhold af protein, hvilket gør det den perfekte fitness-ret. Falafel anses i mange lande i Mellemøsten for at være en slags fastfood, og er nationalret i både Israel, Libanon og Syrien. En lækker falafel er dejlig og sprød udenpå, men samtid blød og cremet inden i. Falafel kan spises sammen med salat, i pitabrød eller sandwich. Det kan også spises som en hurtig, lækker snack. Hvis du er vegetar (Der spiser æg) kan du med god samvittighed nyde falafel, da det eneste animalske indhold i opskriften er fra æg.
 
-## Fremgangsmåde
+### **Tips før du går i gang**
 
-### Forberedelse (aftenen før)
+- Sæt kikærterne i vand natten over, dagen før du skal lave falafel.
+- Vær opmærksom på, at kikærterne suger meget vand, så hæld derfor godt med vand i.
+- Bemærk at kikærterne kommer til at øge vægten en del grundet den store optagelse af vand.
+- Anskaf dig en foodprocessor, eller en meget kraftig stavblender, da en almindelig blender som regel ikke kan klare jobbet.
+- Lav gerne kartofler dagen før, og tag nogle stykker fra inden de er gennemkogte. Rå, eller lettere kogte kartofler, er gode for konsistensen i falafel ’farsen’. Personligt kan jeg godt lide at koge kartoflerne lidt inden, da de er nemmere at blende. Det er vigtigt de ikke er helt gennemkogte, da stivelsen ryger ud af kartoflerne. Stivelsen er det, der binder falafel-farsen.
 
-Læg kikærterne i blød i rigeligt koldt vand natten over – de skal stå minimum 12 timer. De vil fordoble i størrelse.
+### **Ingredienser**
 
-### Dag 1: Lav dejen
+40 kugler (halvér evt. til 20 større kugler) – 2-4 personer
 
-1. Dræn og skyl kikærterne grundigt.
-2. Kom kikærter, løg, hvidløg, persille og koriander i en foodprocessor.
-3. Puls indtil blandingen er groft hakket – ikke puré. Der må godt være tekstur.
-4. Tilsæt krydderierne: spidskommen, malet koriander, cayennepeber, salt og peber.
-5. Tilsæt bagepulver og puls igen.
-6. Smag til og juster krydring. Tilsæt mel, hvis dejen er for våd til at forme.
-7. Sæt dejen i køleskabet i mindst 1 time (gerne natten over).
+- 300 g. kikærter
+- 100 g. rå Kartoffel
+- 1-2 løg (100-200 g.)
+- 1 æg
+- 4-6 fed hvidløg
+- ½ tsk. cayennepeber (evt. chili)
+- ½ tsk. bagepulver
+- 2 tsk. salt
+- 1 bundt bredbladet persille
+- 3 tsk. Stødt koriander
+- 3 tsk. stødt spidskommen
+- 4 spsk. hvedemel
+- 4 spsk. Havregryn eller rasp (Alt efter hvor flyende falafel farsen er, kan man også lade være)
 
-### Formning og stegning
+### **Fremgangsmåde**
 
-1. Form dejen til runde kugler eller flade kager på ca. 3-4 cm i diameter.
-2. Varm olien op til ca. 175°C.
-3. Steg falaflerne i 3-4 minutter, til de er gyldne og sprøde udvendigt.
-4. Lad dem dryppe af på køkkenrulle.
+Dagen før sætter du kikærterne i blød i koldt vand. (Evt. tjek senere op aftenen inden du går i seng, om kikærterne allerede har suget meget af vandet. Hvis ja, så tilsæt noget ekstra koldt vand.)
 
-## Servering
+- Kom alle kikærterne op i foodprocessoren. Skrub kartoflerne (Hvis de er rå) og skær dem derefter ud i mindre stykker og tilsæt kartoflerne i foodprocessoren.
+- Pil løg og hvidløg. Skyl persillen og hak det groft. Kom det hele samt æg i foodprocessoren.
+- Tilsæt cayennepeber, bagepulver, salt, stødt koriander, stødt spidskommen og hvedemel.
+- Blend derefter det hele sammen, indtil det ligner en fast, ensartet masse, ligesom når man laver frikadeller. Hvis farsen ikke kører ordentlig rundt i foodprocessoren, så tilsæt evt. lidt vand og skrab kanterne for fars, så klumperne kommer ned i bunden af foodprocessoren.
+- Smag falafelfarsen til, og tilsæt evt. flere krydderier alt efter, hvad du godt kan lide.
+- Varm en pande op, og tilsæt en del raps-eller olivenolie på panden.
+- Form falafelfarsen i hånden med en spiseske. Du kan med fordel forme falafelfarsen, så trekantet som muligt, så man kan stege falafelfarsen på tre sider. Det gør falaflen super sprød og velsmagende, og er et nemmere alternativ, hvis du ikke kan få lavet falafelkugler.
 
-Server med hjemmelavet tahinsauce, frisk salat, tomat og pita. Falafel er fremragende som en del af en meal prep og holder sig fint i køleskabet i 4-5 dage.
+Server derefter falaflen i et lækkert ristet pitabrød, sandwich eller frisk salat.
 
-## Næringsindhold (ca. pr. falafel)
-
-- Kalorier: ~60 kcal
-- Protein: ~3 g
-- Kulhydrater: ~7 g
-- Fedt: ~2 g
+Velbekomme!
