@@ -1,17 +1,16 @@
 {
   "name": "urbancoast-astro",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
     "dev": "astro dev",
-    "start": "serve dist -l $PORT",
+    "start": "node server.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.4.0",
-    "astro": "^4.16.0",
-    "serve": "^14.2.4"
+    "astro": "^4.16.0"
   }
 }
