@@ -6,4 +6,7 @@ export default defineConfig({
   integrations: [sitemap({
     filter: (page) => !page.includes('/go/') && !page.includes('/produkter/'),
   })],
+  build: {
+    inlineStylesheets: 'always',
+  },
 });

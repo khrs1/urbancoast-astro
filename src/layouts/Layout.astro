@@ -28,7 +28,7 @@ const { title, description = "Vejledning, Tests & Guides til træning & kost", i
   canonical={canonical}
 />
 <link rel="preload" href="/fonts/inter.css" as="style" />
-<link rel="stylesheet" href="/fonts/inter.css" />
+<link rel="stylesheet" href="/fonts/inter.css" media="print" onload="this.media='all'" />
 <style is:global>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{--bg:#fff;--surface:#f8fafc;--border:#e2e8f0;--text:#0f172a;--muted:#64748b;--accent:#22c55e;--accent-dk:#16a34a;--dark:#0a0f1e;--dark2:#111827;--r:12px}
