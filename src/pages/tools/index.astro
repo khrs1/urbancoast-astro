@@ -1,8 +1,12 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getCollection } from 'astro:content';
 
-const tools = (await getCollection('tools')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const tools = [
+  { slug: 'bmi-beregner', title: 'BMI beregner', description: 'Beregn dit BMI (Body Mass Index) hurtigt og nemt. Indtast din højde og vægt og få resultatet med det samme.' },
+  { slug: 'kalorieberegner', title: 'Kalorieberegner', description: 'Beregn dit daglige kaloriebehov (TDEE) gratis. Få antal kalorier og makroer til vedligeholdelse, vægttab eller muskelopbygning.' },
+  { slug: 'protein-beregner', title: 'Protein beregner', description: 'Beregn hvor meget protein du skal have om dagen. Indtast din vægt og aktivitetsniveau og få dit daglige proteinbehov.' },
+  { slug: '1rm-beregner', title: '1RM beregner', description: 'Beregn din 1RM (one-repetition maximum) ud fra en vægt og antal repetitioner. Se også træningstabel.' },
+];
 ---
 
 <Layout title="Værktøj" description="Gratis fitness værktøjer og beregnere fra UrbanCoast.dk. BMI beregner, kalorieberegner, protein beregner og 1RM beregner.">
@@ -19,15 +23,12 @@ const tools = (await getCollection('tools')).sort((a, b) => b.data.pubDate.value
         {tools.map(tool => (
           <div class="card">
             <div class="card-body">
-              <a href={`/tools/${tool.slug}`}><h3>{tool.data.title}</h3></a>
-              <p class="card-excerpt">{tool.data.description}</p>
+              <a href={`/tools/${tool.slug}`}><h3>{tool.title}</h3></a>
+              <p class="card-excerpt">{tool.description}</p>
               <a href={`/tools/${tool.slug}`} class="read-more" style="font-size:.85rem">Brug værktøjet →</a>
             </div>
           </div>
         ))}
-        {tools.length === 0 && (
-          <p style="color:#64748b;text-align:center;padding:3rem 0">Ingen værktøjer endnu. Kommer snart!</p>
-        )}
       </div>
     </div>
   </section>
