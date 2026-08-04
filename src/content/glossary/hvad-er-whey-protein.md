@@ -1,0 +1,25 @@
+---
+title: "Hvad er whey protein?"
+description: "Whey protein er det mest populære proteintilskud. Læs hvad det er, hvordan det virker og hvornår du skal bruge det."
+pubDate: 2026-08-04
+author: "Karsten Hansen"
+category: "Ordbog"
+tags: ["whey", "protein", "valleprotein", "kosttilskud"]
+---
+
+Whey protein er et protein der udvindes fra mælk. Det er det mest populære [proteintilskud](/blog/proteinpulver-fakta) i verden. Det optages hurtigt i kroppen og indeholder alle essentielle aminosyrer.
+
+## Hvordan laves whey protein?
+
+Når man fremstiller ost, adskilles mælken i faste proteiner (kasein) og flydende proteiner (valle). Valleproteinet er whey. Det tørres og sælges som proteinpulver.
+
+Der findes tre former:
+- **Whey koncentrat** (70-80% protein). Den billigste og mest almindelige
+- **Whey isolat** (90%+ protein). Færre kulhydrater og fedt, lidt dyrere
+- **Whey hydrolysat** (forhydrolyseret). Optages hurtigst, dyrest
+
+## Hvornår skal du bruge whey?
+
+Whey er bedst lige efter [træning](/blog/hvad-er-styrketræning) fordi det optages hurtigt. Tag 20-40 g inden for 1-2 timer efter dit træningspas for at understøtte [muskelrestitution](/ordbog/hvad-er-restitution).
+
+Læs hvilke produkter der er bedst i vores [proteinpulver test](/blog/bedste-proteinpulver-2026). Brug også vores [protein beregner](/tools/protein-beregner) til at se hvor meget du skal have.
