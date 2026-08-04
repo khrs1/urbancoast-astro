@@ -1,0 +1,109 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const date = new Date('2026-08-04');
+const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(date);
+---
+
+<Layout
+  title="1RM beregner"
+  description="Beregn din 1RM (one-repetition maximum) ud fra en vægt og antal repetitioner. Se også hvor mange kilo du skal bruge ved forskellige procentdele af din max."
+  type="article"
+  publishedTime="2026-08-04T00:00:00.000Z"
+  author="Karsten Hansen"
+>
+  <div class="post-header">
+    <div class="container">
+      <div style="margin-bottom:.75rem"><a href="/tools" class="badge">Værktøj</a></div>
+      <h1>1RM beregner</h1>
+      <div class="post-meta">
+        <span>Af <strong>Karsten Hansen</strong></span>
+        <span class="sep">·</span>
+        <span>{formattedDate}</span>
+      </div>
+    </div>
+  </div>
+
+  <article class="post-content" style="max-width:800px">
+    <p>Vil du vide hvor meget du kan løfte én gang? Indtast en vægt du kan løfte flere gange og se din estimerede 1RM.</p>
+
+    <div id="onerm-calculator">
+      <div class="calc-inputs">
+        <label for="onerm-weight">Vægt løftet (kg)</label>
+        <input type="number" id="onerm-weight" placeholder="80" min="1" max="1000" />
+        <label for="onerm-reps">Antal repetitioner</label>
+        <input type="number" id="onerm-reps" placeholder="5" min="1" max="20" />
+        <button onclick="calculate1RM()">Beregn 1RM</button>
+      </div>
+      <div id="onerm-result" class="calc-result" style="display:none">
+        <div id="onerm-value"></div>
+        <div id="onerm-table"></div>
+      </div>
+    </div>
+
+    <h2>Hvad er 1RM?</h2>
+    <p>1RM står for one-repetition maximum. Det er den tungeste vægt du kan løfte præcis én gang med korrekt <a href="/blog/bænkpres">teknik</a> i en given øvelse.</p>
+    <p>Det er den mest præcise måde at måle din styrke på. Mange styrketræningsprogrammer angiver vægten som en procentdel af din 1RM. Læs mere i vores <a href="/ordbog/hvad-er-1rm">1RM ordbog</a>.</p>
+
+    <h2>Hvordan beregnes 1RM?</h2>
+    <p>Den mest præcise metode er at teste det direkte i træningscenteret. Men det kræver en spotter og god teknik.</p>
+    <p>En mere sikker metode er at bruge Epley-formlen:</p>
+    <p><strong>1RM = vægt × (1 + 0,0333 × antal repetitioner)</strong></p>
+    <p>Eksempel: Kan du <a href="/blog/bænkpres">bænkpresse</a> 80 kg i 5 repetitioner, er din estimerede 1RM: 80 × (1 + 0,0333 × 5) = 93,4 kg.</p>
+
+    <h2>Procentskala</h2>
+    <p>Når du kender din 1RM, kan du planlægge din træning:</p>
+    <table>
+      <thead><tr><th>% af 1RM</th><th>Repetitioner</th><th>Formål</th></tr></thead>
+      <tbody>
+        <tr><td>95-100%</td><td>1</td><td>Maksimal styrke</td></tr>
+        <tr><td>85-90%</td><td>3-5</td><td>Styrke</td></tr>
+        <tr><td>75-80%</td><td>8-10</td><td>Hypertrofi (muskelvækst)</td></tr>
+        <tr><td>65-70%</td><td>12-15</td><td>Udholdenhed</td></tr>
+      </tbody>
+    </table>
+    <p>Brug også vores <a href="/ordbog/hvad-er-rpe">RPE ordbog</a> til at justere intensiteten fra dag til dag.</p>
+  </article>
+
+  <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
+    <a href="/tools" style="color:#22c55e;font-weight:600;font-size:.9rem">← Tilbage til alle værktøjer</a>
+  </div>
+</Layout>
+
+<script is:inline>
+function calculate1RM() {
+  var weight = parseFloat(document.getElementById('onerm-weight').value);
+  var reps = parseInt(document.getElementById('onerm-reps').value);
+  if (!weight || !reps) { alert('Indtast vægt og repetitioner'); return; }
+  if (reps > 20) { alert('For mere end 20 repetitioner bliver beregningen upræcis'); return; }
+  var onerm = weight * (1 + 0.0333 * reps);
+  var onermRounded = Math.round(onerm);
+  document.getElementById('onerm-value').innerHTML = '<div style="font-size:0.9rem;color:#64748b;margin-bottom:0.25rem">Din estimerede 1RM:</div><span style="font-size:3rem;font-weight:900;color:#22c55e">' + onermRounded + '</span><span style="font-size:1.2rem;color:#64748b"> kg</span>';
+  var percentages = [100, 95, 90, 85, 80, 75, 70, 65, 60, 55];
+  var repsList = [1, 2, 4, 6, 8, 10, 12, 15, 18, 20];
+  var table = '<div style="margin-top:1.5rem;padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0;text-align:left">';
+  table += '<h3 style="font-size:1rem;font-weight:700;margin-bottom:0.5rem">Træningstabel</h3>';
+  table += '<table style="width:100%;border-collapse:collapse">';
+  table += '<tr style="border-bottom:1px solid #e2e8f0"><th style="text-align:left;padding:0.3rem 0">%</th><th style="text-align:right;padding:0.3rem 0">Vægt</th><th style="text-align:right;padding:0.3rem 0">Ca. reps</th></tr>';
+  for (var i = 0; i < percentages.length; i++) {
+    var kg = Math.round(onerm * percentages[i] / 100);
+    table += '<tr style="border-bottom:1px solid #f1f5f9"><td style="padding:0.3rem 0">' + percentages[i] + '%</td><td style="text-align:right;padding:0.3rem 0;font-weight:700">' + kg + ' kg</td><td style="text-align:right;padding:0.3rem 0;color:#64748b">' + repsList[i] + '</td></tr>';
+  }
+  table += '</table></div>';
+  document.getElementById('onerm-table').innerHTML = table;
+  document.getElementById('onerm-result').style.display = 'block';
+}
+</script>
+
+<style>
+.calc-inputs{display:flex;flex-direction:column;gap:0.75rem;max-width:400px;margin:0 auto;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0}
+.calc-inputs label{font-weight:700;font-size:0.9rem;color:#0f172a}
+.calc-inputs input{padding:0.75rem 1rem;border-radius:8px;border:2px solid #e2e8f0;font-size:1rem;outline:none}
+.calc-inputs input:focus{border-color:#22c55e}
+.calc-inputs button{background:#22c55e;color:#fff;padding:0.875rem 2rem;border-radius:50px;border:none;font-weight:800;font-size:1rem;cursor:pointer;margin-top:0.5rem}
+.calc-inputs button:hover{background:#16a34a}
+.calc-result{text-align:center;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;margin-top:1.5rem}
+table{width:100%;border-collapse:collapse;margin:1.5rem 0}
+th,td{padding:0.6rem;border:1px solid #e2e8f0;text-align:left}
+th{background:#f8fafc;font-weight:700}
+</style>
