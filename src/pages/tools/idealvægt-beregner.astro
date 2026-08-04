@@ -1,0 +1,125 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const date = new Date('2026-08-04');
+const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(date);
+---
+
+<Layout
+  title="Idealvægt beregner"
+  description="Beregn din idealvægt ud fra højde og køn. Se hvilken vægt der er sund for dig og hvor meget du skal tabe eller tage på."
+  type="article"
+  publishedTime="2026-08-04T00:00:00.000Z"
+  author="Karsten Hansen"
+>
+  <div class="post-header">
+    <div class="container">
+      <div style="margin-bottom:.75rem"><a href="/tools" class="badge">Værktøj</a></div>
+      <h1>Idealvægt beregner</h1>
+      <div class="post-meta">
+        <span>Af <strong>Karsten Hansen</strong></span>
+        <span class="sep">·</span>
+        <span>{formattedDate}</span>
+      </div>
+    </div>
+  </div>
+
+  <article class="post-content" style="max-width:800px">
+    <p>Hvad er din idealvægt? Indtast din højde og køn og se hvilken vægt der er sund for dig.</p>
+
+    <div id="iw-calculator">
+      <div class="calc-inputs">
+        <label for="iw-gender">Køn</label>
+        <select id="iw-gender">
+          <option value="male">Mand</option>
+          <option value="female">Kvinde</option>
+        </select>
+        <label for="iw-height">Højde (cm)</label>
+        <input type="number" id="iw-height" placeholder="180" min="100" max="250" />
+        <label for="iw-current">Nuværende vægt (kg, valgfrit)</label>
+        <input type="number" id="iw-current" placeholder="80" min="30" max="300" />
+        <button onclick="calculateIW()">Beregn idealvægt</button>
+      </div>
+      <div id="iw-result" class="calc-result" style="display:none">
+        <div id="iw-value"></div>
+        <div id="iw-range"></div>
+        <div id="iw-diff"></div>
+      </div>
+    </div>
+
+    <h2>Hvad er idealvægt?</h2>
+    <p>Din idealvægt er den vægt hvor dit <a href="/tools/bmi-beregner">BMI</a> er i det sunde område (18,5-24,9). Det betyder at der er et spænd af vægte der alle er sunde for dig.</p>
+    <p>Idealvægten er et pejlemærke, ikke et krav. Hvis du <a href="/blog/hvad-er-styrketræning">styrketræner</a> meget, kan du sagtens veje mere end din idealvægt og stadig være sund. Det skyldes at muskler vejer mere end fedt.</p>
+
+    <h2>Er idealvægten præcis?</h2>
+    <p>Nej. Idealvægten er baseret på BMI, som ikke tager højde for muskelmasse, knoglebygning eller kropsbygning. Brug den som en grov guide, ikke som det endelige svar.</p>
+    <p>En bedre måde at vurdere din sundhed på er at måle din <a href="/tools/fedtprocent-beregner">fedtprocent</a>. Den fortæller dig hvor meget af din vægt der faktisk er fedt.</p>
+
+    <h2>Hvad hvis du er over din idealvægt?</h2>
+    <p>Hvis du vejer mere end din idealvægt, er det ikke nødvendigvis et problem. Det afhænger af hvor den ekstra vægt kommer fra. Hvis det er muskler, er det fint. Hvis det er fedt, kan et moderat <a href="/blog/10-punkter-til-et-hurtigt-vaegttab">vægttab</a> være en god idé.</p>
+    <p>Brug vores <a href="/tools/kalorieberegner">kalorieberegner</a> til at finde ud af hvor mange kalorier du skal spise for at tabe dig.</p>
+  </article>
+
+  <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
+    <a href="/tools" style="color:#22c55e;font-weight:600;font-size:.9rem">← Tilbage til alle værktøjer</a>
+  </div>
+</Layout>
+
+<script is:inline>
+function calculateIW() {
+  var gender = document.getElementById('iw-gender').value;
+  var height = parseFloat(document.getElementById('iw-height').value);
+  var current = parseFloat(document.getElementById('iw-current').value);
+  
+  if (!height || height < 100) { alert('Indtast din højde'); return; }
+  
+  var heightM = height / 100;
+  
+  // BMI range 18.5-24.9 gives ideal weight range
+  var minWeight = Math.round(18.5 * heightM * heightM);
+  var maxWeight = Math.round(24.9 * heightM * heightM);
+  
+  // Devine formula for "ideal" weight
+  var ideal;
+  if (gender === 'male') {
+    ideal = Math.round(50 + 2.3 * (heightM - 1.524));
+  } else {
+    ideal = Math.round(45.5 + 2.3 * (heightM - 1.524));
+  }
+  
+  document.getElementById('iw-value').innerHTML = 
+    '<div style="font-size:0.9rem;color:#64748b;margin-bottom:0.25rem">Din idealvægt:</div>' +
+    '<span style="font-size:3rem;font-weight:900;color:#22c55e">' + ideal + '</span>' +
+    '<span style="font-size:1.2rem;color:#64748b"> kg</span>';
+  
+  document.getElementById('iw-range').innerHTML = 
+    '<div style="margin-top:1rem;padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0">' +
+    '<div style="display:flex;justify-content:space-between;padding:0.25rem 0"><span>Sund vægt spænd (BMI 18,5-24,9):</span><strong>' + minWeight + '-' + maxWeight + ' kg</strong></div>' +
+    '</div>';
+  
+  if (current && current > 0) {
+    var diff = Math.round(current - ideal);
+    var diffText;
+    if (diff > 0) {
+      diffText = 'Du vejer ' + diff + ' kg over din idealvægt. Hvis du ønsker at tabe dig, så brug vores <a href="/tools/kalorieberegner">kalorieberegner</a>.';
+    } else if (diff < 0) {
+      diffText = 'Du vejer ' + Math.abs(diff) + ' kg under din idealvægt. Det kan være helt fint, men tal med din læge hvis du er bekymret.';
+    } else {
+      diffText = 'Du er præcis ved din idealvægt. Godt gået!';
+    }
+    document.getElementById('iw-diff').innerHTML = '<p style="margin-top:1rem;color:#475569">' + diffText + '</p>';
+  }
+  
+  document.getElementById('iw-result').style.display = 'block';
+}
+</script>
+
+<style>
+.calc-inputs{display:flex;flex-direction:column;gap:0.75rem;max-width:400px;margin:0 auto;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0}
+.calc-inputs label{font-weight:700;font-size:0.9rem;color:#0f172a}
+.calc-inputs input,.calc-inputs select{padding:0.75rem 1rem;border-radius:8px;border:2px solid #e2e8f0;font-size:1rem;outline:none;background:#fff}
+.calc-inputs input:focus,.calc-inputs select:focus{border-color:#22c55e}
+.calc-inputs button{background:#22c55e;color:#fff;padding:0.875rem 2rem;border-radius:50px;border:none;font-weight:800;font-size:1rem;cursor:pointer;margin-top:0.5rem}
+.calc-inputs button:hover{background:#16a34a}
+.calc-result{text-align:center;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;margin-top:1.5rem}
+</style>

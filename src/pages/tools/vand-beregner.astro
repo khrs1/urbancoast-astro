@@ -1,0 +1,125 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const date = new Date('2026-08-04');
+const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(date);
+---
+
+<Layout
+  title="Vand beregner"
+  description="Beregn hvor meget vand du skal drikke om dagen. Indtast din vægt og aktivitetsniveau og få dit daglige væskebehov."
+  type="article"
+  publishedTime="2026-08-04T00:00:00.000Z"
+  author="Karsten Hansen"
+>
+  <div class="post-header">
+    <div class="container">
+      <div style="margin-bottom:.75rem"><a href="/tools" class="badge">Værktøj</a></div>
+      <h1>Vand beregner</h1>
+      <div class="post-meta">
+        <span>Af <strong>Karsten Hansen</strong></span>
+        <span class="sep">·</span>
+        <span>{formattedDate}</span>
+      </div>
+    </div>
+  </div>
+
+  <article class="post-content" style="max-width:800px">
+    <p>Hvor meget vand skal du egentlig drikke på en dag? Det afhænger af din vægt og hvor meget du træner. Indtast det herunder.</p>
+
+    <div id="water-calculator">
+      <div class="calc-inputs">
+        <label for="wa-weight">Vægt (kg)</label>
+        <input type="number" id="wa-weight" placeholder="80" min="30" max="300" />
+        <label for="wa-activity">Aktivitetsniveau</label>
+        <select id="wa-activity">
+          <option value="sedentary">Stillesiddende (ingen træning)</option>
+          <option value="light">Let træning (1-3 dage/uge)</option>
+          <option value="moderate" selected>Moderat træning (3-5 dage/uge)</option>
+          <option value="hard">Hård træning (6-7 dage/uge)</option>
+          <option value="hot">Træning i varmt vejr</option>
+        </select>
+        <button onclick="calculateWater()">Beregn vandbehov</button>
+      </div>
+      <div id="water-result" class="calc-result" style="display:none">
+        <div id="water-value"></div>
+        <div id="water-breakdown"></div>
+        <div id="water-tips"></div>
+      </div>
+    </div>
+
+    <h2>Hvorfor er vand vigtigt?</h2>
+    <p>Vand er afgørende for næsten alt hvad din krop gør. Det regulerer kropstemperatur, transporterer næringstoffer og hjælper med [restitution](/ordbog/hvad-er-restitution) efter træning.</p>
+    <p>Allerede et væsketab på 2% af kropsvægten kan reducere din præstation betydeligt. Læs mere i vores ordbog om <a href="/ordbog/hvad-er-dehydrering">dehydrering</a>.</p>
+
+    <h2>Tegn på at du mangler vand</h2>
+    <ul>
+      <li>Mørk urin (den bør være lysegul)</li>
+      <li>Headpine eller svimmelhed</li>
+      <li>Tør mund</li>
+      <li>Træthed og nedsat koncentration</li>
+      <li>Nedsat præstation under træning</li>
+    </ul>
+
+    <h2>Tæller kaffe og te?</h2>
+    <p>Ja. Kaffe og te tæller med i dit daglige væskeindtag. Myten om at kaffe dehydrerer er overdrigivet. Du kan godt tælle en kop kaffe som væske.</p>
+    <p>Brug også vores <a href="/tools/kalorieberegner">kalorieberegner</a> og <a href="/tools/protein-beregner">protein beregner</a> til at planlægge resten af din kost.</p>
+  </article>
+
+  <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
+    <a href="/tools" style="color:#22c55e;font-weight:600;font-size:.9rem">← Tilbage til alle værktøjer</a>
+  </div>
+</Layout>
+
+<script is:inline>
+function calculateWater() {
+  var weight = parseFloat(document.getElementById('wa-weight').value);
+  var activity = document.getElementById('wa-activity').value;
+  
+  if (!weight || weight < 30) { alert('Indtast din vægt'); return; }
+  
+  // Base: 35 ml per kg body weight
+  var base = weight * 35;
+  var extra = 0;
+  var activityText;
+  
+  if (activity === 'sedentary') { extra = 0; activityText = 'ingen træning'; }
+  else if (activity === 'light') { extra = 350; activityText = 'let træning'; }
+  else if (activity === 'moderate') { extra = 500; activityText = 'moderat træning'; }
+  else if (activity === 'hard') { extra = 1000; activityText = 'hård træning'; }
+  else if (activity === 'hot') { extra = 1500; activityText = 'træning i varmt vejr'; }
+  
+  var total = Math.round((base + extra) / 100) * 100;
+  var glasses = Math.round(total / 250);
+  var bottles = (total / 1000).toFixed(1);
+  
+  document.getElementById('water-value').innerHTML = 
+    '<div style="font-size:0.9rem;color:#64748b;margin-bottom:0.25rem">Dit daglige vandbehov:</div>' +
+    '<span style="font-size:3rem;font-weight:900;color:#3b82f6">' + total + '</span>' +
+    '<span style="font-size:1.2rem;color:#64748b"> ml</span>' +
+    '<div style="margin-top:0.5rem;font-size:1rem;color:#64748b">= ' + glasses + ' glas (250 ml) eller ' + bottles + ' liter</div>';
+  
+  document.getElementById('water-breakdown').innerHTML = 
+    '<div style="margin-top:1.5rem;padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0;text-align:left">' +
+    '<div style="display:flex;justify-content:space-between;padding:0.25rem 0"><span>Grundbehov (' + weight + ' kg):</span><strong>' + Math.round(base) + ' ml</strong></div>' +
+    '<div style="display:flex;justify-content:space-between;padding:0.25rem 0"><span>Ekstra ved ' + activityText + ':</span><strong>+' + extra + ' ml</strong></div>' +
+    '<div style="display:flex;justify-content:space-between;padding:0.25rem 0;border-top:1px solid #e2e8f0;margin-top:0.25rem;padding-top:0.5rem"><span><strong>Total:</strong></span><strong style="color:#3b82f6">' + total + ' ml</strong></div>' +
+    '</div>';
+  
+  document.getElementById('water-tips').innerHTML = 
+    '<p style="margin-top:1rem;color:#475569">Fordel dit vandindtag over hele dagen. Drik ikke det hele på én gang. En god tommelfingerregel er at drikke et glas vand hver time du er vågen.</p>' +
+    '<p style="margin-top:0.5rem;color:#475569">Ved hård <a href="/blog/hvad-er-styrketræning">styrketræning</a> skal du drikke ekstra, især hvis du bruger <a href="/blog/kalk-til-træning">kalk</a> som kan tørre hænderne ud.</p>';
+  
+  document.getElementById('water-result').style.display = 'block';
+}
+</script>
+
+<style>
+.calc-inputs{display:flex;flex-direction:column;gap:0.75rem;max-width:400px;margin:0 auto;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0}
+.calc-inputs label{font-weight:700;font-size:0.9rem;color:#0f172a}
+.calc-inputs input,.calc-inputs select{padding:0.75rem 1rem;border-radius:8px;border:2px solid #e2e8f0;font-size:1rem;outline:none;background:#fff}
+.calc-inputs input:focus,.calc-inputs select:focus{border-color:#22c55e}
+.calc-inputs button{background:#22c55e;color:#fff;padding:0.875rem 2rem;border-radius:50px;border:none;font-weight:800;font-size:1rem;cursor:pointer;margin-top:0.5rem}
+.calc-inputs button:hover{background:#16a34a}
+.calc-result{text-align:center;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;margin-top:1.5rem}
+</style>

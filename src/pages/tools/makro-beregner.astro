@@ -1,0 +1,143 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const date = new Date('2026-08-04');
+const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(date);
+---
+
+<Layout
+  title="Makro beregner"
+  description="Beregn dine makroer (protein, kulhydrat og fedt) ud fra dit kaloriebehov. Indtast din vægt, højde, alder og mål og få fordelingen."
+  type="article"
+  publishedTime="2026-08-04T00:00:00.000Z"
+  author="Karsten Hansen"
+>
+  <div class="post-header">
+    <div class="container">
+      <div style="margin-bottom:.75rem"><a href="/tools" class="badge">Værktøj</a></div>
+      <h1>Makro beregner</h1>
+      <div class="post-meta">
+        <span>Af <strong>Karsten Hansen</strong></span>
+        <span class="sep">·</span>
+        <span>{formattedDate}</span>
+      </div>
+    </div>
+  </div>
+
+  <article class="post-content" style="max-width:800px">
+    <p>Beregn hvor meget protein, kulhydrat og fedt du skal have på en dag. Det tager 30 sekunder.</p>
+
+    <div id="macro-calculator">
+      <div class="calc-inputs">
+        <label for="ma-gender">Køn</label>
+        <select id="ma-gender">
+          <option value="male">Mand</option>
+          <option value="female">Kvinde</option>
+        </select>
+        <label for="ma-age">Alder</label>
+        <input type="number" id="ma-age" placeholder="30" min="15" max="100" />
+        <label for="ma-height">Højde (cm)</label>
+        <input type="number" id="ma-height" placeholder="180" min="100" max="250" />
+        <label for="ma-weight">Vægt (kg)</label>
+        <input type="number" id="ma-weight" placeholder="80" min="30" max="300" />
+        <label for="ma-activity">Aktivitetsniveau</label>
+        <select id="ma-activity">
+          <option value="1.2">Stillesiddende</option>
+          <option value="1.375">Let aktiv (1-3 dage/uge)</option>
+          <option value="1.55" selected>Moderat aktiv (3-5 dage/uge)</option>
+          <option value="1.725">Meget aktiv (6-7 dage/uge)</option>
+        </select>
+        <label for="ma-goal">Mål</label>
+        <select id="ma-goal">
+          <option value="cut">Vægttab (high protein)</option>
+          <option value="maintain" selected>Vedligeholdelse (balanceret)</option>
+          <option value="bulk">Muskelopbygning (high carb)</option>
+        </select>
+        <button onclick="calculateMacros()">Beregn makroer</button>
+      </div>
+      <div id="macro-result" class="calc-result" style="display:none">
+        <div id="macro-calories"></div>
+        <div id="macro-breakdown"></div>
+        <div id="macro-bar"></div>
+      </div>
+    </div>
+
+    <h2>Hvad er makroer?</h2>
+    <p>Makroer er de tre <a href="/ordbog/hvad-er-makronæringsstoffer">makronæringsstoffer</a> som din kost består af: protein, kulhydrat og fedt. Hvert gram protein og kulhydrat giver 4 kalorier. Hvert gram fedt giver 9 kalorier.</p>
+
+    <h2>Hvilken fordeling skal du vælge?</h2>
+    <p>Det afhænger af dit mål:</p>
+    <ul>
+      <li><strong>Vægttab:</strong> Højt protein (40%), moderat kulhydrat (35%), moderat fedt (25%). Protein holder dig mæt og bevarer muskler.</li>
+      <li><strong>Vedligeholdelse:</strong>Balanceret (30% protein, 40% kulhydrat, 30% fedt). En god start for de fleste.</li>
+      <li><strong>Muskelopbygning:</strong> Højt kulhydrat (25% protein, 50% kulhydrat, 25% fedt). Kulhydrater giver energi til hård <a href="/blog/hvad-er-styrketræning">styrketræning</a>.</li>
+    </ul>
+    <p>Brug også vores <a href="/tools/protein-beregner">protein beregner</a> til at tjekke om du får nok protein.</p>
+
+    <h2>Sådan bruger du resultatet</h2>
+    <p>Fordel dine makroer over 3-5 måltider i løbet af dagen. Du behøver ikke at ramme præcis hver dag, men stræb efter at være tæt på gennemsnittet over en uge.</p>
+    <p>Er du i tvivl om hvor mange kalorier du skal have i alt? Brug vores <a href="/tools/kalorieberegner">kalorieberegner</a> først.</p>
+  </article>
+
+  <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
+    <a href="/tools" style="color:#22c55e;font-weight:600;font-size:.9rem">← Tilbage til alle værktøjer</a>
+  </div>
+</Layout>
+
+<script is:inline>
+function calculateMacros() {
+  var age = parseInt(document.getElementById('ma-age').value);
+  var height = parseFloat(document.getElementById('ma-height').value);
+  var weight = parseFloat(document.getElementById('ma-weight').value);
+  var gender = document.getElementById('ma-gender').value;
+  var activity = parseFloat(document.getElementById('ma-activity').value);
+  var goal = document.getElementById('ma-goal').value;
+  
+  if (!age || !height || !weight) { alert('Udfyld alle felter'); return; }
+  
+  var bmr;
+  if (gender === 'male') { bmr = 10 * weight + 6.25 * height - 5 * age + 5; }
+  else { bmr = 10 * weight + 6.25 * height - 5 * age - 161; }
+  
+  var tdee = Math.round(bmr * activity);
+  var target, pPct, cPct, fPct;
+  
+  if (goal === 'cut') { target = tdee - 500; pPct = 0.40; cPct = 0.35; fPct = 0.25; }
+  else if (goal === 'bulk') { target = tdee + 300; pPct = 0.25; cPct = 0.50; fPct = 0.25; }
+  else { target = tdee; pPct = 0.30; cPct = 0.40; fPct = 0.30; }
+  
+  var proteinG = Math.round(target * pPct / 4);
+  var carbG = Math.round(target * cPct / 4);
+  var fatG = Math.round(target * fPct / 9);
+  
+  document.getElementById('macro-calories').innerHTML = 
+    '<div style="font-size:0.9rem;color:#64748b;margin-bottom:0.25rem">Daglige kalorier:</div>' +
+    '<span style="font-size:2.5rem;font-weight:900;color:#22c55e">' + target + '</span><span style="font-size:1.2rem;color:#64748b"> kcal</span>';
+  
+  document.getElementById('macro-breakdown').innerHTML = 
+    '<div style="margin-top:1.5rem;display:grid;grid-template-columns:repeat(3,1fr);gap:1rem">' +
+    '<div style="padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0;text-align:center"><div style="font-size:0.8rem;color:#64748b">Protein</div><div style="font-size:2rem;font-weight:900;color:#3b82f6">' + proteinG + 'g</div><div style="font-size:0.75rem;color:#64748b">' + Math.round(pPct*100) + '%</div></div>' +
+    '<div style="padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0;text-align:center"><div style="font-size:0.8rem;color:#64748b">Kulhydrat</div><div style="font-size:2rem;font-weight:900;color:#f59e0b">' + carbG + 'g</div><div style="font-size:0.75rem;color:#64748b">' + Math.round(cPct*100) + '%</div></div>' +
+    '<div style="padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0;text-align:center"><div style="font-size:0.8rem;color:#64748b">Fedt</div><div style="font-size:2rem;font-weight:900;color:#ef4444">' + fatG + 'g</div><div style="font-size:0.75rem;color:#64748b">' + Math.round(fPct*100) + '%</div></div>' +
+    '</div>';
+  
+  document.getElementById('macro-bar').innerHTML = 
+    '<div style="margin-top:1rem"><div style="display:flex;height:20px;border-radius:10px;overflow:hidden">' +
+    '<div style="width:' + (pPct*100) + '%;background:#3b82f6;display:flex;align-items:center;justify-content:center;font-size:0.7rem;color:#fff;font-weight:700">P</div>' +
+    '<div style="width:' + (cPct*100) + '%;background:#f59e0b;display:flex;align-items:center;justify-content:center;font-size:0.7rem;color:#fff;font-weight:700">K</div>' +
+    '<div style="width:' + (fPct*100) + '%;background:#ef4444;display:flex;align-items:center;justify-content:center;font-size:0.7rem;color:#fff;font-weight:700">F</div>' +
+    '</div></div>';
+  
+  document.getElementById('macro-result').style.display = 'block';
+}
+</script>
+
+<style>
+.calc-inputs{display:flex;flex-direction:column;gap:0.75rem;max-width:400px;margin:0 auto;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0}
+.calc-inputs label{font-weight:700;font-size:0.9rem;color:#0f172a}
+.calc-inputs input,.calc-inputs select{padding:0.75rem 1rem;border-radius:8px;border:2px solid #e2e8f0;font-size:1rem;outline:none;background:#fff}
+.calc-inputs input:focus,.calc-inputs select:focus{border-color:#22c55e}
+.calc-inputs button{background:#22c55e;color:#fff;padding:0.875rem 2rem;border-radius:50px;border:none;font-weight:800;font-size:1rem;cursor:pointer;margin-top:0.5rem}
+.calc-inputs button:hover{background:#16a34a}
+.calc-result{text-align:center;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;margin-top:1.5rem}
+</style>
