@@ -34,7 +34,7 @@ Før du begynder at træne muscle-up, skal du have en grundlæggende styrkebase.
 Du skal kunne:
 
 - **8-10 stramme pull-ups** med god form
-- 10-15 dips på parallelle barer
+- 10-15 dips (også kaldet armstræks) på parallelle barer
 - 5-10 strakte push-ups
 
 Kan du det, er du stærk nok til at begynde på progressionen. Kan du ikke, så start med at bygge styrke op med [pull-ups](/blog/crossfit-grips) og dips først.

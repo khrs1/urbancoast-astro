@@ -1,5 +1,5 @@
 ---
-title: "Handstand Guide: Lær at Stå på Hænder"
+title: "Handstand (også kaldet håndstand) Guide: Lær at Stå på Hænder"
 description: "Handstand er en af de bedste calisthenics-øvelser. Her får du en trin-for-trin guide til at lære at stå på hænder, fra vægstøtte til fristående."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
@@ -31,7 +31,7 @@ Du behøver ikke at være superatlet for at starte. Men du skal have en grundlæ
 
 Du skal kunne:
 
-- Holde en plank i 30 sekunder
+- Holde en plank (også kaldet planke) i 30 sekunder
 - Lave 5-10 push-ups med god form
 - Holde en hollow body hold i 15-20 sekunder
 

@@ -19,7 +19,7 @@ Muscle-up kræver både styrke og teknik. Du skal kunne lave en streng pull-up m
 
 1. **Byg en stærk pull-up base:** Du skal kunne lave 5-8 strengte pull-ups med god form.
 2. **Træn eksplosive pull-ups:** Træk hurtigt og højt op mod baren.
-3. **Træn dips på baren:** Pres dig op fra positionen over baren.
+3. **Træn dips (også kaldet armstræks) på baren:** Pres dig op fra positionen over baren.
 4. **Negativte muscle-ups:** Start over baren og sænk dig langsomt ned i bevægelsen.
 5. **Brug modstandsbånd:** Et let bånd kan hjælpe dig over i starten.
 

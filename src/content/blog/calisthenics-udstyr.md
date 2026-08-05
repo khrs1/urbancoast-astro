@@ -21,7 +21,7 @@ Hvis du kun skal købe én ting, skal du købe en pull-up bar. Pull-ups er kerne
 
 Hvis du kan købe to ting, skal du tilføje et sæt modstandsband. De hjælper dig med at lave pull-ups, muscle-ups og meget andet.
 
-Vil du have et lidt bedre setup, skal du tilføje et par parallettes. De åbner op for dips, L-sits, handstand-træning og meget andet.
+Vil du have et lidt bedre setup, skal du tilføje et par parallettes. De åbner op for dips (også kaldet armstræks), L-sits, handstand (også kaldet håndstand)-træning og meget andet.
 
 Det er det. Du kan træne resten af dit liv med de tre ting. Alt det andet er nice-to-have, ikke need-to-have.
 

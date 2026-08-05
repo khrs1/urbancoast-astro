@@ -19,7 +19,7 @@ Du skal ikke bruge et træningscenter for at komme i gang. En pull-up bar i en d
 
 - **Pull-ups:** Træk dig op til en bar. Bygger ryg og arme.
 - **Push-ups:** Pres dig op fra jorden. Bygger bryst, skuldre og triceps.
-- **Dips:** Sænk og pres dig op mellem to barer. Bygger overkrop.
+- **Dips (også kaldet armstræks):** Sænk og pres dig op mellem to barer. Bygger overkrop.
 - **Squats:** Sænk dig ned og op igen. Bygger ben og baller.
 - **Muscle-up:** Avanceret øvelse hvor du trækker dig op og over baren. Læs mere i vores guide til [muscle-up](/ordbog/hvad-er-muscle-up).
 

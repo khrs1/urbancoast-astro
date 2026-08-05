@@ -35,8 +35,8 @@ Du skal have en solid styrkebase før du begynder at træne planche. Det er ikke
 Du skal kunne:
 
 - 15-20 push-ups med god form
-- Holde en plank i 60 sekunder
-- Lave 5-10 dips med god form
+- Holde en plank (også kaldet planke) i 60 sekunder
+- Lave 5-10 dips (også kaldet armstræks) med god form
 - Holde en hollow body hold i 30 sekunder
 
 Kan du det, er du klar til at starte. Hvis ikke, så brug et par uger på at bygge grundstyrken op først.

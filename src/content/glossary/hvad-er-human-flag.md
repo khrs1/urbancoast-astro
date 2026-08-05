@@ -25,8 +25,8 @@ Du skal have stærke skuldre, en stærk core og god kropskontrol. Den øverste a
 
 ## Sådan træner du human flag
 
-1. **Byg skulderstyrke:** Træn dips, push-ups og [parallettes](/ordbog/hvad-er-parallettes) hold.
-2. **Træn side plank:** Byg core-styrke i den rotation, du skal bruge.
+1. **Byg skulderstyrke:** Træn dips (også kaldet armstræks), push-ups og [parallettes](/ordbog/hvad-er-parallettes) hold.
+2. **Træn side plank (også kaldet planke):** Byg core-styrke i den rotation, du skal bruge.
 3. **Start med tuck:** Hold tuck-positionen mod en stang i 10-15 sekunder.
 4. **Gå til straddle:** Når tuck er stabil, spred benene.
 5. **Saml benene:** Når straddle er stabil, gå til full flag.

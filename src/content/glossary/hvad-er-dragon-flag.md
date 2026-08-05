@@ -25,7 +25,7 @@ Du skal holde hele kroppen strakt som et flag, mens kun skuldrene har kontakt me
 
 ## Sådan træner du dragon flag
 
-1. **Byg en stærk core base:** Træn plank, hanging leg raises og [core](/ordbog/hvad-er-core) øvelser.
+1. **Byg en stærk core base:** Træn plank (også kaldet planke), hanging leg raises og [core](/ordbog/hvad-er-core) øvelser.
 2. **Brug en bænk eller station:** Du skal have noget at holde fast i bag hovedet.
 3. **Start med tuck:** Hold tuck-positionen i 10-15 sekunder.
 4. **Gå gradvist til straddle:** Når tuck er stabil.

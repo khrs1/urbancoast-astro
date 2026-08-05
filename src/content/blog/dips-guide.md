@@ -1,5 +1,5 @@
 ---
-title: "Dips: Komplet guide til teknik og progression"
+title: "Dips (også kaldet armstræks): Komplet guide til teknik og progression"
 description: "Dips er en af de bedste øvelser til bryst, skuldre og arme. Her får du en guide til korrekt teknik, progressioner fra begynder til avanceret, og programmer til at bygge styrke."
 pubDate: 2026-08-05
 author: "Karsten Hansen"

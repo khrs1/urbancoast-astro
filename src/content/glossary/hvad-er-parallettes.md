@@ -7,7 +7,7 @@ category: "Ordbog"
 tags: ["parallettes", "calisthenics", "udstyr", "kropsvægtstræning"]
 ---
 
-Parallettes er to korte parallelle barer, der står på jorden og bruges til calisthenics og kropsvægtstræning. De ligner små versioner af de parallelle barer, du kender fra et træningscenter. Du bruger dem til dips, L-sits, planche-øvelser og meget mere.
+Parallettes er to korte parallelle barer, der står på jorden og bruges til calisthenics og kropsvægtstræning. De ligner små versioner af de parallelle barer, du kender fra et træningscenter. Du bruger dem til dips (også kaldet armstræks), L-sits, planche-øvelser og meget mere.
 
 ## Hvorfor bruge parallettes?
 
@@ -21,7 +21,7 @@ Parallettes løfter dine hænder fra jorden, hvilket giver dig mere rækkevidde 
 - **L-sit:** Hold benene strakt ud foran dig i luften. Bygger core.
 - **Planche:** Træn [planche](/ordbog/hvad-er-planche) progressioner med bedre greb.
 - **Push-ups:** Dybere push-ups med mere rækkevidde.
-- **Handstand:** Brug barerne til at bygge skulderstyrke til handstand.
+- **Handstand (også kaldet håndstand):** Brug barerne til at bygge skulderstyrke til handstand.
 
 ## Sådan vælger du parallettes
 

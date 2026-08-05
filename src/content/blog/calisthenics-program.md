@@ -25,7 +25,7 @@ Hver træning tager 40-50 minutter. Det inkluderer opvarmning, selve træningen 
 Udstyrslisten er kort. Her er hvad du skal bruge:
 
 - En pull-up bar til døren
-- En stol, bænk eller trappetrin til dips
+- En stol, bænk eller trappetrin til dips (også kaldet armstræks)
 - Et gulv du kan ligge på
 
 Det er det. Du kan lave hele programmet med disse tre ting. Hvis du senere vil udfordre dig selv, kan du investere i parallettes eller gymnastikringe, men det er ikke nødvendigt for at starte.

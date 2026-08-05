@@ -32,7 +32,7 @@ En anden fordel er at du lærer at kontrollere din krop. Mange der træner med m
 
 Calisthenics kan træne hele kroppen hvis du vælger de rigtige øvelser. Her er et overblik:
 
-- **Bryst, skuldre og arme:** Push-ups, dips og pull-ups
+- **Bryst, skuldre og arme:** Push-ups, dips (også kaldet armstræks) og pull-ups
 - **Rygg og arme:** Pull-ups og Australian pull-ups
 - **Ben og balder:** Squats og lunges med kropsvægt
 - **Core:** Planke, hollow body hold og benløft
