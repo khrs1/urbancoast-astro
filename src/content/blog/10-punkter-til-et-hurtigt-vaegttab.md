@@ -55,3 +55,50 @@ Ved at spise morgenmad hver dag sikrer du, at du føler dig mæt og ikke kommer 
 ### 10. Drik rigeligt med vand!
 
 Vand indeholder 0 kalorier og er derfor at foretrække fremfor sodavand, saft og andre sukkerholdige drikkevarer.
+
+## Vægttabsmedicin - et supplement, ikke en erstatning
+
+Mange overvejer i dag [vægttabsmedicin](/ordbog/hvad-er-vægttabsmedicin) som Ozempic eller Wegovy som en genvej til et hurtigt vægttab. Medicinen virker ved at efterligne kroppens [GLP-1](/ordbog/hvad-er-glp-1)-hormon, som nedsætter din appetit [1].
+
+Det er dog vigtigt at forstå, at medicinen fungerer bedst sammen med de 10 punkter ovenfor. Den gør det nemmere at spise mindre, men du skal stadig spise sundt og dyrke motion.
+
+Et overset problem ved vægttabsmedicin er, at **op til 40% af dit vægttab kan være muskelmasse** [2]. Derfor er styrketræning og et højt proteinindtag helt afgørende, hvis du bruger medicin til at tabe dig.
+
+Brug vores [proteinberegner](/tools/protein-beregner) til at sikre, du får nok protein under dit vægttab. Læs også vores komplette guide til [vægttabsmedicin](/blog/vaegttabsmedicin-guide) for at forstå, hvordan medicinen virker, og hvad du skal vide før du starter.
+
+## Styrketræning er din bedste ven under et vægttab
+
+Når du taber dig hurtigt, mister du både fedt og muskelmasse. Det er uundgåeligt i et [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud), men du kan minimere muskeltabet.
+
+Styrketræning signalerer til kroppen, at musklerne er nødvendige og skal bevares. Hvis du kun spiser mindre uden at træne, mister du en større del af dit vægttab som muskelmasse [3].
+
+Her er et simpelt program til at bevare musklerne under et hurtigt vægttab:
+
+1. **Træn hele kroppen 2-3 gange om ugen.** Fokus på store øvelser som [squats](/blog/squats-guide), [dødløft](/blog/doedloeft) og [bænkpres](/blog/baenkpres)
+2. **Spis 1,6-2,2 g protein per kg kropsvægt dagligt.** Det er mere end du normalt har brug for, men afgørende under et kalorieunderskud
+3. **Sørg for god [restitution](/ordbog/hvad-er-restitution).** Muskelopbygning sker under hvile, og du er allerede i et kalorieunderskud, som er stressende for kroppen
+4. **Undgå [overtraining](/ordbog/hvad-er-overtraining).** Din krop har færre ressourcer til at restituere, når du spiser mindre
+
+Brug vores [kalorieberegner](/tools/kalorieberegner) til at finde dit daglige kaloriebehov, og sørg for at dit [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud) ikke er for stort. Et for stort underskud giver mere muskeltab og er sværere at opretholde.
+
+## Hold vægten af efter et hurtigt vægttab
+
+Det største problem ved et hurtigt vægttab er, at mange tager kiloene på igen. Studier viser, at op mod 80% tager vægten på igen inden for et år efter et hurtigt vægttab [4].
+
+Det skyldes ofte, at man vender tilbage til sine gamle vaner efter vægttabet. Derfor er det afgørende, at du ser de 10 punkter som en varig livsstilsændring, ikke en midlertidig kur.
+
+Her er vores bedste råd til at holde vægten af:
+
+- **Styrketræning er afgørende.** Muskler forbrænder kalorier, selv når du hviler. Jo mere muskelmasse du har, desto nemmere er det at opretholde dit vægttab
+- **Fortsæt med at spise protein.** Protein holder dig mæt og bevarer muskelmassen. Det er din forsikring mod at tage vægten på igen
+- **Overvåg din vægt ugentligt.** Hvis du tager 1-2 kg på, er det nemt at justere kosten. Hvis du først tjekker efter en måned, er det sværere
+- **Vær realistisk.** Et stabilt vægttab på 0,5-1 kg per uge er sundt og bæredygtigt. Det svarer til et dagligt [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud) på 500-1000 kalorier
+
+Læs også vores guide til en [sund kostplan](/blog/sund-kostplan) for at få inspiration til mad, der holder dig mæt og understøtter dit vægttab.
+
+### Referencer
+
+1. Wilding JPH et al., 2021. *Once-Weekly Semaglutide in Adults with Overweight or Obesity.* New England Journal of Medicine.
+2. Lopez JJ et al., 2024. *Muscle Mass and Glucagon-Like Peptide-1 Receptor Agonists.* Circulation, American Heart Association.
+3. Weinheimer EM et al., 2010. *Resistance training preserves muscle mass during weight loss.* Journal of Obesity.
+4. Anderson JW et al., 2001. *Long-term weight-loss maintenance.* American Journal of Clinical Nutrition.

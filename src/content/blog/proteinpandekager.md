@@ -62,3 +62,5 @@ Proteinpandekager er en lækker snack, som er sund samtidig med det er nemt at l
 ## Hvilken proteinpulver skal man bruge til proteinpandekager?
 
 Der er en lang række proteinpulvere på markedet, der kan bruges i denne opskrift. Vi anbefaler du bruger en proteinpulver, der enten er neutral i smagen, eller en smagsvariant, der passer til resten af ingredienserne. F.eks. en smagsvariant med vanilje. Både MyProtein, Bulkpowders og Bodylab forhandler whey proteinpulver vi anbefaler at bruge.
+
+Se hvilke proteinpulvere vi anbefaler i vores test af [bedste proteinpulver 2026](/blog/bedste-proteinpulver-2026), eller læs mere om proteinpulver generelt i vores [guide til proteinpulver fakta](/blog/proteinpulver-fakta).

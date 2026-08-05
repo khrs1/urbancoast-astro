@@ -1,66 +1,85 @@
 ---
-title: "Sådan undgår du hård hud fra CrossFit & vægtløftning"
-description: "Vil du slippe af med hård hud og vablerne fra træning? Vi afdækker hvorfor hård hud opstår og hvordan du modvirker det."
-pubDate: 2020-12-12
+title: "Sådan undgår du hård hud på hænderne fra træning"
+description: "Hård hud og vabler fra træning er irriterende men kan undgås. Her får du 6 konkrete tips til at beskytte dine hænder ved CrossFit og vægtløftning."
+pubDate: 2021-04-10
 author: "Karsten Hansen"
 category: "Træningsguides"
+image: "https://urbancoast.dk/wp-content/uploads/2021/03/crossfit-grips-til-pullups2.jpg"
 ---
 
-Vil du slippe af med hård hud og vablerne fra træning? Vi afdækker hvorfor hård hud opstår og hvordan du modvirker det.
+Hård hud og vabler på hænderne er et velkendt problem for alle der træner CrossFit eller vægtløftning. Det er irriterende når du holder kæresten i hånden. Det er værre når vablerne sprækker og du må springe træningen over.
 
-Alle der dyrker regelmæssigt CrossFit, eller vægttræning, har oplevet at få hård hud i håndfladerne og måske også vabler på hænderne. Den hårde hud i håndfladen kan være irriterende, når du holder kæresten i hånden, men det største besvær med hård hud er det giver vabler, eller sprækker i huden, så træningen bliver besværet.
+Den gode nyhed er at du kan undgå det meste hård hud med de rette vaner. Her er seks konkrete tips der virker.
 
-Hård hud på fingrene og hænder kan i stort omfang undgås ved at følge understående råd.
+## Hvorfor opstår hård hud?
 
-**Hvorfor opstår hård hud på fingrene?**
+Hård hud opstår når huden udsættes for tryk og friktion over tid. Ved vægttræning sker det når du holder om stangen. Ved pull-ups med kip sker det når huden gnider mod baren i ensformige bevægelser.
 
-Der kan være flere årsager til, at huden på fingrene bliver hård. Det kan f.eks. være fordi, man udsætter huden for hårdt arbejde, hvilket gør at huden bliver tør og sprukken. Det kan også være fordi, man ikke får nok væske, hvilket også gør at huden bliver tør.
+Jo mere du klemmer om stangen, og jo mere stangen ligger inde i håndfladen, jo flere folder opstår der i huden. Når du så hænger med vægten på disse folder, opstår friktion og huden slides.
 
-**Hvorfor opstår hård hud på hænderne?**
+## 1. Brug fingrene, ikke håndfladen
 
-Hård hud kan opstå på grund af overbelastning af huden i håndfladerne, f.eks. ved gentagne bevægelser eller ved at arbejde med håndværktøj. Hård hud er generelt et resultat af huden udsættes for et tryk gennem længere tid, som f.eks. ved vægttræning.
+Dette er den vigtigste regel. **Hold stangen med fingrene, ikke med håndfladen.** Jo mere du har stangen inde i håndfladen, jo mere hud folder sig om stangen. Det er de folder der bliver til vabler.
 
-## Korrekt grebsteknik hjælper mod hård hud
+I øvelser hvor du trækker eller hænger med din egen vægt, så grip stangen med fingrene. Lad stangen hvile på de nederste fingre, ikke i midten af håndfladen.
 
-Den primære grund til de fleste får hård hud fra træning er måden du griber om vægtstangen, pullup baren, eller håndvægtene.
+Dette er særligt vigtigt ved pull-ups med kip, toes-to-bar og andre øvelser med meget friktion.
 
-Jo mere du holder vægtstangen i håndfladen og jo mere du klemmer om stangen, jo flere folder vil der opstå i din hud. Når man så hænger med vægten på disse foldet og laver en ensformig bevægelse som ved pullups, så opstår der friktion og huden slides.
+## 2. Brug kalk, men moderat
 
-- I øvelser hvor du trækker, eller hænger med din egen vægt, så undgå at have vægten helt inde i håndfladen og brug mere dine fingre til at holde vægten.
-- Dette er særligt relevant, hvis du laver pullups med kip, eller lignende øvelser, hvor der opstår meget friktion.
+[Kalk](/blog/kalk-til-traening) kan hjælpe dig med at få et bedre greb. Mindre mængder holder dine hænder tørre og giver dig et fastere greb.
 
-## Kalk: Lidt er godt
+Men for meget kalk har den modsatte effekt. Det skaber mere friktion og får dig til at klemme hårdere om stangen. Kalk er lavet af magnesium, som udtørrer huden. Tørre hænder er mere tilbøjelige til at revne og flække.
 
-Kalk kan være en synder, når det kommer til tør hud og at undgå friktion mellem vægtstangen og din hud.
+- Brug en lille mængde kalk
+- Tør hænderne med et håndklæde mellem sets
+- Rens hænderne grundigt efter træning med vand og sæbe
 
-Mindre mængder af kalk kan holde dine hænder tørre og sørge for du får et mere korrekt greb på pullup-stangen, men for meget kalk har modsatte effekt. Det skaber mere friktion og vil ofte få dig til at holde tættere om stangen, hvilket gør der opstår mere friktion.
+## 3. Fjern død hud efter badet
 
-Et andet problem med kalk er at magnesium (som kalkpulver er lavet af) udtørrer dine hænder. Tørre hænder er mere disponible for at revne og flække.
+Den hårde hud opstår gradvist. Hvis du fjerner den før den bliver for tyk, slipper du for vabler.
 
-- Undgå at bruge for meget kalk
-- Tør eventuelt dine hænder med et håndklæde imellem sets
-- Rens dine hænder grundigt efter træning med vand og sæbe
+Fjern den døde hud når du lige er kommet ud af badet. Huden er blødere og mere medgørlig når den er varm og fugtig. Brug en pimpsten eller en hudhøvl til at fjerne det tykkeste lag.
 
-## Tag dig af dine hænder og undgå hård hud på hænderne
+Gør det lidt hver gang. Du skal ikke prøve at fjerne det hele på én gang.
 
-Fjern den hårde hud på dine håndflader enten med en slibesten, eller en høvl til huden. Mange ynder at bruge en pimpsten til at fjerne den hårde hud.
+## 4. Brug håndcreme om natten
 
-En hudhøvl kan effektivt og hurtigt fjerne hård hud på hænderne.
+Kalk og træning tørrer hænderne ud. Tørre hænder bliver hård hud hurtigere.
 
-Her er vores tips til at undgå hård hud på hænderne og fingrene uden du købe diverse produkter og redskaber.
+Smør creme på dine hænder inden du skal sove. Cremen trænger ind i huden i løbet af natten. Brug en creme der er fed nok, ikke en let bodylotion.
 
-1. **Fjern den døde hud efter du har været i bad**
-Fjern den døde hud, når du kommer ud af badet. Huden er blødere og mere medgørlig, når du lige er kommet ud af badet.
+Hvis du har meget tørre hænder, så brug creme hver aften i en uge. Du vil mærke en forskel.
 
-2. **Brug creme på dine hænder, så de ikke tørrer ud.**
-Brug en creme på dine hænder inden du skal sove, så cremen kan trænge ind i huden i løbet af natten.
+## 5. Mærk efter under træning
 
-3. **Mærk efter på huden og om huden bliver varm**
-Når du træner, så mærk efter om et sted på håndfladen, eller fingrene begynder at blive varm. Dette er tegn på det yderste lag hud er ved at blive beskadiget. Skift greb, og stop den bevægelse du er igang med.
+Dette er måske det mest oversete tip. **Mærk efter om huden bliver varm.** Når et område af hånden begynder at blive varm, er det tegn på at det yderste lag hud er ved at blive beskadiget.
 
-4. **Drik vand regelmæssigt i løbet af dagen**
-Hold kroppen, og din hud, hydreret ved at drikke vand i løbet af hele dagen. Ikke kun under din træning.
+Når du mærker det, så skift greb. Stop den bevægelse du er i gang med. Juster hvordan du holder stangen. Du kan også tage en kort pause.
 
-## Brug grips, der beskytter dine hænder
+Hvis du ignorerer varmen, får du en vable. Det er så simpelt.
 
-Du kan med fordel bruge [CrossFit grips](/blog/crossfit-grips), som beskytter dine hænder med et lag læder, eller andet materiale. Her kan nævnes et mærke som Victory Grips, der er meget populære i CrossFit kredse. CrossFit grips kan bruges, så du undgår friktion opstår mellem stangen og din hud, så der opstår vabler på dine hænder.
+## 6. Drik vand gennem hele dagen
+
+Hud der er hydreret er smidigere og mere modstandsdygtig over for friktion. Tør hud sprækker lettere.
+
+Drik vand gennem hele dagen, ikke kun under træning. Hold kroppen hydreret så huden også får noget.
+
+## Brug CrossFit grips til ekstra beskyttelse
+
+Hvis du træner meget pull-ups eller CrossFit, kan du med fordel bruge [CrossFit grips](/blog/crossfit-grips-pull-up-grips). De beskytter dine hænder med et lag læder og mindsker friktionen mellem stangen og din hud.
+
+Victory Grips er blandt de mest populære. Læs vores [guide til CrossFit grips og pull-up grips](/blog/crossfit-grips-pull-up-grips) for at se hvilke du skal vælge.
+
+## Konklusion
+
+Hård hud og vabler kan undgås. De seks tips her gør den største forskel:
+
+1. Hold med fingrene, ikke håndfladen
+2. Brug kalk moderat
+3. Fjern død hud efter badet
+4. Brug creme om natten
+5. Mærk efter om huden bliver varm under træning
+6. Drik vand gennem hele dagen
+
+Start med ét eller to tips og byg vanen op. Du vil opleve at hænderne bliver bedre hurtigere end du tror.

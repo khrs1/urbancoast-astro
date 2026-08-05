@@ -71,3 +71,16 @@ Sviner ikke så meget og er mere transportabelt. Man kan sagtens have en pose me
 
 Blokkalk sviner stadig mere end flydende kalk og flere større kommercielle træningscentre tillader ikke brug af denne type kalk. Det er sværere at dække hænderne med kalk fra blokkalk end ved pulverformen. Det er dog en smagssag, hvor meget kalk man ønsker på hænderne.
 
+## Tips til brug af kalk
+
+Uanset hvilken type kalk du vælger, er der nogle generelle retningslinjer, der kan hjælpe dig med at få mest ud af produktet:
+
+- **Rengør udstyret efter brug.** Kalk kan irritere hud, og den næste person der bruger udstyret kan få problemer. Tør altid stangen og udstyret af, når du er færdig.
+- **Opbevar kalken korrekt.** Brug en beholder eller en plasticpose til at minimere svineri i træningstasken. Kalkblokke er nemme at have i tasken, men pulverkalk kræver en tæt beholder.
+- **Vask hænder efter træning.** Kalk udtørrer huden, så vask hænderne grundigt efter træningen og brug eventuelt en creme for at modvirke tør hud.
+- **Vælg den rigtige type til dit center.** Er pulverkalk forbudt i dit center, så brug flydende kalk eller kalkblokke i stedet.
+
+## Kalk og grebsudstyr
+
+Kalk er ikke den eneste måde at forbedre dit greb på. Hvis du dyrker CrossFit eller laver mange pull-ups, kan du med fordel bruge [CrossFit grips](/blog/crossfit-grips), som beskytter dine hænder og giver et bedre greb om stangen. Læs også vores guide til [vægtløftersko](/blog/vaegtloeftersko), hvis du vil optimere dit udstyr til de tunge løft.
+
