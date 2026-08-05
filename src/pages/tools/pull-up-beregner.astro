@@ -1,0 +1,146 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const date = new Date('2026-08-04');
+const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(date);
+---
+
+<Layout
+  title="Pull up beregner"
+  description="Se hvor mange pull ups du skal kunne for at nå dit næste mål. Progression guide fra begynder til øvet pull up."
+  type="article"
+  publishedTime="2026-08-04T00:00:00.000Z"
+  author="Karsten Hansen"
+>
+  <div class="post-header">
+    <div class="container">
+      <div style="margin-bottom:.75rem"><a href="/tools" class="badge">Værktøj</a></div>
+      <h1>Pull up beregner</h1>
+      <div class="post-meta">
+        <span>Af <strong>Karsten Hansen</strong></span>
+        <span class="sep">·</span>
+        <span>{formattedDate}</span>
+      </div>
+    </div>
+  </div>
+
+  <article class="post-content" style="max-width:800px">
+    <p>Hvor mange pull ups kan du lave? Indtast dit nuværende niveau og se hvad du skal sigte efter, plus en træningsplan for at komme derhen.</p>
+
+    <div id="pu-calculator">
+      <div class="calc-inputs">
+        <label for="pu-current">Hvor mange pull ups kan du lave nu?</label>
+        <input type="number" id="pu-current" placeholder="3" min="0" max="50" />
+        <label for="pu-goal">Hvad er dit mål?</label>
+        <select id="pu-goal">
+          <option value="1">1 pull up (fra 0)</option>
+          <option value="5">5 pull ups</option>
+          <option value="10" selected>10 pull ups</option>
+          <option value="15">15 pull ups</option>
+          <option value="20">20 pull ups</option>
+          <option value="muscle">Muscle up</option>
+        </select>
+        <button onclick="calculatePullUp()">Se min plan</button>
+      </div>
+      <div id="pu-result" class="calc-result" style="display:none">
+        <div id="pu-status"></div>
+        <div id="pu-plan"></div>
+      </div>
+    </div>
+
+    <h2>Sådan bruger du resultatet</h2>
+    <p>Dette er en grov guide. Alle er forskellige og progressionen afhænger af din startstyrke, kropsvægt og hvor ofte du træner. Brug planen som et pejlemærke, ikke som en garanti.</p>
+    <p>Læs vores komplette <a href="/blog/pull-up-guide">pull up guide</a> for teknik og detaljeret progression.</p>
+
+    <h2>Hvorfor kan jeg ikke lave pull ups?</h2>
+    <p>Pull ups er en af de sværeste øvelser for begyndere. Du skal løfte hele din kropsvægt. Hvis du vejer meget, er det sværere. Det handler om forholdet mellem din styrke og din vægt.</p>
+    <p>Start med negativer (hop op og sænk dig langsomt ned) og byg gradvist op. Læs mere i vores <a href="/blog/calisthenics-begynder-guide">calisthenics begynderguide</a>.</p>
+  </article>
+
+  <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
+    <a href="/tools" style="color:#22c55e;font-weight:600;font-size:.9rem">← Tilbage til alle værktøjer</a>
+  </div>
+</Layout>
+
+<script is:inline>
+function calculatePullUp() {
+  var current = parseInt(document.getElementById('pu-current').value);
+  var goal = document.getElementById('pu-goal').value;
+  
+  if (isNaN(current) || current < 0) { alert('Indtast hvor mange pull ups du kan lave nu'); return; }
+  
+  var goalNum, goalText, weeks, plan;
+  
+  if (goal === 'muscle') {
+    goalNum = 15;
+    goalText = 'muscle up';
+    if (current < 8) {
+      plan = '<div style="text-align:left;padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0;margin-top:1rem">' +
+        '<h3 style="font-weight:700;margin-bottom:0.5rem">Du skal kunne 8-10 pull ups først</h3>' +
+        '<p style="color:#64748b">Fokusér på at bygge din pull up styrke op først. En muscle up kræver eksplosiv styrke. Læs vores <a href="/blog/muscle-up-guide">muscle up guide</a> når du er klar.</p></div>';
+    } else {
+      plan = '<div style="text-align:left;padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0;margin-top:1rem">' +
+        '<h3 style="font-weight:700;margin-bottom:0.5rem">Du er klar til muscle up!</h3>' +
+        '<p style="color:#64748b">Du har styrken. Nu skal du lære teknikken. Start med kipping muscle ups, så ret formen til. Læs vores <a href="/blog/muscle-up-guide">muscle up guide</a>.</p></div>';
+    }
+    weeks = Math.max(4, (goalNum - current) * 2);
+  } else {
+    goalNum = parseInt(goal);
+    goalText = goalNum + ' pull ups';
+    
+    if (current >= goalNum) {
+      plan = '<div style="text-align:left;padding:1rem;background:#d1fae5;border-radius:8px;border:1px solid #22c55e;margin-top:1rem">' +
+        '<h3 style="font-weight:700;color:#16a34a">Du har allerede nået dit mål!</h3>' +
+        '<p style="color:#475569">Flot arbejde. Hvad bliver det næste mål? Måske en <a href="/blog/muscle-up-guide">muscle up</a>?</p></div>';
+    } else {
+      weeks = Math.max(2, (goalNum - current) * 2);
+      var steps = [];
+      if (current === 0) {
+        steps.push('Uge 1-2: Negativer. Hop op til stangen og sænk dig langsomt (3-5 sekunder). 3 sæt af 5.');
+        steps.push('Uge 3-4: Banded pull ups med let band. 3 sæt af 5-8.');
+        steps.push('Uge 5-6: Prøv din første pull up. Selv 1 er godt.');
+      } else {
+        steps.push('Træn pull ups 3 gange om ugen');
+        steps.push('3-5 sæt per træning med 2-3 minutter pause');
+        steps.push('Hver uge: prøv at tilføj 1 gentagelse');
+        if (goalNum >= 10) {
+          steps.push('Tilføj vægt når du kan 8+ reps (vægtvest eller rygsæk)');
+          steps.push('Suppler med Australian pull ups for ekstra volumen');
+        }
+      }
+      
+      plan = '<div style="text-align:left;padding:1rem;background:#fff;border-radius:8px;border:1px solid #e2e8f0;margin-top:1rem">' +
+        '<h3 style="font-weight:700;margin-bottom:0.5rem">Din plan: fra ' + current + ' til ' + goalNum + ' pull ups</h3>' +
+        '<p style="color:#64748b;margin-bottom:0.5rem">Forventet tid: ca. ' + weeks + ' uger med konsekvent træning</p>' +
+        '<ul style="margin-left:1.5rem;color:#475569">';
+      steps.forEach(function(s) { plan += '<li style="margin-bottom:0.3rem">' + s + '</li>'; });
+      plan += '</ul></div>';
+    }
+  }
+  
+  var statusText;
+  if (current === 0) statusText = 'Begynder (0 pull ups)';
+  else if (current < 5) statusText = 'Nybegynder (' + current + ' pull ups)';
+  else if (current < 10) statusText = 'Mellem (' + current + ' pull ups)';
+  else if (current < 20) statusText = 'Øvet (' + current + ' pull ups)';
+  else statusText = 'Avanceret (' + current + ' pull ups)';
+  
+  document.getElementById('pu-status').innerHTML = 
+    '<div style="font-size:0.9rem;color:#64748b;margin-bottom:0.25rem">Dit nuværende niveau:</div>' +
+    '<span style="font-size:1.8rem;font-weight:800;color:#22c55e">' + statusText + '</span>' +
+    '<div style="font-size:0.9rem;color:#64748b;margin-top:0.5rem">Mål: ' + goalText + '</div>';
+  
+  document.getElementById('pu-plan').innerHTML = plan;
+  document.getElementById('pu-result').style.display = 'block';
+}
+</script>
+
+<style>
+.calc-inputs{display:flex;flex-direction:column;gap:0.75rem;max-width:400px;margin:0 auto;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0}
+.calc-inputs label{font-weight:700;font-size:0.9rem;color:#0f172a}
+.calc-inputs input,.calc-inputs select{padding:0.75rem 1rem;border-radius:8px;border:2px solid #e2e8f0;font-size:1rem;outline:none;background:#fff}
+.calc-inputs input:focus,.calc-inputs select:focus{border-color:#22c55e}
+.calc-inputs button{background:#22c55e;color:#fff;padding:0.875rem 2rem;border-radius:50px;border:none;font-weight:800;font-size:1rem;cursor:pointer;margin-top:0.5rem}
+.calc-inputs button:hover{background:#16a34a}
+.calc-result{text-align:center;padding:2rem;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;margin-top:1.5rem}
+</style>
