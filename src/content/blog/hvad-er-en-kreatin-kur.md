@@ -82,6 +82,33 @@ Når du har kørt kreatin kur i 2-3 måneder, anbefales det at holde en pause p�
 
 Din krop producerer selv cirka 1 g kreatin dagligt. Under en kur optager du ekstra fra tilskud. Efter en pause kan du starte en ny kur, og effekten vil være den samme som første gang [3].
 
+## Kreatin pulver vs kreatin piller
+
+Kreatin kommer i to former: pulver og piller. Begge virker ens. Det er kun formatet der er forskelligt.
+
+**Kreatin pulver** er den mest almindelige og billigste form. Du blander det i vand eller juice. Det tager 10 sekunder. De fleste vælger pulver fordi det er billigst pr. gram kreatin.
+
+**Kreatin piller** er nemmere hvis du ikke kan lide smagen af pulver. Du skal bare synke dem med et glas vand. De er dog ofte dyrere pr. gram.
+
+Begge former indeholder kreatin monohydrat. Der er ingen forskel på effekten. Vælg den form der passer bedst til dig.
+
+[Køb kreatin pulver hos forhandler](https://urbancoast.dk/go/?id=kreatin-pulver)
+
+[Køb kreatin piller hos forhandler](https://urbancoast.dk/go/?id=kreatin-piller)
+
+## Hvad gør kreatin i kroppen?
+
+Kreatin giver dine muskler mere energi til kortvarige, intensive bevægelser. Når du løfter tunge vægte, bruger dine muskler et stof der hedder ATP til energi. Kreatin hjælper med at genopbygge ATP hurtigere.
+
+Det betyder i praksis:
+- Du kan løfte tungere i dine sæt
+- Du kan lave 1-2 ekstra gentagelser før du er udmattet
+- Du [restitutionerer](/ordbog/hvad-er-restitution) hurtigere mellem sæt
+
+Det er derfor kreatin er mest effektivt ved [styrketræning](/blog/hvad-er-styrketræning) med vægte på 1-8 repetitioner. Ved længere udholdenhed har det mindre effekt [4].
+
+[4] Kreider RB et al., 2017. *International Society of Sports Nutrition position stand: creatine.* Journal of the International Society of Sports Nutrition.
+
 ## Kreatin er ikke nok i sig selv
 
 Når du er på kreatin kur, er det vigtigt, at du sørger for at indtage rigelige mængder vand, da kreatin binder kraftigt til vand. Derudover er det vigtigt, at du samtidig får rigelige mængder protein, som kan bidrage til muskelvækst. Det er dog også værd at nævne, at du er nødt til at gå til den i træningscentret, hvis du vil se resultater og undgå at holde for lange pauser mellem dine sets. Til trods for, at forskning viser, at kreatin generelt har en positiv effekt i forbindelse med styrketræning og eksplosivt fysisk arbejde, så er der store individuelle forskelle på, hvor stor effekten vil være. Her snakker man om "responders" og "non-responders", hvor non-responders svarer til ca. 10-30% af befolkningen, som er kendetegnet ved, at de oplever meget lidt eller slet ingen effekt ved kreatintilskud. Størstedelen vil dog opleve en positiv effekt ved en kreatin kur, så det er bare med at få det prøvet af, hvis man er i tvivl om hvordan ens egen krop vil reagere.
