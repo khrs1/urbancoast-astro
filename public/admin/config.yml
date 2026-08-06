@@ -4,7 +4,7 @@ backend:
   branch: main
   base_url: https://decap-oauth.dronefotoaarhus.workers.dev
   auth_endpoint: api/auth
-  auth_scope: repo,user
+  auth_scope: repo
   commit_messages:
     create: 'Create {{collection}} "{{slug}}"'
     update: 'Update {{collection}} "{{slug}}"'
