@@ -114,7 +114,7 @@ Der er nogle få fejl som mange begyndere laver. Hvis du undgår dem, sparer du 
 
 Calisthenics kan hjælpe dig med at tabe dig, men det er ikke det mest effektive alene. Kropsvægtstræning forbrænder ikke lige så mange kalorier som for eksempel løb eller cykling.
 
-Hvis du vil tabe dig, skal du kombinere calisthenics med en kaloriebegrænset kost og lidt konditionstræning. Styrketræningen er vigtig for at bevare muskelmassen mens du taber dig. Det betyder at du mister fed, ikke muskel.
+Hvis du vil tabe dig, skal du kombinere calisthenics med en kaloriebegrænset kost og lidt konditionstræning. Styrketræningen er vigtig for at bevare muskelmassen mens du taber dig. Det betyder at du mister fedt, ikke muskel.
 
 Læs mere i vores guide til vægttab og diæt hvis det er dit mål.
 
