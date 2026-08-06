@@ -4,11 +4,18 @@ import { getCollection } from 'astro:content';
 
 const blogPosts = (await getCollection('blog')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const glossaryEntries = (await getCollection('glossary')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+// Build search data as a JSON string
+const searchData = JSON.stringify([
+  ...blogPosts.map(p => ({ title: p.data.title, url: `/blog/${p.slug}` })),
+  ...glossaryEntries.map(e => ({ title: e.data.title, url: `/ordbog/${e.slug}` })),
+]);
 ---
 
-<Layout title="Siden blev ikke fundet" description="Siden du leder efter findes ikke. Brug søgefunktionen eller linksene til at finde det du søger.">
+<Layout title="Siden blev ikke fundet" description="Siden du leder efter findes ikke. Brug sogefunktionen eller linksene til at finde det du soger.">
   <div class="error-hero">
     <div class="container">
+      <img src="/img/404-illustration.svg" alt="" class="error-illustration" />
       <h1>Hovsa!</h1>
       <p class="error-subtitle">Vi kan desvaerre ikke finde siden du soger</p>
       <p class="error-code">Error 404</p>
@@ -65,17 +72,14 @@ const glossaryEntries = (await getCollection('glossary')).sort((a, b) => a.data.
   </section>
 </Layout>
 
-<script is:inline>
-// Simple client-side search
-var pages = [
-  {blogPosts.map(post => `{title: "${post.data.title.replace(/"/g, '')}", url: "/blog/${post.slug}"}`).join(',\n  '},
-  {glossaryEntries.map(entry => `{title: "${entry.data.title.replace(/"/g, '')}", url: "/ordbog/${entry.slug}"}`).join(',\n  ')}
-];
+<script is:inline define:vars={{ searchData }}>
+var pages = searchData;
 
 var searchInput = document.getElementById('search-input');
 var searchResults = document.getElementById('search-results');
+var searchBtn = document.getElementById('search-btn');
 
-function search() {
+function doSearch() {
   var query = searchInput.value.toLowerCase().trim();
   if (query.length < 2) {
     searchResults.innerHTML = '';
@@ -95,32 +99,34 @@ function search() {
     }).join('');
   }
   searchResults.style.display = 'block';
+  return matches;
 }
 
-searchInput.addEventListener('input', search);
-searchInput.addEventListener('focus', search);
+searchInput.addEventListener('input', doSearch);
+searchInput.addEventListener('focus', doSearch);
 
-document.getElementById('search-btn').addEventListener('click', function(e) {
+searchBtn.addEventListener('click', function(e) {
   e.preventDefault();
-  search();
-  var firstResult = searchResults.querySelector('a');
-  if (firstResult) {
-    window.location.href = firstResult.href;
+  var matches = doSearch();
+  if (matches && matches.length > 0) {
+    window.location.href = matches[0].url;
   }
 });
 
 searchInput.addEventListener('keydown', function(e) {
   if (e.key === 'Enter') {
     e.preventDefault();
-    search();
-    var firstResult = searchResults.querySelector('a');
-    if (firstResult) window.location.href = firstResult.href;
+    var matches = doSearch();
+    if (matches && matches.length > 0) {
+      window.location.href = matches[0].url;
+    }
   }
 });
 </script>
 
 <style>
-.error-hero{text-align:center;padding:4rem 1.5rem;background:#f8fafc}
+.error-hero{text-align:center;padding:3rem 1.5rem;background:#f8fafc}
+.error-illustration{max-width:200px;width:100%;height:auto;margin-bottom:1.5rem}
 .error-hero h1{font-size:3rem;font-weight:900;color:#0f172a;margin-bottom:.5rem}
 .error-subtitle{font-size:1.2rem;color:#475569;margin-bottom:.25rem}
 .error-code{font-size:1rem;color:#94a3b8;margin-bottom:2rem}
