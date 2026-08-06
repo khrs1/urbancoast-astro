@@ -73,7 +73,7 @@ const searchData = JSON.stringify([
 </Layout>
 
 <script is:inline define:vars={{ searchData }}>
-var pages = searchData;
+var pages = JSON.parse(searchData);
 
 var searchInput = document.getElementById('search-input');
 var searchResults = document.getElementById('search-results');
