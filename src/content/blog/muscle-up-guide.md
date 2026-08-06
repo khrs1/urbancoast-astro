@@ -4,10 +4,10 @@ description: "Muscle-up er en af de sejeste calisthenics-øvelser. Her får du e
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: ""
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 ---
 
-# Muscle-up Guide: Lær at Lave din Første Muscle-up
+## Muscle-up Guide: Lær at Lave din Første Muscle-up
 
 Muscle-up er en af de sejeste øvelser du kan lære. Det er en kombination af en pull-up og et dip, hvor du drager din krop op over stangen i én flydende bevægelse. Det ser vildt ud, og det kræver både styrke og teknik.
 

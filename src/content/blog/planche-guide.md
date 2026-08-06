@@ -4,10 +4,10 @@ description: "Planche er en af de mest avancerede calisthenics-skills. Her får 
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: ""
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 ---
 
-# Planche Guide: Lær Planche fra Bunden
+## Planche Guide: Lær Planche fra Bunden
 
 Planche er en af de mest imponerende øvelser i calisthenics. Du holder hele din krop vandret i luften, balancerende kun på dine hænder. Det ser umuligt ud, og det kræver ekstrem skulder- og corestyrke.
 

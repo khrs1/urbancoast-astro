@@ -3,6 +3,7 @@ title: "Sådan påvirker alkohol din træning"
 description: "Alkohol & træning? Sådan påvirker alkohol din styrketræning"
 pubDate: 2018-03-14
 author: "Jakob Thestrup"
+image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&auto=format&fit=crop"
 category: "Artikler"
 ---
 

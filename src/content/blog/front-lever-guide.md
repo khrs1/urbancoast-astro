@@ -4,10 +4,10 @@ description: "Front lever er en af de mest krævende calisthenics-øvelser. Her 
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: ""
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 ---
 
-# Front lever guide: Lær en af de sværeste calisthenics-skills
+## Front lever guide: Lær en af de sværeste calisthenics-skills
 
 Front lever er en af de mest respekterede øvelser i calisthenics. Du hænger i en bar med kroppen helt vandret, parallel med jorden, med strakte arme og strakt krop. Det kræver enorm rygstyrke, core-kontrol og grebsstyrke.
 

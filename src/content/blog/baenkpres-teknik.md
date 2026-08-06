@@ -7,7 +7,7 @@ category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1534368786749-b63e05c90863?w=800&auto=format&fit=crop"
 ---
 
-# Stor guide til Bænkpres teknik
+## Stor guide til Bænkpres teknik
 
 ## Bliv den bedste til bænkpres
 

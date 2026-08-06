@@ -4,10 +4,10 @@ description: "Så du vil gerne lære at squatte? Velkommen til den mest gennemf�
 pubDate: 2018-10-21
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: ""
+image: "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop"
 ---
 
-# Squats: Stor guide til squat-teknik
+## Squats: Stor guide til squat-teknik
 
 **Så du vil gerne lære at squatte? Velkommen til den mest gennemførte guide med videoer og billeder til at gøre dig til verdensmester i squat. Squat er en af de bedste øvelser til at opbygge styrke, muskeludholdenhed og ren muskelmasse. Squats kan hjælpe dig på vej, om du vil tabe dig, få dig en sqaut-booty, eller tage muskelmasse på. Hvis du træner for at tage på i muskler og blive stærkere, men IKKE indarbejder squat i dit program, så går du glip af en meget essentiel del af din træning.**
 

@@ -7,7 +7,7 @@ category: "Proteinopskrifter"
 image: "https://images.unsplash.com/photo-1593001874117-c99c800e3eb0?w=800&auto=format&fit=crop"
 ---
 
-# Falafel opskrift
+## Falafel opskrift
 
 ## **Stegte og krydrede falafel**
 

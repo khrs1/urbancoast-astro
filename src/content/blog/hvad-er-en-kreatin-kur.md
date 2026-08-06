@@ -4,7 +4,7 @@ description: "Hvad er Kreatin Kur? Hvad er en kreatin loading fase? Læs svaret 
 pubDate: 2017-09-15
 author: "Jakob Thestrup"
 category: "Kosttilskudguides"
-image: ""
+image: "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop"
 ---
 
 Vi har lavet en kort artikel, der forklarer dig, hvad en kreatin kur er. Du har måske hørt udtrykket på træningsforum, eller nede i dit lokale træningscenter.

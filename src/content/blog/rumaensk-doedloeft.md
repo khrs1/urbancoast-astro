@@ -4,7 +4,7 @@ description: "Rumænsk dødløft | Komplet guide med video | Sådan undgår du s
 pubDate: 2018-03-26
 author: "Jakob Thestrup"
 category: "Træningsguides"
-image: ""
+image: "https://images.unsplash.com/photo-1517963879203-5f8b7e5e5b5b?w=800&auto=format&fit=crop"
 ---
 
 ## Hvad er konventionelt dødløft?

@@ -4,7 +4,7 @@ description: "Hvad er mass gainer, og hvem har brug for det? Læs vores guide ti
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: ""
+image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 tags: ["mass gainer", "vægtøgning", "kosttilskud", "kalorier", "hardgainer"]
 ---
 

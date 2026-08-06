@@ -3,6 +3,7 @@ title: "10 punkter til et hurtigt vægttab"
 description: "Hurtigt vægttab - Vi har samlet 10 nemme råd til dig, der vil tabe dig"
 pubDate: 2017-09-19
 author: "Jakob Thestrup"
+image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
 category: "Vægttab og diæt"
 ---
 

@@ -7,7 +7,7 @@ category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop"
 ---
 
-# Hvad er styrketræning?
+## Hvad er styrketræning?
 
 Som det kommer af navnet, er det en form for træning, hvor du udsætter dine muskler for belastninger på den ene eller den anden måde. Indenfor termen styrketræning finder man en lang række fysiske øvelser, som bl.a. indeholder styrkelse af muskulatur i ben, mave, arme, skulder, bryst, mm. Et eksempel på en kendt øvelse er squat, hvor du ikke blot træner en muskel, men aktiverer flere muskelgrupper samtidig. Styrketræning bliver anvendt med mange forskellige formål, hvad enten man træner for større muskelmasse eller blot for at genoptræne en beskadiget del af kroppen.
 

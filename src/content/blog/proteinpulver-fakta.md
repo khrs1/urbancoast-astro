@@ -7,7 +7,7 @@ category: "Kosttilskudguides"
 image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 ---
 
-# Fakta om proteinpulver
+## Fakta om proteinpulver
 
 Proteinpulver er et af de mest populære kosttilskud på markedet, og det bruges oftest i forbindelse med styrketræning og sport. Langt de fleste anvender proteintilskud i håb om at danne muskelmasse og/eller for at optimere restitution af kroppens muskler. Protein er nemlig grundstenen for muskelvækst, og derfor er det fuldstændigt essentielt at indtage tilstrækkelige mængder, hvis man vil udbygge kroppens muskelmasse. Samtidig nedbryder kroppen protein under træning, og man har altså også et øget behov, når musklerne skal restituere efter fysisk aktivitet. Der findes flere forskellige typer af proteinpulver, både animalske og vegetabilske udgaver, hvilket du kan læse mere om nedenfor.
 

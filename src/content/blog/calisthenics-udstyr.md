@@ -4,10 +4,10 @@ description: "Calisthenics kræver ikke meget udstyr, men det rigtige gør træn
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: ""
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 ---
 
-# Calisthenics udstyr: Hvad skal du bruge for at komme i gang
+## Calisthenics udstyr: Hvad skal du bruge for at komme i gang
 
 Calisthenics er en af de billigste træningsformer du kan dyrke. Du skal bruge din egen kropsvægt, og det er det hele. Men det rigtige udstyr kan gøre træningen nemmere, sjovere og mere effektiv.
 

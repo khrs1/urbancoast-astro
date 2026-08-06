@@ -3,6 +3,7 @@ title: "Undgå skader ved træning"
 description: "Skader ved træning? Undgå træningsskader med simple fifs & tricks"
 pubDate: 2018-03-24
 author: "Jakob Thestrup"
+image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop"
 category: "Træningsguides"
 ---
 

@@ -3,6 +3,7 @@ title: "Elektrolytter: Komplet guide til træning og hverdag"
 description: "Elektrolytter er mineraler der regulerer væskebalancen i kroppen. Læs hvad de er, hvorfor du mister dem ved træning, og om du skal tage tilskud."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=800&auto=format&fit=crop"
 category: "Kosttilskudguides"
 tags: ["elektrolytter", "hydrering", "træning", "mineraler", "væskebalance"]
 ---

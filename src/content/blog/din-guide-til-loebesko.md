@@ -3,6 +3,7 @@ title: "Din guide til løbesko"
 description: "En guide til hvordan løbeskoen er opbygget, hvad pronation er, og hvilke egenskaber man skal kigge efter, når man kigger efter løbesko."
 pubDate: 2018-02-03
 author: "Jakob Thestrup"
+image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop"
 category: "Træningsguides"
 ---
 

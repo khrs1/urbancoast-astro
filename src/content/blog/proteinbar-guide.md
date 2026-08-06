@@ -4,7 +4,7 @@ description: "Se hvilke proteinbarer der er bedst i 2026. Vi sammenligner protei
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: ""
+image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop"
 tags: ["proteinbar", "test", "bedste i test", "protein", "snack"]
 ---
 

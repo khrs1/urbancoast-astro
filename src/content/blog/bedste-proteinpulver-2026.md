@@ -4,7 +4,7 @@ description: "Se hvilket proteinpulver der er bedst i 2026. Vi sammenligner whey
 pubDate: 2026-08-04
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: ""
+image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 tags: ["proteinpulver", "test", "bedste i test", "whey", "kasein", "vegansk"]
 ---
 

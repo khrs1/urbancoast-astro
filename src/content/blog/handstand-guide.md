@@ -4,10 +4,10 @@ description: "Handstand er en af de bedste calisthenics-øvelser. Her får du en
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: ""
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 ---
 
-# Handstand Guide: Lær at Stå på Hænder
+## Handstand Guide: Lær at Stå på Hænder
 
 Handstand er en af de mest tilfredsstillende øvelser du kan lære. Du balancerer hele din kropsvægt på hænderne, og når du finder det rette balancepunkt, føles det som at svæve. Det kræver styrke, balance og tålmodighed, men det er absolut værd at lære.
 

@@ -4,7 +4,7 @@ description: "Hvad er pre workout? Læs vores komplette guide til PWO med ingred
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: ""
+image: "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=800&auto=format&fit=crop"
 tags: ["pre workout", "pwo", "kosttilskud", "koffein", "kreatin"]
 ---
 
