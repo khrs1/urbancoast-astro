@@ -42,7 +42,7 @@ const catDescriptions: Record<string, string> = {
             {post.data.image && (
               <div class="card-img">
                 <a href={`/blog/${post.slug}`}>
-                  <img src={post.data.image} alt={post.data.title} loading="lazy" />
+                  <img src={post.data.image} alt={post.data.title} loading="lazy" width="1200" height="675" decoding="async" />
                 </a>
               </div>
             )}

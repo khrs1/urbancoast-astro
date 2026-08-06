@@ -46,7 +46,7 @@ const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').r
 
   {image && (
     <div class="post-cover">
-      <img src={image} alt={title} />
+      <img src={image} alt={title} width="1200" height="675" loading="eager" decoding="async" fetchpriority="high" />
     </div>
   )}
 
