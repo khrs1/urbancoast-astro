@@ -1,5 +1,5 @@
 ---
-title: "Kosttilskud: Hvad skal du vide?"
+title: "Kosttilskud: hvad skal du vide?"
 description: "Kosttilskud kan hjælpe din træning, men mange er spild af penge. Læs vores guide til hvilke tilskud der virker, og hvilke du kan springe over."
 pubDate: 2026-08-05
 author: "Karsten Hansen"

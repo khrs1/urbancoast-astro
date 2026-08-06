@@ -1,5 +1,5 @@
 ---
-title: "Kalorier i mad: Den store guide"
+title: "Kalorier i mad: den store guide"
 description: "Vil du vide hvor mange kalorier der er i din mad? Her finder du kalorieindholdet for de mest almindelige fødevarer og lærer at tælle kalorier."
 pubDate: 2026-08-04
 author: "Karsten Hansen"

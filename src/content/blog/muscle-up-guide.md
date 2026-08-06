@@ -1,5 +1,5 @@
 ---
-title: "Muscle-up Guide: Lær at Lave din Første Muscle-up"
+title: "Muscle-up guide: Lær at lave din første muscle-up"
 description: "Muscle-up er en af de sejeste calisthenics-øvelser. Her får du en trin-for-trin guide til at lære muscle-up, fra pull-ups til din første rep."
 pubDate: 2026-08-05
 author: "Karsten Hansen"

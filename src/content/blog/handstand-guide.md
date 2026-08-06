@@ -1,5 +1,5 @@
 ---
-title: "Handstand (også kaldet håndstand) Guide: Lær at Stå på Hænder"
+title: "Handstand guide: Lær at stå på hænder"
 description: "Handstand er en af de bedste calisthenics-øvelser. Her får du en trin-for-trin guide til at lære at stå på hænder, fra vægstøtte til fristående."
 pubDate: 2026-08-05
 author: "Karsten Hansen"

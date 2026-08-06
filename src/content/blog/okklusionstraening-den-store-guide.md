@@ -1,5 +1,5 @@
 ---
-title: "Okklusionstræning: Den store guide"
+title: "Okklusionstræning: den store guide"
 description: "Okklusionstræning, KAATSU-træning, blood flow restricted exercise - en komplet guide til træningsformen"
 pubDate: 2017-09-19
 author: "Jakob Thestrup"

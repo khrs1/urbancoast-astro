@@ -1,5 +1,5 @@
 ---
-title: "Planche Guide: Lær Planche fra Bunden"
+title: "Planche guide: Lær planche fra bunden"
 description: "Planche er en af de mest avancerede calisthenics-skills. Her får du en trin-for-trin guide til planche progression, fra planche lean til full planche."
 pubDate: 2026-08-05
 author: "Karsten Hansen"

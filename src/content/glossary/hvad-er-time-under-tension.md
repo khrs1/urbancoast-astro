@@ -1,5 +1,5 @@
 ---
-title: "Hvad er TIME UNDER TENSION? (TUT)"
+title: "Hvad er time under tension? (TUT)"
 description: "Hvad er Time under Tension? Time under tension, eller TUT, bruges ofte i sammenhæng med bodybuilding, da det er vigtigt at musklen man træner presses under træning for at vokse. Time under tension ..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
