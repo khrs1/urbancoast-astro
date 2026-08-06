@@ -2,20 +2,20 @@
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
+function catSlug(cat: string) {
+  return cat.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-');
+}
+
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
   const categories = [...new Set(posts.map(p => p.data.category))];
   return categories.map(cat => ({
-    params: { kategori: cat },
+    params: { kategori: String(cat).toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-') },
     props: { category: cat, posts: posts.filter(p => p.data.category === cat).sort((a,b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()) },
   }));
 }
 
 const { category, posts } = Astro.props;
-
-function catSlug(cat: string) {
-  return cat.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-');
-}
 
 const catDescriptions: Record<string, string> = {
   'Træningsguides': 'Dybdgående guides til korrekt teknik i squat, dødløft, bænkpres, lunges og meget mere.',

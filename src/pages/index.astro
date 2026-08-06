@@ -35,7 +35,7 @@ const defaultCatMeta = { emoji: '&#127947;', desc: 'Teknikguides til squat, bæn
 <div class="section-header"><h2>Kategorier</h2></div>
 <div class="cards-grid" style="grid-template-columns:repeat(auto-fill,minmax(220px,1fr))">
 {uniqueCats.map(cat => (
-<a href={'/kategori/' + encodeURIComponent(cat)} style="text-decoration:none">
+<a href={'/kategori/' + catSlug(cat)} style="text-decoration:none">
 <div class="cat-card">
 <div class="cat-icon" set:html={catMeta[cat]?.emoji ?? defaultCatMeta.emoji}></div>
 <div class="cat-name">{cat}</div>
@@ -61,7 +61,7 @@ const defaultCatMeta = { emoji: '&#127947;', desc: 'Teknikguides til squat, bæn
 </div>
 )}
 <div class="fp-body">
-<a href={'/kategori/' + encodeURIComponent(featured.data.category)} class={'badge ' + catSlug(featured.data.category)}>{featured.data.category}</a>
+<a href={'/kategori/' + catSlug(featured.data.category)} class={'badge ' + catSlug(featured.data.category)}>{featured.data.category}</a>
 <h2>{featured.data.title}</h2>
 <p>{featured.data.description}</p>
 <div style="font-size:.8rem;color:var(--muted);margin-top:.25rem">
@@ -87,7 +87,7 @@ Af {featured.data.author} &#183; {new Intl.DateTimeFormat('da-DK',{year:'numeric
 </div>
 )}
 <div class="card-body">
-<a href={'/kategori/' + encodeURIComponent(post.data.category)} class={'badge ' + catSlug(post.data.category)}>{post.data.category}</a>
+<a href={'/kategori/' + catSlug(post.data.category)} class={'badge ' + catSlug(post.data.category)}>{post.data.category}</a>
 <h3><a href={'/blog/' + post.slug}>{post.data.title}</a></h3>
 <p class="card-excerpt">{post.data.description}</p>
 <div class="card-meta">
