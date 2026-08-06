@@ -3,6 +3,7 @@ title: "Hvad er HIIT?"
 description: "HIIT er en forkortelse for High Intencency Interval Training og er en type intervaltræning med høj intensitet. Forskellige typer HIIT træning har fandtes i årenes løb i forskellige træningstyper og..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["HIIT"]
 ---

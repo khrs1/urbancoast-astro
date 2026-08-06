@@ -3,6 +3,7 @@ title: "Hvad er dropset?"
 description: "Dropset er en intensitetsteknik hvor du reducerer vægten midt i et sæt uden pause. Læs hvordan dropset kan booste muskelvækst og hvornår du skal bruge det."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["træning", "intensitet", "hypertrofi", "dropset"]
 ---

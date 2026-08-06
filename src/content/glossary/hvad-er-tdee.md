@@ -3,6 +3,7 @@ title: "Hvad er TDEE?"
 description: "TDEE (Total Daily Energy Expenditure) er det samlede daglige energiforbrug. Læs hvordan du beregner TDEE og bruger det til vægttab eller muskelopbygning."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["ernæring", "TDEE", "energiforbrug", "vægttab", "muskelopbygning"]
 ---

@@ -5,6 +5,7 @@ pubDate: 2018-06-05
 author: "Karsten Hansen"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 ## Hvad er styrketræning?

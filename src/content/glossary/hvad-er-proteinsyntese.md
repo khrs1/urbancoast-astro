@@ -3,6 +3,7 @@ title: "Hvad er proteinsyntese?"
 description: "Proteinsyntese er processen hvor kroppen bygger nyt muskelprotein. Forklarer MPS, nitrogenbalance og hvordan du optimerer muskelopbygning gennem kost og træning."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["ernæring", "protein", "proteinsyntese", "muskelvækst"]
 ---

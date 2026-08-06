@@ -3,6 +3,7 @@ title: "Hvad er dragon flag?"
 description: "Dragon flag er en core-øvelse, hvor du holder kroppen strakt på skuldrene mens du løfter benene. Lær teknikken og progressionen her."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["dragon flag", "core", "calisthenics", "styrketræning"]
 ---

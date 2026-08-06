@@ -5,6 +5,7 @@ pubDate: 2018-03-27
 author: "Jakob Thestrup"
 category: "Artikler"
 image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 Kalorier og kiloJoule er den målestok mange bruger om deres madindtag og til at holde øje med, hvor meget energi man får ind igennem kosten. I denne artikel forklarer vi, hvad kcal og kJ er – **og vigtigst af alt, hvis du læser lidt videre giver vi dig en smart måde til at regne kcal til kJ.**

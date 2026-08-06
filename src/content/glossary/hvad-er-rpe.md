@@ -3,6 +3,7 @@ title: "Hvad er RPE?"
 description: "RPE (Rate of Perceived Exertion) er en skala for anstrengelse, der hjælper dig med at vurdere, hvor hårdt et sæt var. Læs hvordan du bruger RPE i din træning."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["træning", "RPE", "anstrengelse", "styrketræning"]
 ---

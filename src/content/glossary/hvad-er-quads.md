@@ -3,6 +3,7 @@ title: "Hvad er QUADS?"
 description: "Quads hedder Quadriceps femoris på latin og er den store muskelgruppe forrest på låret. Muskelgruppen består af 4 muskler på det forreste af låret, som dækker lårbensknoglen. Musklens er særligt i ..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1517836357463-8c0f1d3b8c3a?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["QUADS"]
 ---

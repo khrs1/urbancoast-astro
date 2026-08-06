@@ -4,6 +4,7 @@ description: "OCR løb kost | Sådan skal du spise efter OCR træning"
 pubDate: 2018-10-22
 author: "Jakob Thestrup"
 image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 category: "Kosttilskudguides"
 ---
 

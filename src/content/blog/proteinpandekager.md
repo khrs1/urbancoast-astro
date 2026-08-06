@@ -5,6 +5,7 @@ pubDate: 2017-09-19
 author: "Karsten Hansen"
 category: "Proteinopskrifter"
 image: "https://images.unsplash.com/photo-1528207776546-5b5b5b5b5b5b?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 Denne artikel indeholder affiliate links

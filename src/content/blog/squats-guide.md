@@ -5,6 +5,7 @@ pubDate: 2018-10-21
 author: "Karsten Hansen"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 ## Squats: Stor guide til squat-teknik

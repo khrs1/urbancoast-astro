@@ -5,12 +5,14 @@ interface Props {
   title: string;
   description: string;
   pubDate: Date;
+  updatedDate?: Date;
   author: string;
   category: string;
   image?: string;
 }
-const { title, description, pubDate, author, category, image } = Astro.props;
+const { title, description, pubDate, updatedDate, author, category, image } = Astro.props;
 const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(pubDate);
+const formattedUpdated = updatedDate ? new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(updatedDate) : null;
 const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-');
 ---
 <Layout
@@ -19,6 +21,7 @@ const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').r
   image={image}
   type="article"
   publishedTime={pubDate.toISOString()}
+  modifiedTime={updatedDate ? updatedDate.toISOString() : pubDate.toISOString()}
   author={author}
 >
   <div class="post-header">
@@ -31,6 +34,12 @@ const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').r
         <span>Af <strong>{author}</strong></span>
         <span class="sep">&#183;</span>
         <span>{formattedDate}</span>
+        {formattedUpdated && (
+          <>
+            <span class="sep">&#183;</span>
+            <span>Opdateret: {formattedUpdated}</span>
+          </>
+        )}
       </div>
     </div>
   </div>

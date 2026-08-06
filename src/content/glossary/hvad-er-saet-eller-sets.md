@@ -3,6 +3,7 @@ title: "Hvad er SÆT, eller SETS?"
 description: "Sets bruges til at opbygge træningsprogrammer, hvor man inddeler en øvelse i runder, hvor man laver et bestemt antal gentagelser, eller repititioner (reps). Set og sets er den engelske term for dis..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["SÆT, eller SETS"]
 ---

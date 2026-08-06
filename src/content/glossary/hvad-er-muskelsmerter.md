@@ -3,6 +3,7 @@ title: "Hvad er muskelsmerter efter træning?"
 description: "Muskelsmerter efter træning kaldes DOMS. Læs hvorfor det opstår, hvor længe det varer og hvad du kan gøre for at lindre det."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["muskelsmerter", "DOMS", "restitution", "muskelømhed"]
 ---

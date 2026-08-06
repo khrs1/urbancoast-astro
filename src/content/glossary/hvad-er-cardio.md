@@ -3,6 +3,7 @@ title: "Hvad er cardio?"
 description: "Cardio er aerob træning, der forbedrer dit hjerte-kar-system og forbrænder kalorier. Forklarer hvad cardio er, forskellige former og hvordan du kombinerer det med styrketræning."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["cardio", "aerob træning", "kondition", "udholdenhed"]
 ---

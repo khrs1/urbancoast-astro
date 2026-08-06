@@ -3,6 +3,7 @@ title: "Hvad er 1RM?"
 description: "1RM (one-repetition maximum) er den maksimale vægt du kan løfte præcis én gang med korrekt teknik. Læs hvordan du beregner og bruger 1RM i din træning."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["træning", "styrketræning", "maksimal styrke", "1RM"]
 ---

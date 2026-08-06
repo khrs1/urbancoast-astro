@@ -3,6 +3,7 @@ title: "Hvad er KONCENTRISK TRÆNING?"
 description: "Koncentrisk træning er det modsatte af excentrisk træning og et modstykke til at f.eks. 'holde igen' mod en vægt, der sænkes. Koncentrisk muskelarbejde er en sammentrækning i musklen under belastni..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["KONCENTRISK TRÆNING"]
 ---

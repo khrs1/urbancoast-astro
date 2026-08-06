@@ -5,6 +5,7 @@ pubDate: 2021-04-18
 author: "Karsten Hansen"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1517836357463-d4f4b1b5b5b5b?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 CrossFit grips og pull-up grips er det mest effektive middel mod vabler og hård hud fra træning. Hvis du træner meget pull-ups, toes-to-bar eller muscle-ups, kender du problemet. Huden slider, vabler opstår, og du må springe træning over mens hænderne hele.

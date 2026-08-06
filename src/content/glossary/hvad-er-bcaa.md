@@ -3,6 +3,7 @@ title: "Hvad er BCAA?"
 description: "BCAA er tre essentielle aminosyrer (leucin, isoleucin og valin), som kroppen ikke selv kan producere. Forklarer hvad BCAA er, virkning og om du har brug for det som kosttilskud."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["BCAA", "aminosyrer", "protein", "kosttilskud"]
 ---

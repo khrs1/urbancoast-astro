@@ -5,6 +5,7 @@ pubDate: 2021-04-10
 author: "Karsten Hansen"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1517836357463-d4f4b1b5b5b5b?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 Hård hud og vabler på hænderne er et velkendt problem for alle der træner CrossFit eller vægtløftning. Det er irriterende når du holder kæresten i hånden. Det er værre når vablerne sprækker og du må springe træningen over.

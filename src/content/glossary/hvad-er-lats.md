@@ -3,6 +3,7 @@ title: "Hvad er LATS?"
 description: "Lats er også kendt som Latissimus dorsi, og er den muskel, er den brede muskel på ryggen. Faktisk betyder 'latus' bred på latin. Musklen går fra hver sin side af ryggen og hæfter ved lænden og lige..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["LATS"]
 ---

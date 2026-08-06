@@ -3,6 +3,7 @@ title: "Hvad er muscle-up?"
 description: "Muscle-up er en avanceret calisthenics-øvelse, hvor du trækker dig op og over en bar i én bevægelse. Lær teknikken og progressionen her."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["muscle-up", "calisthenics", "pull-up", "styrketræning"]
 ---

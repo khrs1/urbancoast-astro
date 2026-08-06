@@ -3,6 +3,7 @@ title: "Hvad er CNS, eller Central Nervous System?"
 description: "CNS står for Central Nervous System, eller centralnervesystemet. Centralnervesystemet består af rygraden og hjernen og er ansvarlig for at koordinere bevægelser i kroppen. Når man styrketræner træn..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["CNS, eller Central Nervous System"]
 ---

@@ -3,6 +3,7 @@ title: "Hvad er planche?"
 description: "Planche er en avanceret calisthenics-øvelse, hvor du holder kroppen vandret parallel med jorden på hænderne. Lær progressionen her."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["planche", "calisthenics", "balance", "styrketræning"]
 ---

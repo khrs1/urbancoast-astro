@@ -24,6 +24,7 @@ const glossary = defineCollection({
     category: z.string().default('Ordbog'),
     image: z.string().optional(),
     tags: z.array(z.string()).optional(),
+    updatedDate: z.coerce.date().optional(),
   }),
 });
 

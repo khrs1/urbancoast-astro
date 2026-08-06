@@ -3,6 +3,7 @@ title: "Hvad er IF eller INTERMITTENT FASTING?"
 description: "Intermittent Fasting er en måde at strukturere måltider og kost sammen, hvor man forholder sig fastende i en periode. Metoden er ikke fokuseret på, hvilke typer måltider man spiser, men mere hvornå..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["IF eller INTERMITTENT FASTING"]
 ---

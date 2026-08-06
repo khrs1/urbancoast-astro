@@ -3,6 +3,7 @@ title: "Hvad er GAINS?"
 description: "Hvad betyder gains i fitnessverdenen? Gains er et begreb, der betyder at man har har erhvervet sig noget, eller har opnået en gevinst. I fitnesssammenhæng betyder gains at man har tager muskelmasse..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["GAINS"]
 ---

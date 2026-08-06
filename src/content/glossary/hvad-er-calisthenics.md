@@ -3,6 +3,7 @@ title: "Hvad er calisthenics?"
 description: "Calisthenics er træning med din egen kropsvægt som modstand. Lær hvad det er, hvilke øvelser det indeholder, og hvordan du kommer i gang."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["calisthenics", "kropsvægtstræning", "styrketræning"]
 ---

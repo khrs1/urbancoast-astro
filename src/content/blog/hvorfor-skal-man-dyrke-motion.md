@@ -5,6 +5,7 @@ pubDate: 2018-03-29
 author: "Jakob Thestrup"
 category: "Artikler"
 image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 Hvorfor skal man dyrke motion? Der er ingen tvivl om, at en aktiv livsstil er godt for det generelle helbred, og flere studier har endda bevist, at fysisk aktivitet er med til at forlænge livet. Et stort studie fra 2012 med mere end 650.000 deltagere viste, at folk, der er fysisk aktive og normalvægtige lever op mod 7,2 år længere end folk, der er inaktive og overvægtige (Moore SC, et al. 2012).

@@ -3,6 +3,7 @@ title: "Hvad er PROGRESSION?"
 description: "Progression bruges ofte i sammenhæng med træningsprogrammer, da progression betyder 'fremgang'. At indtænke progression i træningsprogrammer er essentielt for at opnå resultater. Progression bidrag..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["PROGRESSION"]
 ---

@@ -5,6 +5,7 @@ pubDate: 2020-11-06
 author: "Karsten Hansen"
 category: "Proteinopskrifter"
 image: "https://images.unsplash.com/photo-1593001874117-c99c800e3eb0?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 ## Falafel opskrift

@@ -5,6 +5,7 @@ pubDate: 2020-08-20
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
 image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 ## Fakta om proteinpulver

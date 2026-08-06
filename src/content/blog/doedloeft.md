@@ -5,6 +5,7 @@ pubDate: 2018-03-29
 author: "Jakob Thestrup"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1517963879203-5f8b7e5e5b5b?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 ## Hvad er dødløft?

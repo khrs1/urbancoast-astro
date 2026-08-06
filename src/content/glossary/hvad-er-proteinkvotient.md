@@ -3,6 +3,7 @@ title: "Hvad er proteinkvotient?"
 description: "Proteinkvotient er proteinindtag i forhold til kropsvægt. Læs hvor meget protein du behøver og hvordan du beregner dit daglige behov."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["ernæring", "protein", "kost", "styrketræning"]
 ---

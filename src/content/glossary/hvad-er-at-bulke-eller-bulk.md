@@ -3,6 +3,7 @@ title: "Hvad er at bulke, eller bulk?"
 description: "Bulk er det modsætte af at cutte. Bulk, eller bulking, er at spise en større mængde mad end kroppen har brug for og dermed tage på i vægt. Grunden til man gøre dette er at tage muskelmasse på hurti..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["at bulke, eller bulk"]
 ---

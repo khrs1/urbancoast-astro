@@ -3,6 +3,7 @@ title: "Hvad er MMC, eller MIND MUSCLE CONNECTION?"
 description: "MMC står for Mind Muscle Connection, men hvad er Mind Muscle Connection? Det er en træningsteknik, der ofte bruges af bodybuildere for at holde fokus på en specifik muskel under træning. Når man la..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["MMC, eller MIND MUSCLE CONNECTION"]
 ---

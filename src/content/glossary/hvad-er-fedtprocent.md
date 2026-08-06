@@ -3,6 +3,7 @@ title: "Hvad er fedtprocent?"
 description: "Fedtprocent er andelen af kropsvægt der er fedt. Forklarer sunde niveauer, målemetoder og forskellen fra BMI."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["kropssammensætning", "fedtprocent", "BMI", "vægttab"]
 ---

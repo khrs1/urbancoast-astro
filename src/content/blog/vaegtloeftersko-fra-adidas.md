@@ -5,6 +5,7 @@ pubDate: 2021-04-15
 author: "Karsten Hansen"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 Vægtløftersko fra Adidas er blandt de mest populære sko til squat og vægtløftning. Adidas har lavet vægtløftersko i årtier og har tre hovedmodeller på markedet. Her gennemgår vi dem alle tre så du kan vælge den rigtige til din træning.

@@ -3,6 +3,7 @@ title: "Hvad er parallettes?"
 description: "Parallettes er to korte parallelle barer, der bruges til calisthenics og kropsvægtstræning. Lær hvad du kan bruge dem til, og hvordan du vælger et par."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["parallettes", "calisthenics", "udstyr", "kropsvægtstræning"]
 ---

@@ -3,6 +3,7 @@ title: "Hvad er søvn og restitution?"
 description: "Søvn er den vigtigste faktor for muskelrestitution og træningsresultater. Forklarer søvnstadier, hvor meget du behøver og hvordan det påvirker muskelvækst."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["restitution", "søvn", "helbred", "muskelvækst"]
 ---

@@ -3,6 +3,7 @@ title: "Hvad er fiskeolie?"
 description: "Fiskeolie er en kilde til omega-3 fedtsyrer. Læs hvad EPA og DHA er, hvordan det virker, og om du skal tage det som tilskud."
 pubDate: 2026-08-04
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["fiskeolie", "omega-3", "EPA", "DHA", "kosttilskud"]
 ---

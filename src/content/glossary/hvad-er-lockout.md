@@ -3,6 +3,7 @@ title: "Hvad er LOCKOUT?"
 description: "Hvad er Lockout i træning? Lockout i træningssammenhæng er når et led strækkes til sådan en grad at man låser i ledet og musklerne aftlastes. F.eks. i bænkpress, når vægten skubbes til yderpunktet ..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["LOCKOUT"]
 ---

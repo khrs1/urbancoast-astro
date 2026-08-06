@@ -3,6 +3,7 @@ title: "Hvad er ROM – RANGE OF MOTION?"
 description: "Range of motion er det vi på dansk kalder \"bevægelsesudslaget\" i en bestemt bevægelse. En golfspiller vil f.eks. have en range of motion i et golfslag og en styrkeløfter vil have en range of motion..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["ROM – RANGE OF MOTION"]
 ---

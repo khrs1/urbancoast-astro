@@ -3,6 +3,7 @@ title: "Hvad er restitution?"
 description: "Restitution er kroppens genopbygning efter træning. Forklarer aktiv vs passiv restitution, søvn og ernæringens rolle i muskelgenvækst."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["træning", "restitution", "søvn", "rest"]
 ---

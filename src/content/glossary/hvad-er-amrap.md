@@ -3,6 +3,7 @@ title: "Hvad er AMRAP?"
 description: "AMRAP er et udtryk, der er en stor del af CrossFit verdenen. AMRAP står for \"As Many Rounds As Possible\". Træningen vil være inden for en tidsramme fremfor at lave X antal gentagelser / øvelser. De..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["AMRAP"]
 ---

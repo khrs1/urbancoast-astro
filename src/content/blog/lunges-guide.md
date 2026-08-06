@@ -5,6 +5,7 @@ pubDate: 2018-03-27
 author: "Jakob Thestrup"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop"
+updatedDate: "2026-08-06"
 ---
 
 

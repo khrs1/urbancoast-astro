@@ -3,6 +3,7 @@ title: "Hvad er dehydrering?"
 description: "Dehydrering er tab af kropsvæske, der reducerer præstation betydeligt. Forklarer symptomer, forebyggelse og hvor meget vand du skal drikke ved træning."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["ernæring", "dehydrering", "væske", "træning"]
 ---

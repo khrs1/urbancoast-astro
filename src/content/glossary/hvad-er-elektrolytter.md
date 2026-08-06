@@ -3,6 +3,7 @@ title: "Hvad er elektrolytter?"
 description: "Elektrolytter er mineraler der regulerer væskebalancen i kroppen. Læs hvad de gør, hvorfor du mister dem ved træning, og om du skal tage tilskud."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["elektrolytter", "mineraler", "væskebalance", "træning"]
 ---

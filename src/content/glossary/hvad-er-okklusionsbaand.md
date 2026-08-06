@@ -3,6 +3,7 @@ title: "Hvad er okklusionsbånd?"
 description: "Okklusionsbånd er elastiske bånd der bruges til okklusionstræning (BFR). Læs hvad de gør, hvordan de virker og hvilke du skal købe."
 pubDate: 2026-08-04
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["okklusionsbånd", "BFR", "okklusionstræning", "træningsudstyr"]
 ---

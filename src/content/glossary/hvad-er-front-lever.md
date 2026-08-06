@@ -3,6 +3,7 @@ title: "Hvad er front lever?"
 description: "Front lever er en statisk calisthenics-øvelse, hvor du holder kroppen vandret under en bar med ansigtet op. Lær teknikken og progressionen her."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["front lever", "calisthenics", "rygstyrke", "isometrisk"]
 ---

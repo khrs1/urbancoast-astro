@@ -3,6 +3,7 @@ title: "Hvad er magnesium?"
 description: "Magnesium er et vigtigt mineral for muskelfunktion og restitution. Læs hvorfor magnesium er vigtigt når du styrketræner."
 pubDate: 2026-08-04
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["magnesium", "mineral", "muskel", "kosttilskud"]
 ---

@@ -3,6 +3,7 @@ title: "Hvad er STRICT?"
 description: "Hvis du tager en øvelse strict inden for træningens verden, så betyder det du laver øvelsen uden at \"snyde\", eller evt. bruge momentum fra bevægelsen. Et eksempel kunne være en pullup, hvor du hæve..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["STRICT"]
 ---

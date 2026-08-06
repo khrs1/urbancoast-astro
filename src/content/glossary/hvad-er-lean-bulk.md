@@ -3,6 +3,7 @@ title: "Hvad er LEAN BULK?"
 description: "Lean bulk er ligesom bulking et mål om at tage vægt på. Der hvor lean bulking skiller sig ud det almindelige bulk er der er fokus på at tage ren muskelmasse på og ikke øge fedtdepoterne, ligesom de..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["LEAN BULK"]
 ---

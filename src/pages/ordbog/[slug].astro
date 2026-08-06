@@ -13,6 +13,8 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(entry.data.pubDate);
+const formattedUpdated = entry.data.updatedDate ? new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(entry.data.updatedDate) : null;
+const updatedTime = entry.data.updatedDate ? entry.data.updatedDate.toISOString() : entry.data.pubDate.toISOString();
 ---
 
 <Layout
@@ -20,6 +22,7 @@ const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month:
   description={entry.data.description}
   type="article"
   publishedTime={entry.data.pubDate.toISOString()}
+  modifiedTime={updatedTime}
   author={entry.data.author}
 >
   <div class="post-header">
@@ -32,6 +35,12 @@ const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month:
         <span>Af <strong>{entry.data.author}</strong></span>
         <span class="sep">&#183;</span>
         <span>{formattedDate}</span>
+        {formattedUpdated && (
+          <>
+            <span class="sep">&#183;</span>
+            <span>Opdateret: {formattedUpdated}</span>
+          </>
+        )}
       </div>
     </div>
   </div>

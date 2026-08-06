@@ -3,6 +3,7 @@ title: "Hvad er AMQRAP?"
 description: "AMQRAP betyder \"As Many Quality Reps As Possible\", hvilket er tæt på at være det samme som AMRAP. Forskellen er at her skal du have fokus på at lave gentagelser uden, at miste koncentrationen og fo..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["AMQRAP"]
 ---

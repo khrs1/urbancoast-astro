@@ -3,6 +3,7 @@ title: "Hvad er sarkoplasmisk hypertrofi?"
 description: "Sarkoplasmisk hypertrofi er vækst af muskelcellens væske og energilagre. Forklarer forskellen fra myofibrillær hypertrofi og hvordan det påvirker muskelstørrelse."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
+image: "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["træning", "hypertrofi", "muskelvækst", "sarkoplasmisk"]
 ---
