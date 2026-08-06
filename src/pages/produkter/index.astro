@@ -20,7 +20,7 @@ const categories = [...new Set(products.map(p => p.data.category))];
       {categories.map(cat => (
         <div style="margin-bottom:2.5rem">
           <h2 style="font-size:1.5rem;font-weight:800;margin-bottom:1.5rem">{cat}</h2>
-          <div class="cards-grid" style="grid-template-columns:repeat(auto-fill,minmax(min(100%,250px),1fr))">
+          <div class="cards-grid" style="grid-template-columns:repeat(auto-fill,minmax(250px,1fr));max-width:100%">
             {products.filter(p => p.data.category === cat).map(product => (
               <ProductCard
                 name={product.data.title}

@@ -4,7 +4,7 @@ description: "Bodylab Whey 100 er et af de mest populære proteinpulvere i Danma
 pubDate: 2026-08-06
 author: "Karsten Hansen"
 category: "Proteinpulver"
-image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=400&auto=format&fit=crop"
+image: https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=400&auto=format&fit=crop
 price: "169 kr"
 affiliateId: "bodylab-protein"
 network: "partner-ads"
