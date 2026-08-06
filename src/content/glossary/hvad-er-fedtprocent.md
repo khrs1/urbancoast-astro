@@ -31,4 +31,4 @@ En [styrketræner](/blog/hvad-er-styrketræning) med 100 kg og 10% fedtprocent v
 
 ## Hvordan reducerer du fedtprocent?
 
-For at reducere fedtprocent skal du være i et [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud) over tid. Kombinert med [styrketræning](/blog/hvad-er-styrketræning) bevarer du muskelmassen, mens fedtet reduceres. Læs mere i vores guide til [vægttab](/blog/10-punkter-til-et-hurtigt-vaegttab).
+For at reducere fedtprocent skal du være i et [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud) over tid. Kombinert med styrketræning bevarer du muskelmassen, mens fedtet reduceres. Læs mere i vores guide til [vægttab](/blog/10-punkter-til-et-hurtigt-vaegttab).

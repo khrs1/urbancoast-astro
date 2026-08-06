@@ -107,7 +107,7 @@ Læs mere i vores guide om [proteinpulver fakta](/blog/proteinpulver-fakta).
 
 Nej. Protein fra mad som kylling, æg, fisk og bælgfrugter er mindst lige så godt. Proteinpulver er et supplement, ikke en erstatning for sund kost.
 
-Men hvis du [styrketræner](/blog/hvad-er-styrketræning) og har svært ved at få nok protein, er det en nem og effektiv måde at nå dit mål på.
+Men hvis du styrketræner og har svært ved at få nok protein, er det en nem og effektiv måde at nå dit mål på.
 
 ## Konklusion
 
@@ -115,4 +115,4 @@ Det bedste proteinpulver for de fleste er en **whey protein** med over 75 g prot
 
 Husk at tjekke prisen pr. gram protein, ikke bare prisen pr. pakke. Nogle gange er de store poser billigere i længden.
 
-Vil du vide mere om protein? Læs vores [guide til proteinpulver](/blog/proteinpulver-fakta) eller tjek hvor meget protein du skal have med vores [protein beregner](/tools/protein-beregner).
+Vil du vide mere om protein? Læs vores guide til proteinpulver eller tjek hvor meget protein du skal have med vores protein beregner.

@@ -35,12 +35,12 @@ Dehydrering er et tab af kropsvæske, der opstår når du mister mere væske end
 |---|---|
 | Hverdags (stillesiddende) | 2-3 liter |
 | Let træning (<1 time) | 3-4 liter |
-| Hård [styrketræning](/blog/hvad-er-styrketræning) | 4-5 liter |
+| Hård styrketræning | 4-5 liter |
 | Udendørs træning (varmt vejr) | 5-6+ liter |
 
 ## Forebyggelse af dehydrering
 
-1. Drik vand regelmæssigt gennem hele dagen, ikke kun ved [træning](/blog/hvad-er-styrketræning)
+1. Drik vand regelmæssigt gennem hele dagen, ikke kun ved træning
 2. Drik 500 ml vand 2 timer før træning
 3. Drik 200-300 ml hver 15-20 minut under træning
 4. Tjek urinens farve — den bør være lysegul
@@ -48,4 +48,4 @@ Dehydrering er et tab af kropsvæske, der opstår når du mister mere væske end
 
 ## Brug af kalk og dehydrering
 
-[Kalk](/blog/kalk-til-træning) (magnesium) tørrer hænderne ud og kan i store mængder bidrage til mild dehydrering. Skyl hænder og drik ekstra vand ved brug af kalk.
+Kalk (magnesium) tørrer hænderne ud og kan i store mængder bidrage til mild dehydrering. Skyl hænder og drik ekstra vand ved brug af kalk.

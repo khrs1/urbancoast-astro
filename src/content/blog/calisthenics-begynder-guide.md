@@ -47,11 +47,11 @@ Hvis du er ny i calisthenics, skal du fokusere på et par grundlæggende øvelse
 
 ### Push-ups
 
-Push-ups er den ultimative overkropsøvelse i calisthenics. Du træner bryst, skuldre og bagerste armmuskulatur. Start på knæene hvis du ikke kan lave en fuld push-up endnu. Læs vores komplette [push-up guide](/blog/push-up-guide) for teknik og progressioner.
+Push-ups er den ultimative overkropsøvelse i calisthenics. Du træner bryst, skuldre og bagerste armmuskulatur. Start på knæene hvis du ikke kan lave en fuld push-up endnu. Læs vores komplette push-up guide for teknik og progressioner.
 
 ### Pull-ups
 
-Pull-ups træner ryg og arme. Det er en udfordrende øvelse for begyndere, men en af de bedste du kan lave. Start med Australian pull-ups hvor fødderne er på jorden. Vores [pull-up guide](/blog/pull-up-guide) viser dig hvordan du bygger op til din første pull-up.
+Pull-ups træner ryg og arme. Det er en udfordrende øvelse for begyndere, men en af de bedste du kan lave. Start med Australian pull-ups hvor fødderne er på jorden. Vores pull-up guide viser dig hvordan du bygger op til din første pull-up.
 
 ### Squats med kropsvægt
 
@@ -63,7 +63,7 @@ Planke er den bedste core-øvelse i calisthenics. Du træner hele din midtsektio
 
 ### Dips
 
-Dips træner bryst, skuldre og bagerste armmuskulatur. Du kan starte med bænkdips på en stol eller bænk hjemme. Vores [dips guide](/blog/dips-guide) viser dig progressionen fra begynder til avanceret.
+Dips træner bryst, skuldre og bagerste armmuskulatur. Du kan starte med bænkdips på en stol eller bænk hjemme. Vores dips guide viser dig progressionen fra begynder til avanceret.
 
 ## Sådan kommer du i gang
 
@@ -116,7 +116,7 @@ Calisthenics kan hjælpe dig med at tabe dig, men det er ikke det mest effektive
 
 Hvis du vil tabe dig, skal du kombinere calisthenics med en kaloriebegrænset kost og lidt konditionstræning. Styrketræningen er vigtig for at bevare muskelmassen mens du taber dig. Det betyder at du mister fed, ikke muskel.
 
-Læs mere i vores guide til [vægttab og diæt](/blog/sund-kostplan) hvis det er dit mål.
+Læs mere i vores guide til vægttab og diæt hvis det er dit mål.
 
 ## Opvarmning før træning
 

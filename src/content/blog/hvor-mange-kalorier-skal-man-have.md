@@ -97,13 +97,13 @@ Hvis du kun kigger på det samlede kalorietal og ignorerer madens kvalitet, risi
 
 Dit kaloriebehov ændrer sig, når din vægt, din kropssammensætning eller din aktivitet ændrer sig. Hvis du taber 5 kg, falder dit TDEE tilsvarende.
 
-En god regel er at genberegne din TDEE hver 4-6 uge, eller hver gang du har ændret 2-3 kg i en retning. Brug [kalorieberegneren](/tools/kalorieberegner) igen, så tager det to minutter.
+En god regel er at genberegne din TDEE hver 4-6 uge, eller hver gang du har ændret 2-3 kg i en retning. Brug kalorieberegneren igen, så tager det to minutter.
 
 ## Konklusion
 
 Hvor mange kalorier du skal have om dagen, afhænger af din BMR, din aktivitet og dit mål. Beregn din TDEE, juster op eller ned afhængigt af om du vil bygge, tabe eller holde, og hold øje med dit indtag over en uge ad gangen. Det er ikke mere kompliceret, selvom det kan føles sådan i starten.
 
-Hvis du vil have hjælp til at planlægge din kost i praksis, kan du starte med vores [sund kostplan](/blog/sund-kostplan) og bruge [kalorieberegneren](/tools/kalorieberegner) til at få dit tal.
+Hvis du vil have hjælp til at planlægge din kost i praksis, kan du starte med vores sund kostplan og bruge kalorieberegneren til at få dit tal.
 
 ## Referencer
 

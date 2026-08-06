@@ -31,4 +31,4 @@ Du skal have stærke skuldre, en stærk core og god kropskontrol. Den øverste a
 4. **Gå til straddle:** Når tuck er stabil, spred benene.
 5. **Saml benene:** Når straddle er stabil, gå til full flag.
 
-Brug en stærk stang eller [parallettes](/ordbog/hvad-er-parallettes) med solid fod. Human flag kræver stabilt udstyr, da du belaster det sidelæns. Læs mere om [calisthenics](/ordbog/hvad-er-calisthenics) for flere imponerende øvelser.
+Brug en stærk stang eller parallettes med solid fod. Human flag kræver stabilt udstyr, da du belaster det sidelæns. Læs mere om [calisthenics](/ordbog/hvad-er-calisthenics) for flere imponerende øvelser.

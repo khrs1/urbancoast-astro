@@ -28,4 +28,4 @@ Dette skaber metabolisk stress, som er den primære driver for sarkoplasmisk hyp
 
 ## Betydning for okklusionstræning
 
-[Okklusionstræning](/blog/okklusionstraening-den-store-guide) er især effektiv til sarkoplasmisk hypertrofi, da den skaber massive metabolisk stress ved lave vægte.
+Okklusionstræning er især effektiv til sarkoplasmisk hypertrofi, da den skaber massive metabolisk stress ved lave vægte.

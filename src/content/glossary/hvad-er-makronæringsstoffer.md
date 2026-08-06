@@ -37,4 +37,4 @@ En typisk fordeling for en person der styrketræner kunne være:
 - Kulhydrat: 40-50%
 - Fedt: 20-30%
 
-Den præcise fordeling afhænger af dine mål — muskelopbygning, [vægttab](/blog/sund-kostplan) eller vedligeholdelse. Læs mere i vores [sund kostplan](/blog/sund-kostplan).
+Den præcise fordeling afhænger af dine mål — muskelopbygning, vægttab eller vedligeholdelse. Læs mere i vores sund kostplan.

@@ -129,7 +129,7 @@ Her er hvordan du gør hver øvelse sværere over tid. Følg stien fra top til b
 3. Pistol squat progression
 4. Fuld pistol squat
 
-Læs de enkelte guides for detaljeret teknik: [pull-up guide](/blog/pull-up-guide), [push-up guide](/blog/push-up-guide) og [dips guide](/blog/dips-guide).
+Læs de enkelte guides for detaljeret teknik: pull-up guide, push-up guide og dips guide.
 
 ## Hvor længe skal du følge programmet?
 

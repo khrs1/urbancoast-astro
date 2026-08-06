@@ -85,7 +85,7 @@ Hvis du dyrker udholdenhedssport som løb, cykling eller [cardio](/ordbog/hvad-e
 
 En tommelfingerregel: For hver times hård træning mister du 500-1000 mg natrium gennem sved. En elektrolyt drik kan hjælpe med at erstatte det.
 
-Brug også vores [vand beregner](/tools/vand-beregner) til at se hvor meget væske du skal drikke på en dag.
+Brug også vores vand beregner til at se hvor meget væske du skal drikke på en dag.
 
 ## For meget kan være farligt
 
@@ -99,4 +99,4 @@ Elektrolytter er vigtige for din krop, men de fleste får nok gennem maden. Et t
 
 Vælg en banan og et glas mælk frem for et dyrt tilskud, hvis din træning er kort. Hvis du træner længe og hårdt, kan en elektrolyt drik eller pulver være en god investering.
 
-Brug også vores [kalorieberegner](/tools/kalorieberegner) og [protein beregner](/tools/protein-beregner) til at planlægge resten af din kost omkring træningen.
+Brug også vores kalorieberegner og protein beregner til at planlægge resten af din kost omkring træningen.

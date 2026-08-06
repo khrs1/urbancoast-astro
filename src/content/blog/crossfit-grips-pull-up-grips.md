@@ -105,7 +105,7 @@ Det afhænger af dit budget og dine behov. Her er tommelfingerreglen:
 
 Uanset hvilket du vælger, får du et grip der beskytter dine hænder bedre end ingenting. Det vigtigste er at du begynder at bruge grips før du får vabler.
 
-Læs vores [pull-up guide](/blog/pull-up-guide) for at lære pull-up teknikken, og vores guide til [hvordan du undgår hård hud](/blog/saadan-undgaar-du-hard-hud-pa-haenderne) for flere tips til hudpleje.
+Læs vores [pull-up guide](/blog/pull-up-guide) for at lære pull-up teknikken, og vores guide til hvordan du undgår hård hud for flere tips til hudpleje.
 
 ## Konklusion
 
@@ -113,4 +113,4 @@ CrossFit grips og pull-up grips er den bedste investering du kan lave hvis du tr
 
 Victory Grips 3 Finger er premium-valget. JAW Pull-up Grips er budget-valget. Begge er bedre end at lade hænderne tage hele slaget.
 
-Husk at grips ikke erstatter god grebsteknik. Kombiner grips med [de rette vaner](/blog/saadan-undgaar-du-hard-hud-pa-haenderne) og du vil have sunde hænder i mange år.
+Husk at grips ikke erstatter god grebsteknik. Kombiner grips med de rette vaner og du vil have sunde hænder i mange år.

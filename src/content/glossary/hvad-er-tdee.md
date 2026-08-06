@@ -11,7 +11,7 @@ TDEE (Total Daily Energy Expenditure) er den samlede mængde energi, din krop fo
 
 ## Sådan beregner du TDEE
 
-1. Beregn din [BMR](/ordbog/hvad-er-bmr) med Mifflin-St Jeor formelen
+1. Beregn din BMR med Mifflin-St Jeor formelen
 2. Gang BMR med en aktivitetsfaktor:
 
 | Aktivitetsniveau | Beskrivelse | Faktor |

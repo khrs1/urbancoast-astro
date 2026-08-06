@@ -149,7 +149,7 @@ Push-ups træner bryst, skuldre og triceps i en horisontal bevægelse. Dips træ
 
 Dips aktiverer triceps mere end push-ups [1]. Det gør dips til et bedre valg hvis du vil bygge tricepsstyrke.
 
-Den bedste tilgang er at lave begge. Push-ups og dips komplementer hinanden. Vores [calisthenics program](/blog/calisthenics-program) har begge øvelser indbygget.
+Den bedste tilgang er at lave begge. Push-ups og dips komplementer hinanden. Vores calisthenics program har begge øvelser indbygget.
 
 ## Hvilket udstyr skal du bruge?
 

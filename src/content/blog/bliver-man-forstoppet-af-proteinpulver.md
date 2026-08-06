@@ -38,7 +38,7 @@ Du kan også købe rene kostfibre og blande dem i din proteinshake. Bulkpowders 
 
 Hvis du er laktosefølsom, er løsningen at skifte til et laktosefrit proteinpulver. Valleprotein-isolat (Whey Isolate) indeholder meget lidt laktose og er et godt valg. Du kan også vælge et vegansk proteinpulver baseret på ærter eller ris, som er helt frit for laktose.
 
-Læs mere om de forskellige typer i vores [guide til proteinpulver fakta](/blog/proteinpulver-fakta).
+Læs mere om de forskellige typer i vores guide til proteinpulver fakta.
 
 ### 4. Drik mere vand
 
@@ -52,4 +52,4 @@ Proteinpulver skal være et supplement, ikke en erstatning for rigtig mad. Sørg
 
 Proteinpulver giver ikke normalt forstoppelse, men det kan ske, hvis du er laktosefølsom, får for få fibre, eller drikker for lidt vand. Løsningen er enkel: vælg et laktosefrit proteinpulver, tilføj kostfibre til din shake, og drik rigeligt med vand.
 
-Vil du vide mere? Læs vores [guide til proteinpulver fakta](/blog/proteinpulver-fakta) eller se hvilke produkter vi anbefaler i [bedste proteinpulver 2026](/blog/bedste-proteinpulver-2026).
+Vil du vide mere? Læs vores guide til proteinpulver fakta eller se hvilke produkter vi anbefaler i bedste proteinpulver 2026.

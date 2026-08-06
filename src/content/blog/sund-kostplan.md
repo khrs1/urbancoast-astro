@@ -46,7 +46,7 @@ Nordiske Næringsstofanbefalinger [1] giver dig retningslinjerne for sund kost. 
 9. **Drik vand.** Sodavand og juice har mange kalorier uden at mætte. Vand er det bedste valg.
 10. **Tag vitamin D om vinteren.** Solen er ikke stærk nok fra oktober til marts i Danmark. Vitamin D er vigtigt for knogler og immunforsvar.
 
-For at forstå hvordan kalorier fungerer, læs vores [kalorier i mad guide](/blog/kalorier-i-mad).
+For at forstå hvordan kalorier fungerer, læs vores kalorier i mad guide.
 
 ## 3-dages sund kostplan
 

@@ -243,4 +243,4 @@ Her er det vi anbefaler:
 
 Udendørs calisthenics-parker er en gratis ressource, så tjek om der er en nær dig før du køber alt dit udstyr.
 
-Læs vores andre calisthenics-guides for at komme i gang med din træning: [muscle-up guide](/blog/muscle-up-guide), [handstand guide](/blog/handstand-guide), [planche guide](/blog/planche-guide) og [front lever guide](/blog/front-lever-guide).
+Læs vores andre calisthenics-guides for at komme i gang med din træning: [muscle-up guide](/blog/muscle-up-guide), [handstand guide](/blog/handstand-guide), planche guide og front lever guide.

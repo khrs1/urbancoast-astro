@@ -74,12 +74,12 @@ Styrketræning signalerer til kroppen, at musklerne er nødvendige og skal bevar
 
 Her er et simpelt program til at bevare musklerne under et hurtigt vægttab:
 
-1. **Træn hele kroppen 2-3 gange om ugen.** Fokus på store øvelser som [squats](/blog/squats-guide), [dødløft](/blog/doedloeft) og [bænkpres](/blog/baenkpres)
+1. **Træn hele kroppen 2-3 gange om ugen.** Fokus på store øvelser som squats, dødløft og bænkpres
 2. **Spis 1,6-2,2 g protein per kg kropsvægt dagligt.** Det er mere end du normalt har brug for, men afgørende under et kalorieunderskud
-3. **Sørg for god [restitution](/ordbog/hvad-er-restitution).** Muskelopbygning sker under hvile, og du er allerede i et kalorieunderskud, som er stressende for kroppen
-4. **Undgå [overtraining](/ordbog/hvad-er-overtraining).** Din krop har færre ressourcer til at restituere, når du spiser mindre
+3. **Sørg for god restitution.** Muskelopbygning sker under hvile, og du er allerede i et kalorieunderskud, som er stressende for kroppen
+4. **Undgå overtraining.** Din krop har færre ressourcer til at restituere, når du spiser mindre
 
-Brug vores [kalorieberegner](/tools/kalorieberegner) til at finde dit daglige kaloriebehov, og sørg for at dit [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud) ikke er for stort. Et for stort underskud giver mere muskeltab og er sværere at opretholde.
+Brug vores kalorieberegner til at finde dit daglige kaloriebehov, og sørg for at dit kalorieunderskud ikke er for stort. Et for stort underskud giver mere muskeltab og er sværere at opretholde.
 
 ## Hold vægten af efter et hurtigt vægttab
 
@@ -92,9 +92,9 @@ Her er vores bedste råd til at holde vægten af:
 - **Styrketræning er afgørende.** Muskler forbrænder kalorier, selv når du hviler. Jo mere muskelmasse du har, desto nemmere er det at opretholde dit vægttab
 - **Fortsæt med at spise protein.** Protein holder dig mæt og bevarer muskelmassen. Det er din forsikring mod at tage vægten på igen
 - **Overvåg din vægt ugentligt.** Hvis du tager 1-2 kg på, er det nemt at justere kosten. Hvis du først tjekker efter en måned, er det sværere
-- **Vær realistisk.** Et stabilt vægttab på 0,5-1 kg per uge er sundt og bæredygtigt. Det svarer til et dagligt [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud) på 500-1000 kalorier
+- **Vær realistisk.** Et stabilt vægttab på 0,5-1 kg per uge er sundt og bæredygtigt. Det svarer til et dagligt kalorieunderskud på 500-1000 kalorier
 
-Læs også vores guide til en [sund kostplan](/blog/sund-kostplan) for at få inspiration til mad, der holder dig mæt og understøtter dit vægttab.
+Læs også vores guide til en sund kostplan for at få inspiration til mad, der holder dig mæt og understøtter dit vægttab.
 
 ### Referencer
 

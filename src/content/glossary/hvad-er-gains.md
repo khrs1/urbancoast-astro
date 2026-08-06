@@ -27,7 +27,7 @@ For at opbygge muskelmasse skal tre ting spille sammen:
 
 Du kan ikke force gains på en uge. Muskelopbygning er en langsom proces. En begynder kan forvente at bygge cirka 1-2 kg ren muskelmasse per måned i det første år med korrekt træning og kost. Herefter går det langsommere [2].
 
-Kreatin kan hjælpe dig med at få gains hurtigere. Læs vores guide til [kreatin kur](/blog/hvad-er-en-kreatin-kur) og brug vores [kreatinberegner](/tools/kreatin-beregner) til at finde din dosis.
+Kreatin kan hjælpe dig med at få gains hurtigere. Læs vores guide til kreatin kur og brug vores kreatinberegner til at finde din dosis.
 
 Udtrykket bruges også humoristisk i fitnesskulturen. "Mirin' those gains?" betyder "Beundrer du de der muskler?" og er en klassisk kommentar i træningscentre.
 

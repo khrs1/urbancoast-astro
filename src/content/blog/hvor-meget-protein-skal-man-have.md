@@ -62,7 +62,7 @@ Læs mere om proteinkvalitet i vores guide til [proteinpulver-fakta](/blog/prote
 
 ## Hvornår får du protein gennem dagen?
 
-Det samlede indtag er vigtigst, men fordelingen har også betydning. Kroppen kan kun udnytte en vis mængde protein per måltid til at bygge muskler. Forskningen peger på 20-40 gram kvalitetsprotein per måltid for at maksimere [proteinsyntesen](/ordbog/hvad-er-proteinsyntese) [6].
+Det samlede indtag er vigtigst, men fordelingen har også betydning. Kroppen kan kun udnytte en vis mængde protein per måltid til at bygge muskler. Forskningen peger på 20-40 gram kvalitetsprotein per måltid for at maksimere proteinsyntesen [6].
 
 **Praktisk fordeling:**
 
@@ -85,7 +85,7 @@ Det kan være overvældende at tælle gram protein i starten. Her er de nemmeste
 
 **En hurtig måde at mærke mængden på:** 100 g kylling giver cirka 23 g protein. Tre æg giver cirka 18 g. Et glas skyr giver cirka 12 g. En portion proteinpulver giver typisk 20-25 g.
 
-Læs mere om dette i vores guide til [proteinpulver-fakta](/blog/proteinpulver-fakta).
+Læs mere om dette i vores guide til proteinpulver-fakta.
 
 ## Hvor meget er for meget?
 
@@ -108,7 +108,7 @@ Hvor meget protein du skal have om dagen, afhænger af din vægt og dit mål:
 - **Vægttab:** 2,0-2,4 g/kg/dag
 - **Udholdenhedstræning:** 1,2-1,6 g/kg/dag
 
-Start med at bruge vores [proteinberegner](/tools/protein-beregner) for at få dit personlige tal. Fordel dit protein over 3-5 måltider, og suppler gerne med [proteinpulver](/blog/bedste-proteinpulver-2026) på travle dage eller efter træning.
+Start med at bruge vores proteinberegner for at få dit personlige tal. Fordel dit protein over 3-5 måltider, og suppler gerne med proteinpulver på travle dage eller efter træning.
 
 ## Referencer
 

@@ -48,7 +48,7 @@ Grøntsager har få kalorier. Det er det bedste valg hvis du vil tabe dig.
 | Skyr | 63 kcal | 11 g |
 | [Proteinpulver](/blog/proteinpulver-fakta) | 380 kcal | 76 g |
 
-Proteinkilder er vigtige når du [styrketræner](/blog/hvad-er-styrketræning). De hjælper dig med at opbygge muskler og holde dig mæt. Brug vores [protein beregner](/tools/protein-beregner) til at se hvor meget du skal have.
+Proteinkilder er vigtige når du [styrketræner](/blog/hvad-er-styrketræning). De hjælper dig med at opbygge muskler og holde dig mæt. Brug vores protein beregner til at se hvor meget du skal have.
 
 ## Kalorier i kulhydrater
 
@@ -60,7 +60,7 @@ Proteinkilder er vigtige når du [styrketræner](/blog/hvad-er-styrketræning). 
 | Rugbrød | 250 kcal |
 | Hvedebrød | 280 kcal |
 
-[Komplekse kulhydrater](/ordbog/hvad-er-komplekse-kulhydrater) som havregryn og fuldkorn er bedst. De holder dig mæt længere og giver jævn energi.
+Komplekse kulhydrater som havregryn og fuldkorn er bedst. De holder dig mæt længere og giver jævn energi.
 
 ## Sådan tæller du kalorier
 
@@ -73,10 +73,10 @@ At tælle kalorier er enkelt men kræver lidt tålmodighed:
 
 Du behøver ikke at tælle kalorier resten af dit liv. Men det er en god øvelse i 1-2 uger for at få en fornemmelse af hvor meget du spiser.
 
-Vil du tabe dig? Så skal du være i et [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud). Det betyder at du spiser færre kalorier end du forbrænder. Læs vores [guide til vægttab](/blog/10-punkter-til-et-hurtigt-vaegttab) for konkrete råd.
+Vil du tabe dig? Så skal du være i et kalorieunderskud. Det betyder at du spiser færre kalorier end du forbrænder. Læs vores guide til vægttab for konkrete råd.
 
 ## Konklusion
 
 At kende kalorieindholdet i din mad er nøglen til at styre din vægt. Du behøver ikke at tælle hver eneste kalorie, men det hjælper at have en idé om hvor mange kalorier de forskellige fødevarer indeholder.
 
-Brug vores [kalorieberegner](/tools/kalorieberegner) til at finde dit daglige behov. Brug [BMI beregneren](/tools/bmi-beregner) til at tjekke om din nuværende vægt er sund. Og læs vores [sund kostplan](/blog/sund-kostplan) for inspiration til sunde måltider.
+Brug vores kalorieberegner til at finde dit daglige behov. Brug BMI beregneren til at tjekke om din nuværende vægt er sund. Og læs vores sund kostplan for inspiration til sunde måltider.

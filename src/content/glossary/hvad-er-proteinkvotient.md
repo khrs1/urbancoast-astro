@@ -23,7 +23,7 @@ En person på 80 kg, der [styrketræner](/blog/hvad-er-styrketræning) for muske
 
 ## Proteinkilder
 
-Gode proteinkilder inkluderer kylling, æg, fisk, mejeriprodukter, bælgfrugter og [proteinpulver](/blog/proteinpulver-fakta) som supplement. Læs mere om forskellige proteintyper i vores guide om [proteinpulver](/blog/proteinpulver-fakta).
+Gode proteinkilder inkluderer kylling, æg, fisk, mejeriprodukter, bælgfrugter og [proteinpulver](/blog/proteinpulver-fakta) som supplement. Læs mere om forskellige proteintyper i vores guide om proteinpulver.
 
 ## Fordeling gennem dagen
 

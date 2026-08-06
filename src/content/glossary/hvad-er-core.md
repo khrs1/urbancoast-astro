@@ -23,6 +23,6 @@ Effektive core-øvelser inkluderer:
 - **Dead bug** — aktiverer de dybe mavemuskler
 - **Hollow body hold** — gymnastik-øvelse for fuld core-kontrol
 - [Lunges](/blog/lunges-guide) — aktiverer core som stabilisator
-- [Squat](/blog/squats-guide) — kræver core-stabilitet gennem hele bevægelsen
+- Squat — kræver core-stabilitet gennem hele bevægelsen
 
 Core bør trænes som enhver anden muskelgruppe — med progression og variation, ikke kun med endeløse mavebøjninger.

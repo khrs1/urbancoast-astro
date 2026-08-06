@@ -64,7 +64,7 @@ Proteinpulver er praktisk. Det er billigere end protein fra kød og fisk pr. gra
 
 Du behøver ikke proteinpulver. Men det gør det nemmere at nå dit proteinbehov. Hvis du kæmper for at få nok protein fra almindelig mad, er proteinpulver et rigtig godt valg.
 
-Læs mere i vores [fakta om proteinpulver](/blog/proteinpulver-fakta). Du kan også bruge vores [proteinberegner](/tools/protein-beregner) til at finde dit daglige behov.
+Læs mere i vores fakta om proteinpulver. Du kan også bruge vores [proteinberegner](/tools/protein-beregner) til at finde dit daglige behov.
 
 ### Kreatin
 
@@ -76,7 +76,7 @@ Kreatin virker ved at øge mængden af kreatinphosphat i musklerne. Det giver hu
 
 **Kreatin er det mest omkostningseffektive tilskud du kan tage.** Det er billigt, veldokumenteret og effektivt. Det er tilskud nummer ét efter protein.
 
-Læs vores komplette guide til [kreatin kur](/blog/hvad-er-en-kreatin-kur) for dosering og detaljer.
+Læs vores komplette guide til kreatin kur for dosering og detaljer.
 
 ### Koffein
 
@@ -104,9 +104,9 @@ Vitaminer og mineraler er vigtige for kroppens funktion. De fleste får nok genn
 
 D-vitamin er den største bekymring i Danmark. Om vinteren er solen for svag til at danne D-vitamin i huden. Fødevarestyrelsen anbefaler at voksne tager et D-vitamintilskud fra oktober til marts [7]. Hvis du ikke spiser fisk, kan du også have brug for omega-3 og jod.
 
-[Magnesium](/ordbog/hvad-er-magnesium) er et mineral der er vigtigt for muskelfunktion og restitution. Et lavt indtag kan påvirke din træning. Hvis du spiser fuldkorn, nødder og grønne grøntsager, får du sandsynligvis nok. Hvis ikke, kan et tilskud hjælpe.
+Magnesium er et mineral der er vigtigt for muskelfunktion og restitution. Et lavt indtag kan påvirke din træning. Hvis du spiser fuldkorn, nødder og grønne grøntsager, får du sandsynligvis nok. Hvis ikke, kan et tilskud hjælpe.
 
-[Vitaminpiller](/ordbog/hvad-er-vitaminpiller) er et praktisk supplement, men de er ikke en erstatning for god kost. Brug dem som et supplement, ikke en livline.
+Vitaminpiller er et praktisk supplement, men de er ikke en erstatning for god kost. Brug dem som et supplement, ikke en livline.
 
 ## Hvilke kosttilskud er spild af penge?
 

@@ -172,7 +172,7 @@ Antiinflammatorisk kost er et kostmønster, der bygger på fed fisk, bær, olive
 
 For dig, der træner, betyder det kortere restitutionstid, færre muskelsmerter og bedre betingelser for muskelvækst. Du behøver ikke lave alt om på én gang. Start med en eller to ændringer, og byg videre derfra.
 
-For mere om tilskud, læs vores [fiskeolie-guide](/blog/fiskeolie-guide). For mere om hvordan kost virker sammen med restitution, se [restitution i ordbogen](/ordbog/hvad-er-restitution). For en praktisk hverdagskostplan kan du starte med vores [sund kostplan](/blog/sund-kostplan).
+For mere om tilskud, læs vores fiskeolie-guide. For mere om hvordan kost virker sammen med restitution, se restitution i ordbogen. For en praktisk hverdagskostplan kan du starte med vores sund kostplan.
 
 ## Referencer
 

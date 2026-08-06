@@ -95,7 +95,7 @@ Mass gainers er generelt sikre, men der er et par ting du skal være opmærksom 
 
 **Væskeophobning** kan forekomme, især hvis mass gaineren indeholder kreatin. Det er ufarligt og forsvinder når du stopper.
 
-Læs mere om hvor mange kalorier du brænder i hvile i vores artikel om [TDEE](/ordbog/hvad-er-tdee).
+Læs mere om hvor mange kalorier du brænder i hvile i vores artikel om TDEE.
 
 ## Hvornår er mad bedre end en mass gainer?
 
@@ -103,7 +103,7 @@ Dette er det vigtigste spørgsmål i denne guide. Svaret er: oftere end du måsk
 
 Mass gainers er et supplement, ikke en erstatning for mad. De er designet til at hjælpe når du ikke kan spise nok, ikke til at erstatte rigtige måltider.
 
-**Mad er bedre når** du har tid og mulighed for at spise et ordentligt måltid. Rigtig mad har vitaminer, mineraler, fibre og andre næringsstoffer som en mass gainer ikke har. En [sund kostplan](/blog/sund-kostplan) vil altid være et bedre fundament end supplements.
+**Mad er bedre når** du har tid og mulighed for at spise et ordentligt måltid. Rigtig mad har vitaminer, mineraler, fibre og andre næringsstoffer som en mass gainer ikke har. En sund kostplan vil altid være et bedre fundament end supplements.
 
 **Mad er bedre når** du har et moderat kaloriebehov. Hvis du bare mangler 200-300 ekstra kalorier om dagen, kan du få det fra en ekstra portion ris, en håndfuld nødder eller en portion havregryn.
 

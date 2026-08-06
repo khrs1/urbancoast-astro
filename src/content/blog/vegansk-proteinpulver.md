@@ -18,7 +18,7 @@ Her får du en komplet guide til vegansk proteinpulver. Du lærer om de forskell
 
 Vegansk proteinpulver er proteintilskud lavet helt uden animalske ingredienser. I stedet for mælk bruger man planter som ærter, ris, soja eller hamp. Proteinet udvindes fra planten, tørres og males til pulver.
 
-Princippet er det samme som ved [whey protein](/ordbog/hvad-er-whey-protein). Du får et koncentreret proteintilskud du kan blande i vand, mælk eller smoothies. Forskellen er kun kilden.
+Princippet er det samme som ved whey protein. Du får et koncentreret proteintilskud du kan blande i vand, mælk eller smoothies. Forskellen er kun kilden.
 
 Der findes fire primære typer vegansk proteinpulver. Hver type har sine styrker og svagheder.
 
@@ -143,7 +143,7 @@ Mange tager en portion lige efter træning. Det giver musklerne hurtigt protein 
 
 Du kan også tage en portion om morgenen til morgenmad eller som mellemmåltid i løbet af dagen. Vegansk protein er alsidigt og kan bruges i [opskrifter](/blog/proteinpandekager), smoothies og bagværk.
 
-Læs mere om [fakta om proteinpulver](/blog/proteinpulver-fakta) hvis du vil have flere detaljer om timing og dosering.
+Læs mere om fakta om proteinpulver hvis du vil have flere detaljer om timing og dosering.
 
 ## Konklusion
 

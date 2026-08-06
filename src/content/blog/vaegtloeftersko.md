@@ -28,7 +28,7 @@ Den største fordel ved vægtløftersko er stabilitet. Når du squatter tung væ
 
 Den hævede hæl gør det også lettere at opnå fuld dybde i squats, særligt hvis du har begrænset ankelmobilitet. Det er derfor, mange oplever at kunne løfte mere med løftesko end med flade sko.
 
-Læs mere om squat-teknik i vores [store guide til squats](/blog/squats-guide).
+Læs mere om squat-teknik i vores store guide til squats.
 
 ## Hvilke øvelser er vægtløftersko gode til?
 
@@ -87,4 +87,4 @@ Adidas PowerPerfect III er en mellemklassemodel, der kombinerer stabilitet med e
 
 Vægtløftersko er et fantastisk stykke udstyr, hvis du træner squats eller olympiske løft regelmæssigt. De giver stabilitet, bedre teknik og kan hjælpe dig med at løfte tungere. Til dødløft og løb er de ikke ideelle — her bør du bruge flade sko.
 
-Vil du læse mere om de store løft? Se vores guides til [squats](/blog/squats-guide) og [bænkpres](/blog/baenkpres).
+Vil du læse mere om de store løft? Se vores guides til squats og bænkpres.

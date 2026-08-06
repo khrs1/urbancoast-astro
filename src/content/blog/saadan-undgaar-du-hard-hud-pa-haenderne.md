@@ -69,7 +69,7 @@ Drik vand gennem hele dagen, ikke kun under træning. Hold kroppen hydreret så 
 
 Hvis du træner meget pull-ups eller CrossFit, kan du med fordel bruge [CrossFit grips](/blog/crossfit-grips-pull-up-grips). De beskytter dine hænder med et lag læder og mindsker friktionen mellem stangen og din hud.
 
-Victory Grips er blandt de mest populære. Læs vores [guide til CrossFit grips og pull-up grips](/blog/crossfit-grips-pull-up-grips) for at se hvilke du skal vælge.
+Victory Grips er blandt de mest populære. Læs vores guide til CrossFit grips og pull-up grips for at se hvilke du skal vælge.
 
 ## Konklusion
 

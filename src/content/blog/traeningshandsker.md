@@ -29,7 +29,7 @@ Bedst til: [dødløft](/blog/doedloeft), [bænkpres](/blog/baenkpres), maskiner 
 
 Denne type dækker hele hånden inklusiv fingrene. Den giver maksimal beskyttelse men reducerer grebsfølelsen.
 
-Bedst til: tunge [dødløft](/blog/doedloeft) og klatring.
+Bedst til: tunge dødløft og klatring.
 
 ### 3. Lifter grips
 
@@ -54,11 +54,11 @@ Læs mere i vores guide til [CrossFit grips](/blog/crossfit-grips-pull-up-grips)
 | Metode | Beskyttelse | Greb | Pris |
 |---|---|---|---|
 | Bare hænder | Ingen | Bedst | Gratis |
-| [Kalk](/blog/kalk-til-træning) | Lidt | Godt | Billigt |
+| Kalk | Lidt | Godt | Billigt |
 | Træningshandsker | God | Reduceret | Mellem |
-| [CrossFit grips](/blog/crossfit-grips-pull-up-grips) | God | God ved pull ups | Dyrere |
+| CrossFit grips | God | God ved pull ups | Dyrere |
 
-For tunge [dødløft](/blog/doedloeft) anbefaler vi kalk frem for handsker. Kalk giver bedre greb uden at reducere grebsstyrken. Handsker er bedst til pull ups og maskiner.
+For tunge dødløft anbefaler vi kalk frem for handsker. Kalk giver bedre greb uden at reducere grebsstyrken. Handsker er bedst til pull ups og maskiner.
 
 ## Hvordan vælger du den rigtige størrelse?
 
