@@ -58,7 +58,7 @@ nav a:hover{color:#fff}
 .mobile-menu a{display:block;padding:.875rem 1.25rem;color:rgba(255,255,255,.75);font-size:.95rem;font-weight:500;border-bottom:1px solid rgba(255,255,255,.04)}
 .mobile-menu a:hover{color:#fff}
 .mobile-menu.open{display:block}
-@media(max-width:768px){nav{display:none}.nav-toggle{display:block}}
+@media(max-width:768px){nav{display:none}.nav-toggle{display:block}.header-search{display:block!important;flex:1;order:2;margin:0 .5rem}.header-search input{width:100%!important}.header-search-results{position:fixed;left:1rem;right:1rem;top:60px}.header-inner{flex-wrap:wrap}}
 .hero{background:linear-gradient(150deg,var(--dark) 0%,#0d1f36 55%,#0a1f12 100%);color:#fff;padding:5rem 0 4.5rem;text-align:center;position:relative;overflow:hidden}
 .hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 50% -10%,rgba(34,197,94,.15) 0%,transparent 70%)}
 .hero .container{position:relative;z-index:1}
@@ -144,7 +144,7 @@ nav a:hover{color:#fff}
 .social-links{display:flex;gap:1rem}
 .social-links a{color:rgba(255,255,255,.5);text-decoration:none;font-size:.9rem}
 .social-links a:hover{color:#fff}
-.header-search{position:relative;display:inline-block;margin-left:1rem}
+.header-search{position:relative;display:inline-block;flex:0 1 300px;margin:0 1rem}
 .header-search input{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.1);color:#fff;border-radius:20px;padding:.5rem 1rem;font-size:.85rem;width:160px;outline:none;transition:width .2s,background .15s}
 .header-search input::placeholder{color:rgba(255,255,255,.4)}
 .header-search input:focus{width:220px;background:rgba(255,255,255,.12)}
@@ -153,13 +153,18 @@ nav a:hover{color:#fff}
 .header-search-results{display:none;position:absolute;top:100%;right:0;left:0;background:#fff;border:1px solid #e2e8f0;border-radius:12px;margin-top:.5rem;box-shadow:0 8px 24px rgba(0,0,0,.15);z-index:200;overflow:hidden;max-height:400px;overflow-y:auto}
 .header-search-results a{display:block;padding:.65rem 1rem;color:#0f172a;text-decoration:none;border-bottom:1px solid #f1f5f9;font-size:.85rem}
 .header-search-results a:hover{background:#f8fafc;color:#22c55e}
-@media (max-width:768px){.header-search{display:none}}
+@media (max-width:768px){.header-search{display:block!important;flex:1;order:2;margin:0 .5rem}.header-search input{width:100%!important}.header-search-results{position:fixed;left:1rem;right:1rem;top:60px}.header-inner{flex-wrap:wrap}}
 </style>
 </head>
 <body>
 <header class="site-header" role="banner">
 <div class="header-inner">
 <a href="/" class="logo" aria-label="UrbanCoast.dk forside"><img src="/img/urban-coast-logo.png" alt="UrbanCoast.dk" height="40" style="height:40px;width:auto" /></a>
+<div class="header-search">
+<input type="text" id="header-search-input" placeholder="Søg..." autocomplete="off" aria-label="Søg" />
+<button class="header-search-btn" id="header-search-btn" aria-label="Søg"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></button>
+<div id="header-search-results" class="header-search-results"></div>
+</div>
 <nav aria-label="Hovednavigation">
 <a href="/">Forside</a>
 <a href="/blog">Blog</a>
@@ -169,11 +174,6 @@ nav a:hover{color:#fff}
 <a href="/kategori/Træningsguides">Træning</a>
 <a href="/kategori/Kosttilskudguides">Kosttilskud</a>
 </nav>
-<div class="header-search">
-<input type="text" id="header-search-input" placeholder="Søg..." autocomplete="off" aria-label="Søg" />
-<button class="header-search-btn" id="header-search-btn" aria-label="Søg"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></button>
-<div id="header-search-results" class="header-search-results"></div>
-</div>
 <button class="nav-toggle" onclick="document.getElementById('mm').classList.toggle('open')" aria-label="Åbn menu" aria-expanded="false">
 <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
 </button>
