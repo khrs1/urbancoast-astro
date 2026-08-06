@@ -3,7 +3,7 @@ title: "Hvad er ligevægtsindtag?"
 description: "Ligevægtsindtag er det antal kalorier du skal spise for at holde din vægt. Læs hvordan du beregner det og bruger det til vægttab eller muskelopbygning."
 pubDate: 2026-08-04
 author: "Karsten Hansen"
-image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["ligevægtsindtag", "kalorier", "TDEE", "vægttab", "muskelopbygning"]
 ---

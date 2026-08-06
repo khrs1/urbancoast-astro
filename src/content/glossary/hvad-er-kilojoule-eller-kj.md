@@ -3,7 +3,7 @@ title: "Hvad er kilojoule, eller KJ?"
 description: "Kilojoule, eller forkortet kj, er en måde at beregne energi på. En kalorie svarer til 4,1868 kilo joule. Kilo joule er derfor en anden måling af energi end kalorier."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
-image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63f?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["KILOJOULE, ELLER KJ"]
 ---

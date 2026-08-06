@@ -4,7 +4,7 @@ description: "Stegte og krydrede falafel – en klassisk opskrift fra Mellemøst
 pubDate: 2020-11-06
 author: "Karsten Hansen"
 category: "Proteinopskrifter"
-image: "https://images.unsplash.com/photo-1593001874117-c99c800e3eb0?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 updatedDate: "2026-08-06"
 ---
 

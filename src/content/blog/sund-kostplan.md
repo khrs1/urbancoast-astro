@@ -4,7 +4,7 @@ description: "Vil du spise sundere men ved ikke hvor du skal starte? Her får du
 pubDate: 2021-05-20
 author: "Karsten Hansen"
 category: "Vægttab og diæt"
-image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 updatedDate: "2026-08-06"
 tags: ["kostplan", "sund kost", "ernæring", "vægttab"]
 ---

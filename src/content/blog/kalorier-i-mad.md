@@ -4,7 +4,7 @@ description: "Vil du vide hvor mange kalorier der er i din mad? Her finder du ka
 pubDate: 2026-08-04
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63f?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 tags: ["kalorier", "mad", "ernæring", "vægttab"]
 ---
 

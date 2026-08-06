@@ -3,7 +3,7 @@ title: "Hvad er makronæringsstoffer?"
 description: "Makronæringsstoffer er protein, kulhydrat og fedt — de tre hovedkomponenter i din kost. Læs om deres roller og fordeling i en sund kost."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
-image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["ernæring", "makronæringsstoffer", "protein", "kulhydrat", "fedt"]
 ---

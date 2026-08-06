@@ -3,7 +3,7 @@ title: "Hvad er vitaminpiller?"
 description: "Vitaminpiller er kosttilskud med vitaminer og mineraler. Læs om de er nødvendige og hvad du skal kigge efter når du vælger et tilskud."
 pubDate: 2026-08-04
 author: "Karsten Hansen"
-image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["vitaminpiller", "multivitamin", "vitaminer", "mineraler", "kosttilskud"]
 ---

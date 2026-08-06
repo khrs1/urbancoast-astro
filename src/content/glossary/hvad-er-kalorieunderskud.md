@@ -3,7 +3,7 @@ title: "Hvad er KALORIEUNDERSKUD?"
 description: "Kalorieunderskud er at komme under ens ligevægtsindtag for at tabe sig. Man indtager med andre ord mindre kalorier for at mindske sin vægt, da kroppen vil begynde at forbrænde fedtdepoter i stedet...."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
-image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["KALORIEUNDERSKUD"]
 ---

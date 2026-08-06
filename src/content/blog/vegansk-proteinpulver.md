@@ -4,7 +4,7 @@ description: "Vegansk proteinpulver er et godt alternativ til whey. Læs om ært
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: "https://images.unsplash.com/photo-1622748099197-b4819e1f9bfa?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800&auto=format&fit=crop"
 tags: ["vegansk protein", "ærteprotein", "risprotein", "sojaprotein", "hampprotein", "laktosefrit"]
 ---
 

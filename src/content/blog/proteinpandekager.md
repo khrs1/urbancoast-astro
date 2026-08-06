@@ -4,7 +4,7 @@ description: "Proteinpandekager | Nemme pandekager med protein og få ingrediens
 pubDate: 2017-09-19
 author: "Karsten Hansen"
 category: "Proteinopskrifter"
-image: "https://images.unsplash.com/photo-1528207776546-5b5b5b5b5b5b?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop"
 updatedDate: "2026-08-06"
 ---
 

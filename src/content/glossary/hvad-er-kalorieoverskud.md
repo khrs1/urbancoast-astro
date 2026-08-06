@@ -3,7 +3,7 @@ title: "Hvad er KALORIEOVERSKUD?"
 description: "Kalorieoverskud betyder, at man spiser for at være i overskud af kalorier. Dette er ofte for at tage på i vægt. Man anbefaler ikke man spiser sig til et overskud på mere end 500 kalorier pr. dag. H..."
 pubDate: 2018-06-05
 author: "Karsten Hansen"
-image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["KALORIEOVERSKUD"]
 ---

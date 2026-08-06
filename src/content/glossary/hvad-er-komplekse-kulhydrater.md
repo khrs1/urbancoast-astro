@@ -3,7 +3,7 @@ title: "Hvad er komplekse kulhydrater?"
 description: "Komplekse kulhydrater frigiver energi langsomt og er vigtige for styrketræning. Forklarer forskel fra simple kulhydrater, kilder og timing i forhold til træning."
 pubDate: 2026-07-29
 author: "Karsten Hansen"
-image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 category: "Ordbog"
 tags: ["ernæring", "kulhydrater", "komplekse kulhydrater", "energi"]
 ---

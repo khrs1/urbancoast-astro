@@ -4,7 +4,7 @@ description: "Vil du slippe af med hård hud og vablerne fra træning? Vi afdæk
 pubDate: 2020-12-12
 author: "Karsten Hansen"
 category: "Artikler"
-image: "https://images.unsplash.com/photo-1517836357463-d4f4b1b5b5b5b?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 updatedDate: "2026-08-06"
 ---
 

@@ -4,7 +4,7 @@ description: "Lær hvordan du beregner dit daglige kaloriebehov med BMR og TDEE.
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Vægttab og diæt"
-image: "https://images.unsplash.com/photo-1490645935441-7f258b9c8e1e?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
 tags: ["kalorier", "BMR", "TDEE", "vægttab", "energiforbrug"]
 ---
 

@@ -4,7 +4,7 @@ description: "Hård hud og vabler fra træning er irriterende men kan undgås. H
 pubDate: 2021-04-10
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://images.unsplash.com/photo-1517836357463-d4f4b1b5b5b5b?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 updatedDate: "2026-08-06"
 ---
 

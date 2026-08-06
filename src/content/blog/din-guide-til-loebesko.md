@@ -16,7 +16,7 @@ Det at løbe er et fantastisk fænomen. Man kommer ud i naturen, man får brugt 
 
 ## Typiske skader ved løbetræning
 
-Danskerne er i den grad et folkefærd, som har taget løb til sig. Faktisk er danskerne et af de folkefærd, som løber allermest i verden, hvor hver tredje voksne i Danmark tager en løbetur. Det er estimeret, at helt op til 800.000 danskere løber jævnligt. Med et stigende antal danskere kommer der, desværre, også et stigende antal skader. Løbere oplever skader som man, groft sagt, kan deles op i to kategorier:
+Danskerne er i den grad et folkefærd, som har taget løb til sig. Faktisk er danskerne et af de folkefærd, som løber allermest i verden, hvor hver tredje voksen i Danmark tager en løbetur. Det er estimeret, at helt op til 800.000 danskere løber jævnligt. Med et stigende antal danskere kommer der, desværre, også et stigende antal skader. Løbere oplever skader som man, groft sagt, kan dele op i to kategorier:
 
 Akutte skader: Vridning af foden, hvor sener bliver belastet, brud på ben, håndled og fod.
 
@@ -29,21 +29,21 @@ Dette kan være fordi man har en nerve, der sidder i klemme, eller noget helt an
 
 Mange af disse skader opstår af diverse grunde, men en af disse faktorer findes ofte i en øget pronation og en statisk proneret fodstilling. Mellem 37 % – 56 % af alle løbere får en løbeskade i løbet af en sæson. Det er således tale om rigtigt store procentdele af alle motionsløbere, som får en løbeskade årligt.
 
-Det er typisk begynder løbere, som får de fleste skader. Det skyldes ganske enkelt mangel på rutine og teknik. Motivation fejler som regel ikke noget, da man ofte har et ønske om et sundere liv, men man er udvidende om løb og mekanikken bag. Begynderløberen har ofte prøvet at komme i gang flere gang, men har pga. bindevævsproblemer i knæ, underben, eller fod stoppet igen. Det er netop i opstartsfasen i løb, at man skal være ekstra opmærksom, da muskel- og senevæv ikke er tilvænnet de nye belastninger man modtager i løb.
+Det er typisk begynderløbere, som får de fleste skader. Det skyldes ganske enkelt mangel på rutine og teknik. Motivation fejler som regel ikke noget, da man ofte har et ønske om et sundere liv, men man er uvidende om løb og mekanikken bag. Begynderløberen har ofte prøvet at komme i gang flere gange, men har pga. bindevævsproblemer i knæ, underben, eller fod stoppet igen. Det er netop i opstartsfasen i løb, at man skal være ekstra opmærksom, da muskel- og senevæv ikke er tilvænnet de nye belastninger man modtager i løb.
 
-Oveni hatten er kondien nok ikke optimal, og måske er løbeskoene heller ikke de rigtige. En for hurtig, og uovervejet, øget træningsmængde er ofte også medvirkende til skader ved løb. Derfor er det vigtigt, at man anvender en løbesko, som giver en gode balance i foden. På den måde overbelaster man ikke foden, på den ene eller anden side. F.eks. kan en simpel ting, som en forkert snøring af snørebåndene give ubalance i løbeskoen, hvilket medfører til en gentagende antal belastning hver gang foden lander under løb. For en begynderløber er det ofte et forkert valgt af løbesko, som er medvirkende til skader.
+Oveni hatten er kondien nok ikke optimal, og måske er løbeskoene heller ikke de rigtige. En for hurtig, og uovervejet, øget træningsmængde er ofte også medvirkende til skader ved løb. Derfor er det vigtigt, at man anvender en løbesko, som giver en god balance i foden. På den måde overbelaster man ikke foden, på den ene eller anden side. F.eks. kan en simpel ting, som en forkert snøring af snørebåndene give ubalance i løbeskoen, hvilket medfører en gentaget belastning hver gang foden lander under løb. For en begynderløber er det ofte et forkert valg af løbesko, som er medvirkende til skader.
 
 ## Normal Pronation
 
-En almindelig løber lander på yderhælen og ud op ydersiden af foden, hvor efter det falder ned i pronatineret bagfod hvorefter man ruller en i mellem foden, og dernæst ned i storetåen, hvor foden bliver en lang og solid plade i afsætsfasen. Ja det er meget teknisk, og en anelse svært at forstå, men nedenstående billede kan give en illustrere hvordan en almindelig løbestil forløber.
+En almindelig løber lander på yderhælen og ud op ydersiden af foden, hvorefter det falder ned i proneret bagfod, hvorefter man ruller videre over mellemfoden, og dernæst ned i storetåen, hvor foden bliver en lang og solid plade i afsætsfasen. Ja det er meget teknisk, og en anelse svært at forstå, men nedenstående billede kan give en illustration af hvordan en almindelig løbestil forløber.
 
 ## Hvad er overpronation?
 
 Hvis man ikke har den nødvendige styrke i underben og fod kan man have en tendens til overpronation.
 
-Overpronation kan være forsaget af en række ting, men det defineres som et ekstra rul af foden indad, når man lander. Når du lander med normal pronation, så lander du med yderhælen og vægten flyttes derefter længere frem på foden. Foden ruller naturligt, ca. 15 grader indad. Når du har overpronation vil foden rulle mere end 15 grader indad, og dette kan give flere uhensigtsmæssige skader og smerter i underben og fod.
+Overpronation kan være forårsaget af en række ting, men det defineres som et ekstra rul af foden indad, når man lander. Når du lander med normal pronation, så lander du med yderhælen og vægten flyttes derefter længere frem på foden. Foden ruller naturligt, ca. 15 grader indad. Når du har overpronation vil foden rulle mere end 15 grader indad, og dette kan give flere uhensigtsmæssige skader og smerter i underben og fod.
 
-Dette kan bl.a. give skader i knæet, hvis man ikke har den nødvendige styrke. Dernæst kan det også give en belastning i akillessenen, som kan blive trukket unødvendig meget til den ene eller anden side. Hælen vil også komme på overarbejde, og vil derved blive mere belastet end normalt, da nedslaget vil være væsentlige hårdere end normalt. Billedet herunder kan sammenlignes med billedet ovenfor. Den røde farve symboliserer kontakten til jorden. Ideelt set ligger vægten på midthæl og overføres derefter til midt fod. Ved overpronation vil vægten ligge på ydersiden af foden og foden ruller derfor mere indad.
+Dette kan bl.a. give skader i knæet, hvis man ikke har den nødvendige styrke. Dernæst kan det også give en belastning i akillessenen, som kan blive trukket unødvendigt meget til den ene eller anden side. Hælen vil også komme på overarbejde, og vil derved blive mere belastet end normalt, da nedslaget vil være væsentligt hårdere end normalt. Billedet herunder kan sammenlignes med billedet ovenfor. Den røde farve symboliserer kontakten til jorden. Ideelt set ligger vægten på midthælen og overføres derefter til midtfoden. Ved overpronation vil vægten ligge på ydersiden af foden og foden ruller derfor mere indad.
 
 Modsætning til overpronation er underpronation også kaldet supination. Her gør foden det modsatte af overpronation. Ved underpronation lander man med hælen på ydersiden, og derefter ruller hele vægten ned over ydersiden af foden indtil man når ud til lilletåen.
 
@@ -58,7 +58,7 @@ Ovenstående billede giver en illustration af hvordan supination påvirker din f
 
 Vælger du de rigtige løbesko har det en stor betydning for om du får en god, eller dårlig løbetursoplevelse. Der findes nærmest ikke to ens løbestile, men derimod et hav af forskellige løbestile, og tilsvarende findes der lige så mange forskellige løbesko.
 
-Det kan have en stort betydning af udviklingen af løberelaterede skader, hvis du ikke vælger de rigtige løbesko. Derfor er aspekter som pronationsstøtte, støddæmpning og forhøjet hæl også betragtet, som en vigtig del af at forebygge skader.
+Det kan have en stor betydning for udviklingen af løberelaterede skader, hvis du ikke vælger de rigtige løbesko. Derfor er aspekter som pronationsstøtte, støddæmpning og forhøjet hæl også betragtet som en vigtig del af at forebygge skader.
 
 Først og fremmest skal du fastlægge, hvilket underlag du gerne vil løbe på, dvs. om du skal løbe i skoven, på asfalt eller på et løbebånd. Hvis du gerne vil løbe på forskellige underlag, så kan det være en rigtig god idé også at købe forskellige løbesko.
 
@@ -68,9 +68,9 @@ Vi anbefaler dog, at man tager forhandlerens analyse med et gran salt, og se det
 
 Ikke desto mindre er det en god ide at foretage en ny løbetest hver gang, eller hver anden gang, du foretager et køb af nye løbesko.
 
-Også selvom du købe en ny model af din gamle løbesko, så det ikke sikkert den har de samme egenskaber, som forrige løbesko. Derfor, er det en god ide at få lavet en ny løbetest og få anbefalet en model, som passer til din fod. Løbesko i dag er blevet meget bedre end i førhen, men du kan også købe tilføjelser til din løbesko. Hvis du f.eks. har en overpronation eller supination, så kan man tilføje korrektion ved hjælp af indersåler, eller dynamiske fodsåler.
+Også selvom du køber en ny model af din gamle løbesko, så er det ikke sikkert den har de samme egenskaber, som forrige løbesko. Derfor er det en god idé at få lavet en ny løbetest og få anbefalet en model, som passer til din fod. Løbesko i dag er blevet meget bedre end førhen, men du kan også købe tilføjelser til din løbesko. Hvis du f.eks. har en overpronation eller supination, så kan man tilføje korrektion ved hjælp af indersåler, eller dynamiske fodsåler.
 
-Ved fremstillingen af dynamiske fodsåler varmer man sålerne op imens du har de på dine føder, så de bliver formet helt efter din egen fodform, hvilket kan hjælpe dig mod overpronation, eller supination og bekæmpe fremtidige skader.
+Ved fremstillingen af dynamiske fodsåler varmer man sålerne op imens du har dem på dine fødder, så de bliver formet helt efter din egen fodform, hvilket kan hjælpe dig mod overpronation, eller supination og bekæmpe fremtidige skader.
 
 ## Løbeskoens opbygning
 
@@ -85,7 +85,7 @@ Der findes et væld af forskellige løbesko, og forskellen er ofte, hvilket brug
    - En løbesko som er beregnet til terrænløb vil, som oftest have grovere mønster end sko egnet til løb på eksempelvis asfalt. Derudover vil slidsålen som oftest være lavet i carbongummi.
    - En konkurrenceløbesko vil til gengæld have en let slidsål med mindre mønster.
 
-Nedenstående ser du forslåede løbesko til forskellige underlag.
+Nedenstående ser du foreslåede løbesko til forskellige underlag.
 
 **Bløde underlag:**
 
@@ -93,11 +93,11 @@ Det bløde underlag som oftest indebærer sand, grus, græs, jord, atletikbaner 
 
 **Hårde underlag**
 
-Det hårde underlag som oftest indebærer fortov, beton, asfalt mv. Når du vælger at løbe på det hårde underlag kan du med fordel anvende løbesko, som har en meget støddæmpning. Derfor vil denne løbesko heller ikke være god at bruge i ujævnt terræn, da løbeskoen giver så meget støddæmpning, at den samtidig også mister meget stabilitet.
+Det hårde underlag som oftest indebærer fortov, beton, asfalt mv. Når du vælger at løbe på det hårde underlag kan du med fordel anvende løbesko, som har meget støddæmpning. Derfor vil denne løbesko heller ikke være god at bruge i ujævnt terræn, da løbeskoen giver så meget støddæmpning, at den samtidig også mister meget stabilitet.
 
 **Ujævne underlag**
 
-Det ujævne underlag som oftest indebærer skov, bjergsider mv. Hvis du vælger at løbe i der ujævne terræn, så kan du med fordel vælge en løbesko hvor overdelen er mere holdbar. Her er det også en fordel at overdelen er vandafvisende, men skal samtidig bevare åndbarheden. Ydersålen skal være en gummiblanding, som giver greb og stabilitet i det ujævne terræn.
+Det ujævne underlag som oftest indebærer skov, bjergsider mv. Hvis du vælger at løbe i det ujævne terræn, så kan du med fordel vælge en løbesko hvor overdelen er mere holdbar. Her er det også en fordel at overdelen er vandafvisende, men skal samtidig bevare åndbarheden. Ydersålen skal være en gummiblanding, som giver greb og stabilitet i det ujævne terræn.
 
 ## Konklusion
 

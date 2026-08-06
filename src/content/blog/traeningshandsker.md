@@ -3,7 +3,7 @@ title: "Træningshandsker: Guide til at vælge de rigtige"
 description: "Træningshandsker beskytter dine hænder mod vabler og hård hud. Her er en guide til at vælge de rigtige handsker til din træning."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
-image: "https://images.unsplash.com/photo-1517836357463-d4f4b1b5b5b5b?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop"
 category: "Træningsguides"
 tags: ["træningshandsker", "handsker", "træningsudstyr", "vabler"]
 ---
