@@ -28,9 +28,9 @@ Mange af de såkaldte livsstilssygdomme kan dog standses i tide, hvis man lægge
 
 (Sundhedsstyrelsen 2016). Derudover anbefales fysisk aktivitet med høj intensitet af 20 minutters varighed minimum 2 gange om ugen. Selvom vi kan opnå betydelige sundhedsgevinster ved fysisk aktivitet med lav og moderat intensitet, så er der evidens for, at der er mere robuste gevinster at hente ved fysisk aktivitet med høj intensitet, da det fremmer kondition og styrker muskelstyrken yderligere (Nordic Council of Ministers (2014) p. 203).
 
-Er ens krop hæmmet af den ene eller anden grund, eller man har været fysisk inaktiv i lang tid, så er det dog en god ide at starte blidt ud og langsomt øge intensiteten, da træning ved høj intensitet er forbundet med større risiko for knogle-, led- og muskelskader.
+Er ens krop hæmmet af den ene eller anden grund, eller man har været fysisk inaktiv i lang tid, så er det dog en god idé at starte blidt ud og langsomt øge intensiteten, da træning ved høj intensitet er forbundet med større risiko for knogle-, led- og muskelskader.
 
-Det er meget vigtigt at notere sig, ALT fysisk aktivitet er bedre end ingen, og man skal derfor forsøge at få det inkorporeret i hverdagen på den ene eller anden måde. Herudover er det fordelagtigt at lave styrketræning af de store muskelgrupper et par gange om ugen, da det styrker din knogle- og muskelstyrke og kan være med til at forebygge f.eks. knogleskørhed.
+Det er meget vigtigt at notere sig, at ALT fysisk aktivitet er bedre end ingen, og man skal derfor forsøge at få det inkorporeret i hverdagen på den ene eller anden måde. Herudover er det fordelagtigt at lave styrketræning af de store muskelgrupper et par gange om ugen, da det styrker din knogle- og muskelstyrke og kan være med til at forebygge f.eks. knogleskørhed.
 
 Fysisk aktivitet behøver ikke nødvendigvis være anstrengende for, at man kan opnå sundhedsfremmende effekter. En anden måde at øge sit aktivitetsniveau i sin dagligdag er gennem en stigning i hverdagsaktiviteter. Dette kan gøres ved at tage cyklen på arbejde i stedet for bus, tage trapper i stedet for elevator, gå ned og handle fremfor at tage bilen og alt anden aktivitet, som hjælper til en mere aktiv livsstil.
 

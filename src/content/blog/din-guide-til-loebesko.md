@@ -66,7 +66,7 @@ Dernæst kan du med fordel tage en løbetest nede ved din forhandler, hvor du te
 
 Vi anbefaler dog, at man tager forhandlerens analyse med et gran salt, og se det som en anbefaling. Hvis du virkeligt vil være 100% sikker på din løbestil, og har tænkt dig at bruge mange timer på dit løb, anbefaler vi at tage til en fysioterapeut, der laver løbetest. Grunden til dette er, at ikke alle forhandlere er egnet til at analysere løbestilen korrekt. Der er naturligvis nogle forhandlere derude, som ved hvad de taler om – Hvis du skal gå forhandler vejen anbefaler vi du forhører dig i din lokale løbeklub, hvilke forhandlere de bruger.
 
-Ikke desto mindre er det en god ide at foretage en ny løbetest hver gang, eller hver anden gang, du foretager et køb af nye løbesko.
+Ikke desto mindre er det en god idé at foretage en ny løbetest hver gang, eller hver anden gang, du foretager et køb af nye løbesko.
 
 Også selvom du køber en ny model af din gamle løbesko, så er det ikke sikkert den har de samme egenskaber, som forrige løbesko. Derfor er det en god idé at få lavet en ny løbetest og få anbefalet en model, som passer til din fod. Løbesko i dag er blevet meget bedre end førhen, men du kan også købe tilføjelser til din løbesko. Hvis du f.eks. har en overpronation eller supination, så kan man tilføje korrektion ved hjælp af indersåler, eller dynamiske fodsåler.
 
@@ -80,7 +80,7 @@ Der findes et væld af forskellige løbesko, og forskellen er ofte, hvilket brug
 2. Hælklappen er til for at give stabilitet og samtidig støtte bagfoden.
 3. Et højt snørebånd i skoen er med til at give din fod et stabilt løb, og at foden ikke rykker rundt inde i løbeskoen og dermed frembringer irritation.
 4. Stafferingerne på overdelen af skoen virker til at kun promovere selve mærket af skoen, men igen har disse en vigtig funktion. Stafferingerne gør at skoen ikke udvider sig, når man anvender den hvilket er meget vigtigt – igen for at holde foden stabil i skoen.
-5. Mellemsålen består for det meste af to forskellige materialer. EVA materialet eller polyurethan materialet. Disse materialer er lavet af en slags gel, eller luftblærer. Mellemsålens primære funktion er at virke støddæmpende. Det er som oftest også det som bliver slidt først, og derfor er det en god ide at skifte mellemsålen ud efter ca. 8.000 kilometers løb.
+5. Mellemsålen består for det meste af to forskellige materialer. EVA materialet eller polyurethan materialet. Disse materialer er lavet af en slags gel, eller luftblærer. Mellemsålens primære funktion er at virke støddæmpende. Det er som oftest også det som bliver slidt først, og derfor er det en god idé at skifte mellemsålen ud efter ca. 8.000 kilometers løb.
 6. Nederst har vi slidsålen, som hovedsagligt skal forhindre at løbeskoen ikke bliver slidt for hurtigt og selvfølgelig, at man står solid fast på det underlaget. Slidsålen er meget forskellig alt efter hvilket underlag du løber på.
    - En løbesko som er beregnet til terrænløb vil, som oftest have grovere mønster end sko egnet til løb på eksempelvis asfalt. Derudover vil slidsålen som oftest være lavet i carbongummi.
    - En konkurrenceløbesko vil til gengæld have en let slidsål med mindre mønster.

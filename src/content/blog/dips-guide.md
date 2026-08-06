@@ -79,7 +79,7 @@ Lav 3 sæt af 5-8 repetitioner. Når du kan lave 8 med minimal hjælp, er du kla
 
 Nu er du klar. Grib barrene, spænd core, og sænk dig til skulderhøjde. Skub op. Din første fulde dip er en stor sejr.
 
-Lige som med pull-ups er flere sæt med få repetitioner bedre end få sæt med maksimale i starten. Lave 5 sæt af 2-3 er effektivt.
+Ligesom med pull-ups er flere sæt med få repetitioner bedre end få sæt med maksimale i starten. At lave 5 sæt af 2-3 er effektivt.
 
 ## Avancerede dip varianter
 

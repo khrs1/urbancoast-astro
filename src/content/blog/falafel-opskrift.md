@@ -12,7 +12,7 @@ updatedDate: "2026-08-06"
 
 ## **Stegte og krydrede falafel**
 
-Falafel er meget udbredt Mellemøsten, og er en grønsags-frikadelle, som hovedsagligt består af kikærter. Falafel er meget fedtfattigt og har et naturligt højt indhold af protein, hvilket gør det den perfekte fitness-ret. Falafel anses i mange lande i Mellemøsten for at være en slags fastfood, og er nationalret i både Israel, Libanon og Syrien. En lækker falafel er dejlig og sprød udenpå, men samtid blød og cremet inden i. Falafel kan spises sammen med salat, i pitabrød eller sandwich. Det kan også spises som en hurtig, lækker snack. Hvis du er vegetar (Der spiser æg) kan du med god samvittighed nyde falafel, da det eneste animalske indhold i opskriften er fra æg.
+Falafel er meget udbredt i Mellemøsten, og er en grønsags-frikadelle, som hovedsagligt består af kikærter. Falafel er meget fedtfattigt og har et naturligt højt indhold af protein, hvilket gør det den perfekte fitness-ret. Falafel anses i mange lande i Mellemøsten for at være en slags fastfood, og er nationalret i både Israel, Libanon og Syrien. En lækker falafel er dejlig og sprød udenpå, men samtidig blød og cremet inden i. Falafel kan spises sammen med salat, i pitabrød eller sandwich. Det kan også spises som en hurtig, lækker snack. Hvis du er vegetar (som spiser æg) kan du med god samvittighed nyde falafel, da det eneste animalske indhold i opskriften er fra æg.
 
 ### **Tips før du går i gang**
 
@@ -38,7 +38,7 @@ Falafel er meget udbredt Mellemøsten, og er en grønsags-frikadelle, som hoveds
 - 3 tsk. Stødt koriander
 - 3 tsk. stødt spidskommen
 - 4 spsk. hvedemel
-- 4 spsk. Havregryn eller rasp (Alt efter hvor flyende falafel farsen er, kan man også lade være)
+- 4 spsk. Havregryn eller rasp (Alt efter hvor flydende falafel farsen er, kan man også lade være)
 
 ### **Fremgangsmåde**
 

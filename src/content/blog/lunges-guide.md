@@ -25,7 +25,7 @@ Selvom denne øvelse er en af de mest effektive underkropsøvelser, så undgår 
 
 ## **Hvordan laver man lunges? **
 
-Som nævnet ovenfor kan man udføre øvelsen på mange forskellige måder. "Static lunge" er en passende øvelse at starte med, hvis du aldrig har lavet lunges før, da du har mulighed for at træne din teknik med minimal risiko for skader. Ulempen med static lunge er, at vi ikke involverer lige så mange muskler, som vi gør med andre variationer af lunges. Det skyldes, at fødderne er plantet solidt i jorden gennem hele bevægelsen ved "static lunge", hvilket betyder, at vi isolerer vores benmuskler, men stort set ikke træner vores core og balanceevne. "Forward lunge" er en udvidet version af "static lunge", da vi her træner både balance og koordinering, samtidig med at vi aktiverer mange flere muskler. Her er en guide til at udføre "forward lunge" korrekt:
+Som nævnt ovenfor kan man udføre øvelsen på mange forskellige måder. "Static lunge" er en passende øvelse at starte med, hvis du aldrig har lavet lunges før, da du har mulighed for at træne din teknik med minimal risiko for skader. Ulempen med static lunge er, at vi ikke involverer lige så mange muskler, som vi gør med andre variationer af lunges. Det skyldes, at fødderne er plantet solidt i jorden gennem hele bevægelsen ved "static lunge", hvilket betyder, at vi isolerer vores benmuskler, men stort set ikke træner vores core og balanceevne. "Forward lunge" er en udvidet version af "static lunge", da vi her træner både balance og koordinering, samtidig med at vi aktiverer mange flere muskler. Her er en guide til at udføre "forward lunge" korrekt:
 
 
 - Stil dig i oprejst position med fødderne omkring skulderbredde.
