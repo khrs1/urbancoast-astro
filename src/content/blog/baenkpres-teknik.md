@@ -10,7 +10,7 @@ updatedDate: 2026-08-06
 ---
 ## Bliv den bedste til bænkpres
 
-TEST Bænkpres er en yndet favorit i de danske træningscentre, og er lidt en målestok for mange mænd om, hvor stærk man er. Hvor mange gange har du ikke hørt sætningen ”Hvad bænker du?”, når du snakker med nogle fyre om træning.
+Bænkpres er en yndet favorit i de danske træningscentre, og er lidt en målestok for mange mænd om, hvor stærk man er. Hvor mange gange har du ikke hørt sætningen ”Hvad bænker du?”, når du snakker med nogle fyre om træning.
 
 Bænkpres en rigtig god øvelse til at øge din styrke i overkroppen. Du rammer i høj grad dit bryst, den forreste del af dine skuldre og den bagerste muskulatur af din arm, kaldet triceps. Der er dog forskelle på, hvad du vil have ud af bænkpres som øvelse. Alt efter hvad dit mål er med træningen, så kan bænkpres variere ift. udførelse – både mht. teknik, men også variabler som antal sæt, kilo og repetitioner. Bodybuildere bænkpresser typisk med øget muskelmasse som formål, som bl.a. kommer til udtryk ved, at udførslen ikke nødvendigvis er med henblik på at kunne løfte så tungt som muligt. Denne artikel vil dog have fokus på et mere styrkeløfts-lignende bænkpres med korrekt teknik, som helt sikkert vil hjælpe dig med at øge maksimal styrke og opbygge muskelmasse.
 
@@ -18,15 +18,7 @@ Bænkpres en rigtig god øvelse til at øge din styrke i overkroppen. Du rammer 
 
 Mark Rippetoe giver i videoen herunder en introduktion til bænkpres. Mark Rippetoe er tidligere vægtløfter, powerlifter og ophavsmanden til Starting Strength træningsprogrammet, som bestemt kan anbefales, hvis du er ny i styrketræning og mangler et sted at starte. I videoen herunder forklarer Mark Rippetoe hvordan man skal placere sig på bænken og har en række gode trick og råd.
 
-How to Bench Press With Mark Rippetoe | Art of Manliness - YouTube
-
-Tap to unmute
-
-[How to Bench Press With Mark Rippetoe | Art of Manliness](https://www.youtube.com/watch?v=4T9UQ4FBVXI) [Art of Manliness](https://www.youtube.com/channel/UCkRMqL3hLrIYhxNCac4vR3w)
-
-Art of Manliness1.39M subscribers
-
-[Watch on](https://www.youtube.com/watch?v=4T9UQ4FBVXI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4T9UQ4FBVXI" title="How to Bench Press With Mark Rippetoe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 1 TRIN: SETUP
 
@@ -44,15 +36,7 @@ Dette er den ene problemstilling. Den anden er, at du ikke kan flytte lige så m
 
 Chris Jones er blevet et internetfænomen på det lille guldkorn af et citatet: “Retract the fucking scaupla” Videoen herunder gennemgår overfaldisk bænkpres teknik, men han rammer sømmet på hovedet og viser i videoen hvordan dine skuldre skal placeres under et bænkpres.
 
-YouTube
-
-Tap to unmute
-
-This video is age-restricted and only available on YouTube. [Learn more](https://support.google.com/youtube/answer/2802167?hl=en)
-
-[Watch on YouTube](http://www.youtube.com/watch?v=JJ5iCcKzg2Q)
-
-[Visit YouTube to search for more videos](https://www.youtube.com/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJ5iCcKzg2Q" title="Chris Jones bænkpres teknik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Regel nr. 2: Kontaktpunkter med bænken
 
