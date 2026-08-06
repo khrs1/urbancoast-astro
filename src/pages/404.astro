@@ -1,0 +1,137 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const blogPosts = (await getCollection('blog')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const glossaryEntries = (await getCollection('glossary')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<Layout title="Siden blev ikke fundet" description="Siden du leder efter findes ikke. Brug søgefunktionen eller linksene til at finde det du søger.">
+  <div class="error-hero">
+    <div class="container">
+      <h1>Hovsa!</h1>
+      <p class="error-subtitle">Vi kan desvaerre ikke finde siden du soger</p>
+      <p class="error-code">Error 404</p>
+      
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="Sog efter det du leder efter..." autocomplete="off" />
+        <button id="search-btn" aria-label="Sog">Sog</button>
+        <div id="search-results" class="search-results"></div>
+      </div>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <p style="text-align:center;margin-bottom:2rem">Ellers kan du bruge folgende links til at finde rundt:</p>
+      
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2rem;max-width:800px;margin:0 auto">
+        <div>
+          <h3>Hovedsider</h3>
+          <ul class="error-links">
+            <li><a href="/">Forside</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/tools">Vaerktoej</a></li>
+            <li><a href="/ordbog">Ordbog</a></li>
+            <li><a href="/produkter">Produkter</a></li>
+            <li><a href="/sitemap">Sitemap</a></li>
+          </ul>
+        </div>
+        
+        <div>
+          <h3>Populaere guides</h3>
+          <ul class="error-links">
+            <li><a href="/blog/squats-guide">Squat teknik</a></li>
+            <li><a href="/blog/baenkpres-teknik">Baenkpres teknik</a></li>
+            <li><a href="/blog/hvad-er-en-kreatin-kur">Kreatin kur</a></li>
+            <li><a href="/blog/kalk-til-traening">Kalk til traening</a></li>
+            <li><a href="/blog/proteinpulver-fakta">Proteinpulver fakta</a></li>
+            <li><a href="/blog/sund-kostplan">Sund kostplan</a></li>
+          </ul>
+        </div>
+        
+        <div>
+          <h3>Vaerktoej</h3>
+          <ul class="error-links">
+            <li><a href="/tools/bmi-beregner">BMI beregner</a></li>
+            <li><a href="/tools/kalorieberegner">Kalorieberegner</a></li>
+            <li><a href="/tools/protein-beregner">Protein beregner</a></li>
+            <li><a href="/tools/1rm-beregner">1RM beregner</a></li>
+            <li><a href="/tools/kreatin-beregner">Kreatin beregner</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<script is:inline>
+// Simple client-side search
+var pages = [
+  {blogPosts.map(post => `{title: "${post.data.title.replace(/"/g, '')}", url: "/blog/${post.slug}"}`).join(',\n  '},
+  {glossaryEntries.map(entry => `{title: "${entry.data.title.replace(/"/g, '')}", url: "/ordbog/${entry.slug}"}`).join(',\n  ')}
+];
+
+var searchInput = document.getElementById('search-input');
+var searchResults = document.getElementById('search-results');
+
+function search() {
+  var query = searchInput.value.toLowerCase().trim();
+  if (query.length < 2) {
+    searchResults.innerHTML = '';
+    searchResults.style.display = 'none';
+    return;
+  }
+  
+  var matches = pages.filter(function(p) {
+    return p.title.toLowerCase().indexOf(query) !== -1;
+  }).slice(0, 8);
+  
+  if (matches.length === 0) {
+    searchResults.innerHTML = '<p class="no-results">Ingen resultater fundet</p>';
+  } else {
+    searchResults.innerHTML = matches.map(function(m) {
+      return '<a href="' + m.url + '">' + m.title + '</a>';
+    }).join('');
+  }
+  searchResults.style.display = 'block';
+}
+
+searchInput.addEventListener('input', search);
+searchInput.addEventListener('focus', search);
+
+document.getElementById('search-btn').addEventListener('click', function() {
+  if (searchResults.style.display === 'block') {
+    var firstResult = searchResults.querySelector('a');
+    if (firstResult) window.location.href = firstResult.href;
+  }
+});
+
+searchInput.addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') {
+    var firstResult = searchResults.querySelector('a');
+    if (firstResult) window.location.href = firstResult.href;
+  }
+});
+</script>
+
+<style>
+.error-hero{text-align:center;padding:4rem 1.5rem;background:#f8fafc}
+.error-hero h1{font-size:3rem;font-weight:900;color:#0f172a;margin-bottom:.5rem}
+.error-subtitle{font-size:1.2rem;color:#475569;margin-bottom:.25rem}
+.error-code{font-size:1rem;color:#94a3b8;margin-bottom:2rem}
+.search-box{max-width:500px;margin:0 auto;position:relative}
+.search-box input{width:100%;padding:1rem 1.25rem;border-radius:50px;border:2px solid #e2e8f0;font-size:1.1rem;outline:none;box-sizing:border-box;padding-right:5rem}
+.search-box input:focus{border-color:#22c55e}
+.search-box button{position:absolute;right:5px;top:5px;bottom:5px;padding:0 1.5rem;background:#22c55e;color:#fff;border:none;border-radius:50px;font-weight:700;cursor:pointer}
+.search-box button:hover{background:#16a34a}
+.search-results{display:none;position:absolute;top:100%;left:0;right:0;background:#fff;border:1px solid #e2e8f0;border-radius:12px;margin-top:.5rem;box-shadow:0 4px 12px rgba(0,0,0,.08);z-index:10;overflow:hidden}
+.search-results a{display:block;padding:.75rem 1.25rem;color:#0f172a;text-decoration:none;border-bottom:1px solid #f1f5f9;font-size:.95rem}
+.search-results a:hover{background:#f8fafc;color:#22c55e}
+.no-results{padding:1rem 1.25rem;color:#94a3b8}
+.error-links{list-style:none;padding:0}
+.error-links li{margin-bottom:.5rem}
+.error-links a{color:#22c55e;text-decoration:none;font-size:.9rem}
+.error-links a:hover{text-decoration:underline}
+h3{font-size:1rem;font-weight:700;margin-bottom:.75rem;color:#0f172a}
+</style>
