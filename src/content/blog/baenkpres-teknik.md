@@ -5,14 +5,14 @@ description: Bliv den bedste til bænkpres. Bænkpres er en yndet favorit i
 pubDate: 2018-12-10
 author: Karsten Hansen
 category: Træningsguides
-image: https://images.unsplash.com/photo-1534368786749-b63e05c90863?w=800&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop
 updatedDate: 2026-08-06
 ---
 ## Bliv den bedste til bænkpres
 
 Bænkpres er en yndet favorit i de danske træningscentre, og er lidt en målestok for mange mænd om, hvor stærk man er. Hvor mange gange har du ikke hørt sætningen ”Hvad bænker du?”, når du snakker med nogle fyre om træning.
 
-Bænkpres en rigtig god øvelse til at øge din styrke i overkroppen. Du rammer i høj grad dit bryst, den forreste del af dine skuldre og den bagerste muskulatur af din arm, kaldet triceps. Der er dog forskelle på, hvad du vil have ud af bænkpres som øvelse. Alt efter hvad dit mål er med træningen, så kan bænkpres variere ift. udførelse – både mht. teknik, men også variabler som antal sæt, kilo og repetitioner. Bodybuildere bænkpresser typisk med øget muskelmasse som formål, som bl.a. kommer til udtryk ved, at udførslen ikke nødvendigvis er med henblik på at kunne løfte så tungt som muligt. Denne artikel vil dog have fokus på et mere styrkeløfts-lignende bænkpres med korrekt teknik, som helt sikkert vil hjælpe dig med at øge maksimal styrke og opbygge muskelmasse.
+Bænkpres er en rigtig god øvelse til at øge din styrke i overkroppen. Du rammer i høj grad dit bryst, den forreste del af dine skuldre og den bagerste muskulatur af din arm, kaldet triceps. Der er dog forskelle på, hvad du vil have ud af bænkpres som øvelse. Alt efter hvad dit mål er med træningen, så kan bænkpres variere ift. udførelse – både mht. teknik, men også variabler som antal sæt, kilo og repetitioner. Bodybuildere bænkpresser typisk med øget muskelmasse som formål, som bl.a. kommer til udtryk ved, at udførslen ikke nødvendigvis er med henblik på at kunne løfte så tungt som muligt. Denne artikel vil dog have fokus på et mere styrkeløfts-lignende bænkpres med korrekt teknik, som helt sikkert vil hjælpe dig med at øge maksimal styrke og opbygge muskelmasse.
 
 ## Introduktion
 
@@ -22,19 +22,19 @@ Mark Rippetoe giver i videoen herunder en introduktion til bænkpres. Mark Rippe
 
 # 1 TRIN: SETUP
 
-Vi har brudt bænkpres op i 2 simple faser, dette er første fase, som vi kaldet dit setup! Aka. din opsætning af løftet. Dette er uden tvivl den vigtigste del af løftet, da du minimerer skadesrisikoen og giver dig selv de bedste muligheder for at flytte flest kilo.
+Vi har brudt bænkpres op i 2 simple faser, dette er første fase, som vi kalder dit setup! Aka. din opsætning af løftet. Dette er uden tvivl den vigtigste del af løftet, da du minimerer skadesrisikoen og giver dig selv de bedste muligheder for at flytte flest kilo.
 
 ## Regel nr. 1: Saml dine skulderblade
 
-Scapula er på dansk kaldet dine skulderblade, og du skal have styr på de skuldrene for at lave det tungeste bænkpres du kan, og samtidig mindske risikoen for at få skader. Mange lider af skulderskader i sammenhæng med deres bænkpres. Grunden til dette er højst sandsynligt at skuldrene ikke er i den rigtige position under presset, heriblandt at skulderbladene ikke trækkes tilbage. Skulderleddet er en fin og kompliceret konstruktion, og desuden det led i kroppen med størst bevægelighed. Ligesom hofteleddet, så er skulderleddet et kugleled, men modsat hoften, så er bevægeligheden langt større – det har så desværre den bagside, at det ikke er bygget til at kunne tåle så store kræfter som hofteleddet. Det er alfa og omega, at man sikrer sit skulderled i en position, som både gør at man kan løfte tungt, og på samme tid mindsker risikoen for unødvendigt tryk i usikre positioner.
+Scapula er på dansk kaldet dine skulderblade, og du skal have styr på dine skuldre for at lave det tungeste bænkpres du kan, og samtidig mindske risikoen for at få skader. Mange lider af skulderskader i sammenhæng med deres bænkpres. Grunden til dette er højst sandsynligt at skuldrene ikke er i den rigtige position under presset, heriblandt at skulderbladene ikke trækkes tilbage. Skulderleddet er en fin og kompliceret konstruktion, og desuden det led i kroppen med størst bevægelighed. Ligesom hofteleddet, så er skulderleddet et kugleled, men modsat hoften, så er bevægeligheden langt større – det har så desværre den bagside, at det ikke er bygget til at kunne tåle så store kræfter som hofteleddet. Det er alfa og omega, at man sikrer sit skulderled i en position, som både gør at man kan løfte tungt, og på samme tid mindsker risikoen for unødvendigt tryk i usikre positioner.
 
 ### Prøv dette, mens du læser denne artikel for at forstå problemet:
 
-Hæv din arm op i ’bænkpres position’ som om du holder en vægtstang foran dig. Hold armen parallel med din skulder, dvs. så din arm er i 90 grader. Træk nu albuen tilbage uden at sænke den fra den position. Du mærker nok hurtigt et stræk på den forreste del af din skulder. Forstil dig nu at ligge på en bænk med 100 kg i denne position. Det er meget tryk på din skulder i den nederste position af løftet, hvis din albue flagrer helt derude, så der dannes 90 grader mellem din arm og resten af overkroppen.
+Hæv din arm op i ’bænkpres position’ som om du holder en vægtstang foran dig. Hold armen parallel med din skulder, dvs. så din arm er i 90 grader. Træk nu albuen tilbage uden at sænke den fra den position. Du mærker nok hurtigt et stræk på den forreste del af din skulder. Forestil dig nu at ligge på en bænk med 100 kg i denne position. Det er meget tryk på din skulder i den nederste position af løftet, hvis din albue flagrer helt derude, så der dannes 90 grader mellem din arm og resten af overkroppen.
 
 Dette er den ene problemstilling. Den anden er, at du ikke kan flytte lige så meget vægt, da du mangler et solidt fundament at presse vægten fra.
 
-Chris Jones er blevet et internetfænomen på det lille guldkorn af et citatet: “Retract the fucking scaupla” Videoen herunder gennemgår overfaldisk bænkpres teknik, men han rammer sømmet på hovedet og viser i videoen hvordan dine skuldre skal placeres under et bænkpres.
+Chris Jones er blevet et internetfænomen på det lille guldkorn af et citatet: “Retract the fucking scaupla” Videoen herunder gennemgår overfladisk bænkpres teknik, men han rammer sømmet på hovedet og viser i videoen hvordan dine skuldre skal placeres under et bænkpres.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJ5iCcKzg2Q" title="Chris Jones bænkpres teknik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -48,7 +48,7 @@ Din krop skal have præcis 3 kontaktpunkter, som du bruger til at presse vægten
 
 **– Dine fødder på gulvet til at stabilisere kroppen og skabe balance**
 
-Nu tænker du sikkert, ”Ja, det er da let at få min røv og skuldre til at røre bænken?” Ja, men nu kommer finten – Dette er de eneste kontaktpunkter du skal have. Det er fy fy at stykket mellem din øvre ryg og din bagdel rører bænken. Hvis hele din ryg ligger flad på bænken vil det være mere besværligt at undgå at flagrer med albuerne, det vil gøre det sværere at lave et opspænd i kroppen og derved give dig et dårligere løft.
+Nu tænker du sikkert, ”Ja, det er da let at få min røv og skuldre til at røre bænken?” Ja, men nu kommer finten – Dette er de eneste kontaktpunkter du skal have. Det er fy fy at stykket mellem din øvre ryg og din bagdel rører bænken. Hvis hele din ryg ligger flad på bænken vil det være mere besværligt at undgå at flagre med albuerne, det vil gøre det sværere at lave et opspænd i kroppen og derved give dig et dårligere løft.
 
 ## Regel nr. 3: Position på bænken og grebsteknik
 
@@ -58,25 +58,25 @@ Placer dig under vægtstangen, så du kan kigge ”under” vægtstangen, og ikk
 
 Når du ligger på denne måde, sker der flere ting, der gør løftet lettere for dig
 
-**– Du kan trække stangen væk fra vægtstativet. Når du gør dette, mister du ikke stramheden i din øvre ryg. Hvis stangen ligger lige over dine skuldre vil du højst sandsynligt være nødt til at skubbe stangen op, for at så trække stangen til en startpositionen længere nede på dit bryst. Når du skubber stangen op, vil du miste den lækre platform du har at skubbe vægten fra, og det er jo ikke ideelt.**
+**– Du kan trække stangen væk fra vægtstativet. Når du gør dette, mister du ikke stramheden i din øvre ryg. Hvis stangen ligger lige over dine skuldre vil du højst sandsynligt være nødt til at skubbe stangen op, for derefter at trække stangen til en startposition længere nede på dit bryst. Når du skubber stangen op, vil du miste den lækre platform du har at skubbe vægten fra, og det er jo ikke ideelt.**
 
 **– Det er nemmere for en spotter at hjælpe dig, da du ikke er for langt nede til, at de kan nå stangen.**
 
 **– Du vil ikke ramme vægtstativet med vægtstangen, når du skubber vægten op.**
 
-Når du trækker stangen fra stativet, og dine skuldre er strammet sammen på bagsiden, vil du naturligt have stangen over dine skuldreblade, da det er det punkt bevægelsen foregår fra. Stangen er i balance på det punkt, og en cue der ofte bruges er: ”Kan du ligge der hele dagen?”.
+Når du trækker stangen fra stativet, og dine skuldre er strammet sammen på bagsiden, vil du naturligt have stangen over dine skulderblade, da det er det punkt bevægelsen foregår fra. Stangen er i balance på det punkt, og en cue der ofte bruges er: ”Kan du ligge der hele dagen?”.
 
-Hvis svaret er ja, så er det fordi du ligger korrekt. Det er ikke lige så hårdt at ligge i den position, hvis vægtstangen er direkte over dine skuldreblade, da vægten ligge på balancepunktet og musklerne ikke behøver at arbejde for at holde den der. Husk at altid låse i albuerne (også kaldet lockout), dvs. have albuerne helt strakt ud, når du er i startpositionen inden du går igang med løftet.
+Hvis svaret er ja, så er det fordi du ligger korrekt. Det er ikke lige så hårdt at ligge i den position, hvis vægtstangen er direkte over dine skulderblade, da vægten ligger på balancepunktet og musklerne ikke behøver at arbejde for at holde den der. Husk at altid låse i albuerne (også kaldet lockout), dvs. have albuerne helt strakte ud, når du er i startpositionen inden du går i gang med løftet.
 
 ### Grebet om vægtstangen
 
 Til grebet skal du holde en smule længere ude end din skulderbredde – ca. en håndbredde længere ude end dine skuldre. Det er svært at give et specifikt råd, eller cm-tal som vejledning. I stedet skal du kigge på, hvordan dine arme ser ud nederst i løftet, når vægtstangen rører dit bryst. Hvis der står en person bag dig og kigger på dine arme, så skal du have underarm i en 90 graders vinkel. Husk underarmen er et led i maskineriet, der skal skubbe vægten væk. Dvs. du kan overføre mere kraft i løftet, hvis der dannes en lige vinkel på stangen.
 
-Til grebet om selve stangen, så husk igen at din underarm skal ligge korrekt. Hvis vægten ligger øverst i håndfladen på dig, vil du ikke kunne overføre maksimal kræft (Og du vil belaste dit håndled). Derfor skal stangen ligge på tværs af din hånd som vist på billedet herunder.
+Til grebet om selve stangen, så husk igen at din underarm skal ligge korrekt. Hvis vægten ligger øverst i håndfladen på dig, vil du ikke kunne overføre maksimal kraft (Og du vil belaste dit håndled). Derfor skal stangen ligge på tværs af din hånd som vist på billedet herunder.
 
 Når dette er gjort, pakker du fingrene om stangen og ”låser” dem med din tommeltot. Klem alt hvad du kan om vægtstangen, når du udfører løftet.
 
-Mange vælger at bænke med en åben hånd, da de føler de bedre kan skubbe stangen på denne måde. Dvs. man låser ikke med tommeltotten, men lader den sidde bag stangen. Dette er dog ikke noget vi vil anbefale og metoden har kælenavnet ”suicide grip”, da chancerne for at vægtstangen glider ud af din hånd og falder ned på dig er drastisk forøget.
+Mange vælger at bænke med en åben hånd, da de føler de bedre kan skubbe stangen på denne måde. Dvs. man låser ikke med tommelfingeren, men lader den sidde bag stangen. Dette er dog ikke noget vi vil anbefale og metoden har kælenavnet ”suicide grip”, da chancerne for at vægtstangen glider ud af din hånd og falder ned på dig er drastisk forøget.
 
 Overstående er fra hjemmesiden Stronglifts.com, og viser korrekte bænkpres greb, f.eks. bulldog greb.
 
@@ -84,7 +84,7 @@ Overstående er fra hjemmesiden Stronglifts.com, og viser korrekte bænkpres gre
 
 Nu skal alt det overstående gå op i en højere enhed: Nemlig løftet!
 
-Mange tænker, at vægtstangen bevæger sig lige op og ned i øvelsen. Dette er ikke helt korrekt. Stangen bevæger sig faktisk en skråt, når du bænkpresser.
+Mange tænker, at vægtstangen bevæger sig lige op og ned i øvelsen. Dette er ikke helt korrekt. Stangen bevæger sig faktisk i en skrå retning, når du bænkpresser.
 
 Se, hvordan Alan Thrall har sat sit løft op i videoen herunder.
 
@@ -96,7 +96,7 @@ Det er bare vigtigt, at du husker de 3 kontaktpunkter, skuldre, bagdel og fødde
 
 Spænd i ballerne og bevæg fødderne bagud mod din bagdel. Når du gør dette, og din røv har kontakt med bænken, vil din røv komme længere opad. Dette skaber den naturlige bue i ryggen og hæver din brystkasse. Vægtstangens kontakt med brystet skal ske ca. der hvor brystmuskulaturen starter, dvs. ca. på midten af brystkassen.
 
-Alan Thrall forklarer i videoen herunder, hvordan du skal forestille dig, at du både skubber din ryg ned i bænken og vægtstangen væk fra dit bryst. Dette er super vigtigt, da du ellers kan miste stramheden i dine skuldre, der er din platform som du presser fra.
+Alan Thrall forklarer i videoen herunder, hvordan du skal forestille dig, at du både skubber din ryg ned i bænken og vægtstangen væk fra dit bryst. Dette er super vigtigt, da du ellers kan miste stramheden i dine skuldre, der er den platform som du presser fra.
 
 ### Hvad er en gentagelse i bænkpres?
 
@@ -106,7 +106,7 @@ Alan Thrall forklarer i videoen herunder, hvordan du skal forestille dig, at du 
 * Stangen sænkes til brystet
 * Stangen presses fra brystet tilbage til startposition
 
-# Ti hurtigere til en god bænkpresteknik:
+# Ti tips til en god bænkpresteknik:
 
 * Klem skulderbladene sammen og hold ryggen stram under hele øvelsen
 * Hold lidt bredere end skulderbredde, og pak altid tommelfingeren RUNDT om stangen for at låse dit greb

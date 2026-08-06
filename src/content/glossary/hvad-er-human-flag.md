@@ -18,7 +18,7 @@ Du skal have stærke skuldre, en stærk core og god kropskontrol. Den øverste a
 
 ## Human flag progressioner
 
-- **Support hold hold:** Hold dig oppe på parallelle barer for at bygge skulderstyrke.
+- **Support hold:** Hold dig oppe på parallelle barer for at bygge skulderstyrke.
 - **Tuck human flag:** Knæ trukket mod brystet, kroppen foldet.
 - **Straddle human flag:** Ben spredt i V-form for lavere belastning.
 - **One leg human flag:** Et ben strakt, et foldet.

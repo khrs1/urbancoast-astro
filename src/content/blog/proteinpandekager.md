@@ -42,11 +42,11 @@ Bland derefter bagepulver, proteinpulver, salt, Sukrin og mandelmel (eller kokos
 
 Bland lidt efter lidt melblandingen med bananmosen i din skål. Tilsæt også æg i denne mv. Rør, eller pisk indtil der ikke er flere store klumper i dejen til dine lækre proteinpandekager.
 
-Varm din pande godt op til middel / høj varm alt efter hvordan du kan lide dine proteinpandekager. Brug ½ dl. mål eller en stor ske til at hælde pandekagedejen på panden alt efter hvor store proteinpandekager du vil have. Tilføj evt. pandekagedejen af to gange. Giv dem 2- min på hver side.
+Varm din pande godt op til middel / høj varme alt efter hvordan du kan lide dine proteinpandekager. Brug ½ dl. mål eller en stor ske til at hælde pandekagedejen på panden alt efter hvor store proteinpandekager du vil have. Tilføj evt. pandekagedejen af to gange. Giv dem 2 minutter på hver side.
 
-Servér med proteinpandekagerne med akaciehonning, sirup, eller en slags bær alt efter hvad du godt kan lide en lørdag morgen.
+Servér proteinpandekagerne med akaciehonning, sirup, eller en slags bær alt efter hvad du godt kan lide en lørdag morgen.
 
-Proteinpandekager er en lækker snack, som er sund samtidig med det er nemt at lave. Det smager godt, og er det er et udemærket supplement til en sund nærende kost, der trænger til en øget mængde protein. Lige som der er et utal af opskrifter på protein shakes, så findes der også et utal pandekageopskrifter – og proteinpandekager ligeså. Derfor ligner en "almindelig" pandekages ingredienser også meget proteinpandekagers ingredienser. Dog er det ikke helt ligegyldigt hvilken proteinpulver du bruger, og derfor kan du med stor succes benytte en whey proteinpulver. Whey proteinpulver har en god smag og varianter med banan, chokolade eller vaniljesmag passer perfekt i proteinpandekager. Vi anbefaler nogle af de produkter til vores "fitness pandekager" nederst i dette indlæg.
+Proteinpandekager er en lækker snack, som er sund samtidig med at det er nemt at lave. Det smager godt, og det er et udemærket supplement til en sund nærende kost, der trænger til en øget mængde protein. Ligesom der er et utal af opskrifter på protein shakes, så findes der også et utal af pandekageopskrifter – og proteinpandekager ligeså. Derfor ligner en "almindelig" pandekages ingredienser også meget proteinpandekagers ingredienser. Dog er det ikke helt ligegyldigt hvilken proteinpulver du bruger, og derfor kan du med stor succes benytte en whey-proteinpulver. Whey proteinpulver har en god smag, og varianter med banan, chokolade eller vaniljesmag passer perfekt i proteinpandekager. Vi anbefaler nogle af de produkter til vores "fitness pandekager" nederst i dette indlæg.
 
 [](https://urbancoast.dk/go/?id=bodylab-protein)
 

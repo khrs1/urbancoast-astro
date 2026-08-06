@@ -17,8 +17,8 @@ RPE står for "Rate of Perceived Exertion" og er en subjektiv skala, der måler,
 | 10 | Maksimal anstrengelse | 0 |
 | 9 | Meget hårdt — 1 gentagelse tilbage | 1 |
 | 8 | Hårdt — 2 gentagelser tilbage | 2 |
-| 7 | Moderat — 3 gentaginger tilbage | 3 |
-| 6 | Let — 4+ gentaginger tilbage | 4+ |
+| 7 | Moderat — 3 gentagelser tilbage | 3 |
+| 6 | Let — 4+ gentagelser tilbage | 4+ |
 
 ## Hvorfor bruge RPE?
 
@@ -28,7 +28,7 @@ Mange moderne programmer angiver intensitet som "RPE 8" i stedet for "80% af 1RM
 
 ## RPE vs RIR
 
-RIR (Repetitions in Reserve) er en relateret skala, der tæller, hvor mange gentaginger du mener du kunne have klaret mere. RPE 8 svarer til 2 RIR, RPE 9 svarer til 1 RIR, osv. Begge metoder er valide — vælg den, der virker mest intuitiv for dig.
+RIR (Repetitions in Reserve) er en relateret skala, der tæller, hvor mange gentagelser du mener du kunne have klaret mere. RPE 8 svarer til 2 RIR, RPE 9 svarer til 1 RIR, osv. Begge metoder er valide — vælg den, der virker mest intuitiv for dig.
 
 
 ## Relaterede artikler

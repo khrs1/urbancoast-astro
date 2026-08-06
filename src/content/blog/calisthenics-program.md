@@ -95,7 +95,7 @@ At følge det samme program uge efter uge er ikke nok. Du skal gøre det sværer
 
 1. **Flere repetitioner.** Hvis du kan lave 12 push-ups nemt, så forsøg 14. Når du kan lave 15 nemt, er det tid til en sværere variant.
 2. **Langsommere tempo.** Lav øvelsen langsommere. Tag 3 sekunder ned og 1 sekund op. Det gør selv lette øvelser svære.
-3. **Sværere varianter.** Skift til en sværere variant af øvelsen. Gå fra knæl-push-ups til fulde push-ups. Fra fulde push-ups til diamond push-ups.
+3. **Sværere varianter.** Skift til en sværere variant af øvelsen. Gå fra knæ-push-ups til fulde push-ups. Fra fulde push-ups til diamond push-ups.
 
 **Du skal altid føle at de sidste 2-3 repetitioner er svære.** Hvis de er nemme, træner du ikke hårdt nok.
 

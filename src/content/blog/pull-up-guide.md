@@ -110,7 +110,7 @@ Her er fejl du skal undgå. De kan forsinke din fremgang eller føre til skader.
 
 Du skal bruge en bar at hænge i. Det er det eneste. Her er dine muligheder.
 
-- **Dørrammon.** Monteres i en døråbning. Koster 100-300 kr. God til begyndere.
+- **Dørramme.** Monteres i en døråbning. Koster 100-300 kr. God til begyndere.
 - **Vægbarm.** Skrues fast i væggen. Stærkere og kan tage mere vægt.
 - **Træningscenter.** De fleste centre har pull-up bars.
 - **Udendørs park.** Mange parker har pull-up bars. Gratis og frisk luft.

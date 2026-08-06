@@ -22,7 +22,7 @@ I slutningen af 1800-tallet koblede den amerikanske kemiker Wilbur Atwater udtry
 
 Kcal kan groft sagt omskrives til energi, da det dækker over den energi, som kroppen indtager og afgiver. Når vi løber en tur, så afgiver vi kalorier, hvorimod vi indtager kalorier, når vi spiser forskellige fødevarer. Vi bruger nemlig kalorier til at beskrive den mængde energi, som en given fødevare indeholder.
 
-På alle fødevarer kan man derfor aflæse kalorieindholdet, så man kan få en ide om, hvad man reelt indtager. En fødevare som smør indeholder f.eks. 717 kcal per 100 g, mens 100 g appelsin indeholder 47 kcal per 100g. Kcal er en god fællesnævner for energi i fødevarer, og udtrykket bliver brugt de fleste steder i verden. Dog benytter andre udtrykket kiloJoule (kJ) i stedet for kalorier.
+På alle fødevarer kan man derfor aflæse kalorieindholdet, så man kan få en idé om, hvad man reelt indtager. En fødevare som smør indeholder f.eks. 717 kcal per 100 g, mens 100 g appelsin indeholder 47 kcal per 100g. Kcal er en god fællesnævner for energi i fødevarer, og udtrykket bliver brugt de fleste steder i verden. Dog benytter andre udtrykket kiloJoule (kJ) i stedet for kalorier.
 
 ## Hvad er kJ?
 

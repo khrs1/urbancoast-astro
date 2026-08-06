@@ -12,7 +12,7 @@ Har man prøvet at træne med tømmermænd, er man ikke i tvivl om at alkohol p�
 
 ## Skader alkohol din træning?
 
-Alkohol ligger nummer 1, når vi snakker makronæringsstoffer og forbrænding, hvilket vil sige, at kroppen altid vil vælge og forbrænde alkohol, før nogle af de andre makronæringsstoffer. Dette skyldes, at vi ikke kan gemme alkohol i kroppens depoter, ligesom vi ser med både fedt, kulhydrat og protein. Det betyder, at alkohol går ind og påvirker/forlænger forbrændingen af protein, fedt og kulhydrat, og det forringer bl.a. omsætningen af glukose og fedtsyrer i vores muskelceller. Dette påvirker vores præstationsevne og proteinsyntese, og er blot en af mange negative effekter af alkohol (L. Kristiansen & R. Larsen 2015).
+Alkohol ligger nummer 1, når vi snakker makronæringsstoffer og forbrænding, hvilket vil sige, at kroppen altid vil vælge at forbrænde alkohol, før nogle af de andre makronæringsstoffer. Dette skyldes, at vi ikke kan gemme alkohol i kroppens depoter, ligesom vi ser med både fedt, kulhydrat og protein. Det betyder, at alkohol går ind og påvirker/forlænger forbrændingen af protein, fedt og kulhydrat, og det forringer bl.a. omsætningen af glukose og fedtsyrer i vores muskelceller. Dette påvirker vores præstationsevne og proteinsyntese, og er blot en af mange negative effekter af alkohol (L. Kristiansen & R. Larsen 2015).
 
 ## Alkohol og træning dagen efter
 

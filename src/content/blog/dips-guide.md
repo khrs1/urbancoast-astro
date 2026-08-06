@@ -167,7 +167,7 @@ Start med en stol. Når du er klar til fulde dips, så overvej et par parallette
 
 Dips kan belaste skuldrene. Hvis du mærker smerte, så stop. Her er hvad du kan gøre for at undgå problemer.
 
-1. **Opvarm skuldrene.** Armrotatio ner og lette bevægelser før dips.
+1. **Opvarm skuldrene.** Armrotationer og lette bevægelser før dips.
 2. **Sænk ikke for dybt.** Skulderhøjde er grænsen.
 3. **Hold albuerne bagud.** Ud til side er forkert.
 4. **Styrk rotatormansjetten.** Ydre og indre skulderrotation med band.

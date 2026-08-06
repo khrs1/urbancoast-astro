@@ -10,7 +10,7 @@ updatedDate: "2026-08-06"
 
 ## Hvad er styrketræning?
 
-Som det kommer af navnet, er det en form for træning, hvor du udsætter dine muskler for belastninger på den ene eller den anden måde. Indenfor termen styrketræning finder man en lang række fysiske øvelser, som bl.a. indeholder styrkelse af muskulatur i ben, mave, arme, skulder, bryst, mm. Et eksempel på en kendt øvelse er squat, hvor du ikke blot træner en muskel, men aktiverer flere muskelgrupper samtidig. Styrketræning bliver anvendt med mange forskellige formål, hvad enten man træner for større muskelmasse eller blot for at genoptræne en beskadiget del af kroppen.
+Som det kommer af navnet, er det en form for træning, hvor du udsætter dine muskler for belastninger på den ene eller den anden måde. Inden for termen styrketræning finder man en lang række fysiske øvelser, som bl.a. indeholder styrkelse af muskulatur i ben, mave, arme, skulder, bryst, mm. Et eksempel på en kendt øvelse er squat, hvor du ikke blot træner en muskel, men aktiverer flere muskelgrupper samtidig. Styrketræning bliver anvendt med mange forskellige formål, hvad enten man træner for større muskelmasse eller blot for at genoptræne en beskadiget del af kroppen.
 
 
 ## **Styrketræning med egen kropsvægt **
@@ -27,7 +27,7 @@ Metabolisk belastende styrketræning foregår oftest med sæt af** 6 til 12 repe
 
 
 
-## **Varier dine træningøvelser**
+## **Varier dine træningsøvelser**
 
 Ønsker man progression i sin træning kan man med fordel variere sine træningsøvelser for at aktivere den enkelte muskelgruppe på en mere komplet måde. En måde, hvorpå man kan variere, er ved at veksle mellem forskellige greb f.eks. veksle mellem et tov eller en stang. Derudover kan man udføre flere forskellige øvelser for de samme muskler for at aktivere flest mulige muskelgrupper. Eksempelvis kan brystet trænes ved forskellige øvelser som bænkpres, flyers og dips. En varieret træning gør også træningen mere spændende og motiverende. Herudover bør man også øge træningsbelastningen lidt efter lidt, hvilket kan gøres ved at øge intensiteten af træning, antal sæt og repetitioner, belastning, antal træningsøvelser osv. Det er dog utroligt vigtigt, at man har opbygget en korrekt løfteteknik, inden man øger belastningen. Hvis ikke man løfter med korrekt teknik, er man i større risiko for at udvikle skader.
 
@@ -61,4 +61,4 @@ Piger kan dog få utroligt mange helbredsmæssige fordele ud af styrketræning �
 
 Det er afgørende for ens udbytte og progression, at man har et effektivt styrketræningsprogram, som fører til en forbedret præstationsevne. Et sådant program bør indeholde basisøvelser, der aktiverer flere led og muskler samtidig såsom [dødløft](/blog/doedloeft), [squat](/blog/squats-guide), bænkpres, lunges mm. Dernæst er det fordelagtigt at basere sin træning på øvelser med fri vægt, da dette øger kroppen og musklernes stabiliserings- og koordinationsevne. Det er derudover vigtigt, at man sørger for at træne alle de forskellige muskelgrupper. Dette kan eksempelvis gøres ved en full-body træning (hvor du træner alle muskelgrupper på en træning) eller ved et splitprogram, hvor du deler alle muskelgrupperne ud på to eller tre træningsdage.
 
-Det afhænger af, hvor mange dage om ugen man har til rådighed, men et split program kan anbefales, hvis man har tid og motivation til det. Det skyldes, at man ved split-program har mulighed for, at fokusere mere på hver enkel muskelgruppe. Et 2-splits program kunne f.eks. være fire ugentlig træningsdage, hvor man opdeler kroppen i overkrop og underkrop, så man træner hver af disse to gange om ugen. Det er dog utrelig vigtigt, at man ikke træner de samme muskelgrupper fra dag til dag. Uden restitution vil din krop nemlig ikke få mulighed for at genopbygge sig, hvilket vil have en stor indvirkning på effekten af den næste træning.
+Det afhænger af, hvor mange dage om ugen man har til rådighed, men et split program kan anbefales, hvis man har tid og motivation til det. Det skyldes, at man ved split-program har mulighed for, at fokusere mere på hver enkel muskelgruppe. Et 2-splits program kunne f.eks. være fire ugentlige træningsdage, hvor man opdeler kroppen i overkrop og underkrop, så man træner hver af disse to gange om ugen. Det er dog utrolig vigtigt, at man ikke træner de samme muskelgrupper fra dag til dag. Uden restitution vil din krop nemlig ikke få mulighed for at genopbygge sig, hvilket vil have en stor indvirkning på effekten af den næste træning.

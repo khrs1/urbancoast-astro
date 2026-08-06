@@ -16,7 +16,7 @@ Lunges er en effektiv styrketræningsøvelse, som både aktiverer dine forlår, 
 
 ## **Lunges – Hvilke muskler rammer du?**
 
-Lunges er en udbredt indenfor styrketræning og kan udføres ved flere forskellige variationer, f.eks. static lunge, forward lunge, side-lunge, reverse lunge, walking lunge m.fl. Det er en "flerledsøvelse" (hvor mere end bare et led aktiveres) på linje med f.eks. bænkpres og dødløft og er med til at træne kroppens balance – og koordinationsevne. Ved udførelse af øvelsen træner vi stort set alle muskler i vores ben, imens hofterne bliver gjort mere fleksible. Derudover er lunges en yderst effektiv måde at forbrænde kalorier, da vi bruger meget energi på at aktivere så mange muskler på samme tid.
+Lunges er en udbredt øvelse inden for styrketræning og kan udføres ved flere forskellige variationer, f.eks. static lunge, forward lunge, side-lunge, reverse lunge, walking lunge m.fl. Det er en "flerledsøvelse" (hvor mere end bare et led aktiveres) på linje med f.eks. bænkpres og dødløft og er med til at træne kroppens balance – og koordinationsevne. Ved udførelse af øvelsen træner vi stort set alle muskler i vores ben, imens hofterne bliver gjort mere fleksible. Derudover er lunges en yderst effektiv måde at forbrænde kalorier, da vi bruger meget energi på at aktivere så mange muskler på samme tid.
 
 Selvom denne øvelse er en af de mest effektive underkropsøvelser, så undgår mange mennesker øvelsen, da de er bange for skader i knæet. Med mindre man i forvejen lider af knæskader/knæproblemer, så er dette dog en fejlfortolkning, da lunges rent faktisk kan være med til at styrke dit knæ, nærmere end at skade det. For at undgå overbelastning af vores knæ, er det dog vigtigt, at lunges udføres korrekt, og nedenfor kan du se, hvordan det skal gøres.
 
@@ -40,7 +40,7 @@ Som nævnet ovenfor kan man udføre øvelsen på mange forskellige måder. "Stat
 
 Lunges er en fremragende øvelse for din krop og kan derudover hjælpe med at forbrænde en masse kalorier. For at få det optimale ud af øvelsen er det vigtigt, at man holder benet i en lige linje, når man træder frem, hvilket vil beskytte en mod unødvendige skader. Derudover er det utrolig vigtigt, at man sørger for at spænde i overkroppen og holde den fuldstændig lige. Det er også essentielt, at du ikke bringer det forreste knæ længere frem end dine tæer, knæet skal derimod positioneres direkte over anklen, da vi hermed forhindrer skader/overbelastning i knæet.
 
-Har du aldrig lavet lunges før, er det en god ide at starte med at lave "static lunge", indtil du føler, at du har fuldstændig kontrol over bevægelsen. Gå derefter over til andre varianter, f.eks. forward – eller walking lunge. Savner du mere udfordring, kan du med fordel tage en håndvægt eller kettlebell i hver arm under øvelsen, men vent til du føler at du har fuldstændig kontrol over øvelsen.
+Har du aldrig lavet lunges før, er det en god idé at starte med at lave "static lunge", indtil du føler, at du har fuldstændig kontrol over bevægelsen. Gå derefter over til andre varianter, f.eks. forward – eller walking lunge. Savner du mere udfordring, kan du med fordel tage en håndvægt eller kettlebell i hver arm under øvelsen, men vent til du føler at du har fuldstændig kontrol over øvelsen.
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g8-Ge9S0aUw)

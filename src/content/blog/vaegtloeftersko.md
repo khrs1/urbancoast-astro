@@ -4,7 +4,7 @@ description: "Vægtløftersko giver stabilitet og bedre teknik til squats og væ
 pubDate: 2020-10-01
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=800&auto=format&fit=crop"
 updatedDate: "2026-08-06"
 ---
 

@@ -33,7 +33,7 @@ En anden fordel er at du lærer at kontrollere din krop. Mange der træner med m
 Calisthenics kan træne hele kroppen hvis du vælger de rigtige øvelser. Her er et overblik:
 
 - **Bryst, skuldre og arme:** Push-ups, dips (også kaldet armstræks) og pull-ups
-- **Rygg og arme:** Pull-ups og Australian pull-ups
+- **Ryg og arme:** Pull-ups og Australian pull-ups
 - **Ben og balder:** Squats og lunges med kropsvægt
 - **Core:** Planke, hollow body hold og benløft
 
@@ -95,7 +95,7 @@ Husk at resultater tager tid. Styrke kommer hurtigere end synlige muskler. Giv d
 
 Calisthenics kræver minimalt udstyr. Her er det du faktisk skal bruge:
 
-- **En pull-up bar.** Det er den eneste investering der virkelig gør en forskel. Du kan købe en dørrammon til under 200 kr.
+- **En pull-up bar.** Det er den eneste investering der virkelig gør en forskel. Du kan købe en dørramme til under 200 kr.
 - **En stol eller bænk.** Til dips og modificerede push-ups. Har du allerede hjemme.
 - **Et håndklæde eller måtte.** Til gulvøvelser og stræk. Ikke strengt nødvendigt, men rart at have.
 
@@ -123,10 +123,10 @@ Læs mere i vores guide til vægttab og diæt hvis det er dit mål.
 Du skal altid varme op før du træner. Det tager 5-10 minutter og forebygger skader. En god opvarmning til calisthenics kan være:
 
 1. 2 minutter let rutsjebane eller hoppe på stedet
-2. 10 armrotatio ner frem og tilbage
+2. 10 armrotationer frem og tilbage
 3. 10 hofterotationer i hver retning
 4. 5 lette squats med fokus på dybde
-5. 5 knæl-push-ups med fokus på kropsstilling
+5. 5 knæ-push-ups med fokus på kropsstilling
 
 Når du har lavet dette, er din krop klar. Du kan også lave en specifik opvarmning ved at gøre den første sæt af hver øvelse med færre repetitioner og fokus på teknik.
 

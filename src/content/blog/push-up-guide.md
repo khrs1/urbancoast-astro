@@ -52,13 +52,13 @@ Lav 3 sæt af 10-15 repetitioner. Når det er nemt, så flyt fødderne længere 
 
 Placer hænderne på en kasse, stol eller bænk. Lav push-ups derfra. Jo lavere overflade, jo sværere. Start med bordhøjde og arbejd dig ned.
 
-Lav 3 sæt af 8-12 repetitioner. Når du kan lave 12 på en lav stol, er du klar til knæl-push-ups.
+Lav 3 sæt af 8-12 repetitioner. Når du kan lave 12 på en lav stol, er du klar til knæ-push-ups.
 
 ### Trin 3: Push-ups på knæ
 
 Placer knæ på jorden og hænderne skulderbredt. Kroppen fra knæ til hoved er en lige linje. Sænk dig til brystet rører jorden og skub op.
 
-Lav 3 sæt af 8-12 repetitioner. **Knæl-push-ups er det sidste skridt før fulde push-ups.** Bliv her indtil du kan lave 15 nemme repetitioner.
+Lav 3 sæt af 8-12 repetitioner. **Knæ-push-ups er det sidste skridt før fulde push-ups.** Bliv her indtil du kan lave 15 nemme repetitioner.
 
 ### Trin 4: Fuld push-up
 
@@ -105,7 +105,7 @@ Her er et program der bygger dig op, uanset hvor du er i din rejse.
 
 **Niveau 2: 1-5 push-ups**
 - Fuld push-up: så mange du kan, maks 5 per sæt, 5 sæt
-- Knæl-push-up: 3 sæt af 10
+- Knæ-push-up: 3 sæt af 10
 - Træn 3 gange om ugen i 2-3 uger
 
 **Niveau 3: 5-15 push-ups**
