@@ -71,9 +71,9 @@ Hvis svaret er ja, så er det fordi du ligger korrekt. Det er ikke lige så hår
 
 #### Grebet om vægtstangen
 
-Når det kommer til grebet, skal du holde en smule længere ude end din skulderbredde – ca. en håndbredde længere ude end dine skuldre. Det er svært at give et specifikt råd, eller cm-tal som vejledning. I stedet skal du kigge på, hvordan dine arme ser ud nederst i løftet, når vægtstangen rører dit bryst. Hvis der står en person bag dig og kigger på dine arme, så skal du have underarm i en 90 graders vinkel. Husk underarmen er et led i maskineriet, der skal skubbe vægten væk. Dvs. du kan overføre mere kraft i løftet, hvis der dannes en lige vinkel på stangen.
+Til grebet skal du holde en smule længere ude end din skulderbredde – ca. en håndbredde længere ude end dine skuldre. Det er svært at give et specifikt råd, eller cm-tal som vejledning. I stedet skal du kigge på, hvordan dine arme ser ud nederst i løftet, når vægtstangen rører dit bryst. Hvis der står en person bag dig og kigger på dine arme, så skal du have underarm i en 90 graders vinkel. Husk underarmen er et led i maskineriet, der skal skubbe vægten væk. Dvs. du kan overføre mere kraft i løftet, hvis der dannes en lige vinkel på stangen.
 
-Når det kommer til grebet om selve stangen, så husk igen at din underarm skal ligge korrekt. Hvis vægten ligger øverst i håndfladen på dig, vil du ikke kunne overføre maksimal kræft (Og du vil belaste dit håndled). Derfor skal stangen ligge på tværs af din hånd som vist på billedet herunder.
+Til grebet om selve stangen, så husk igen at din underarm skal ligge korrekt. Hvis vægten ligger øverst i håndfladen på dig, vil du ikke kunne overføre maksimal kræft (Og du vil belaste dit håndled). Derfor skal stangen ligge på tværs af din hånd som vist på billedet herunder.
 
 Når dette er gjort, pakker du fingrene om stangen og "låser" dem med din tommeltot. Klem alt hvad du kan om vægtstangen, når du udfører løftet.
 

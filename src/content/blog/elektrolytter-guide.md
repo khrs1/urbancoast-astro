@@ -7,7 +7,7 @@ category: "Kosttilskudguides"
 tags: ["elektrolytter", "hydrering", "træning", "mineraler", "væskebalance"]
 ---
 
-Elektrolytter er mineraler der regulerer væskebalancen i din krop. Når du sveder under træning, mister du dem. Men skal du egentlig tage et tilskud? Her er hvad du skal vide.
+Elektrolytter er mineraler der regulerer væskebalancen i din krop. Når du sveder under træning, mister du dem. Men skal du egentlig tage et tilskud? Det får du svaret på her.
 
 ## Hvad er elektrolytter?
 

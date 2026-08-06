@@ -17,7 +17,7 @@ Som det kommer af navnet, er det en form for træning, hvor du udsætter dine mu
 Mange mennesker forbinder styrketræning med bodybuilding, og selvom disse to ting unægtelig hænger sammen, så er styrketræning meget mere end bare bodybuilding. Styrketræning er populært blandt folk i forskellige aldersgrupper og kan f.eks. have en gavnlig effekt på ældre mennesker, som er i risiko for knogleskørhed eller andre knoglerelaterede sygdomme. Man behøver dog ikke at besøge det lokale fitnesscenter for at styrketræne, da man også kan lave et bredt spektrum af øvelser hjemme i sit eget hus uden at fylde stuen op med vægte og maskiner. Ens egen kropsvægt fungerer nemlig fint som belastning og eksempler på øvelser med egen kropsvægt er armstrækninger, mavebøjninger, planke, benløft, pull-ups, dips mm.
 
 
-## **Træning med resultater – Hvor mange repetitioner?**
+## **Træning med resultater: hvor mange repetitioner?**
 
 Når man styrketræner, er der mange faktorer, der spiller ind, når man er interesseret i at se resultater. Blandt disse er antal repetitioner og sæt, pauser, type, belastning, intensitet af træningen, din kost, restitutionstid mellem træningspas mm. Man kan træne metabolisk belastende styrketræning, som er træning, der udføres med mange repetitioner til udmattelse og korte pauser mellem hvert sæt.
 

@@ -33,7 +33,7 @@ Oveni hatten er kondien nok ikke optimal, og måske er løbeskoene heller ikke d
 
 ## Normal Pronation
 
-Kort fortalt, så lander en almindelig løber på yderhælen og ud op ydersiden af foden, hvor efter det falder ned i pronatineret bagfod hvorefter man ruller en i mellem foden, og dernæst ned i storetåen, hvor foden bliver en lang og solid plade i afsætsfasen. Ja det er meget teknisk, og en anelse svært at forstå, men nedenstående billede kan give en illustrere hvordan en almindelig løbestil forløber.
+En almindelig løber lander på yderhælen og ud op ydersiden af foden, hvor efter det falder ned i pronatineret bagfod hvorefter man ruller en i mellem foden, og dernæst ned i storetåen, hvor foden bliver en lang og solid plade i afsætsfasen. Ja det er meget teknisk, og en anelse svært at forstå, men nedenstående billede kan give en illustrere hvordan en almindelig løbestil forløber.
 
 ## Hvad er overpronation?
 

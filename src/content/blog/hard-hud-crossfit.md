@@ -34,7 +34,7 @@ Jo mere du holder vægtstangen i håndfladen og jo mere du klemmer om stangen, j
 
 ## Kalk: Lidt er godt
 
-Kalk kan være en synder, når det kommer til tør hud og at undgå friktion mellem vægtstangen og din hud.
+Kalk kan være en synder ved tør hud og friktion mellem vægtstangen og din hud.
 
 Mindre mængder at kalk kan holde dine hænder tørre og sørge for du får et mere korrekt greb på pullup-stangen, men for meget kalk har modsatte effekt. Det skaber mere friktion og vil ofte få dig til at holde tættere om stangen, hvilket gør der opstår mere friktion.
 

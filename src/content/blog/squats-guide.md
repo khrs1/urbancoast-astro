@@ -1,5 +1,5 @@
 ---
-title: "Squats: Stor Guide Til Squat-teknik"
+title: "Squats: Stor guide til squat-teknik"
 description: "Så du vil gerne lære at squatte? Velkommen til den mest gennemførte guide med videoer og billeder til at gøre dig til verdensmester i squat."
 pubDate: 2018-10-21
 author: "Karsten Hansen"
@@ -7,7 +7,7 @@ category: "Træningsguides"
 image: "https://urbancoast.dk/wp-content/uploads/2018/10/back-squat-form-tips.jpg"
 ---
 
-# Squats: Stor Guide Til Squat-teknik
+# Squats: Stor guide til squat-teknik
 
 **Så du vil gerne lære at squatte? Velkommen til den mest gennemførte guide med videoer og billeder til at gøre dig til verdensmester i squat. Squat er en af de bedste øvelser til at opbygge styrke, muskeludholdenhed og ren muskelmasse. Squats kan hjælpe dig på vej, om du vil tabe dig, få dig en sqaut-booty, eller tage muskelmasse på. Hvis du træner for at tage på i muskler og blive stærkere, men IKKE indarbejder squat i dit program, så går du glip af en meget essentiel del af din træning.**
 
@@ -35,7 +35,7 @@ Det er meget vigtigt at dine knæ følger den bane dine fødder peger, da knæle
 
 Nu spørger du måske, jamen, hvordan ved jeg hvordan mine fødder skal placeres? Et lille trick for at finde ud af dette er at stå med fødderne i den position, der føles mest rigtigt. Dette kunne f.eks. være skulderbredde. Når du står i skulderbredde og spænder i bagdelen vil dine fødder dreje sig til den position, der er mest naturlig for din krop. Det skal dog nævnes, at din smidighed også bestemmer en stor del her. Fodplaceringen har også stor betydning for hvilke muskler, der aktiveres – Jo bredere man står, jo mere rammer man primært de inderste lårmuskler, hvorimod man i en bredere stand rammer de ydre lårmuskler mere.
 
-## De tre S’er.
+## De tre S'er
 
 De tre S’er er som Jacob Beerman fortæller i denne video herunder, Stand, Stang og Start.
 

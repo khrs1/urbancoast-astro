@@ -1,5 +1,5 @@
 ---
-title: "Calisthenics Udstyr: Hvad Skal du Bruge for at Komme i Gang"
+title: "Calisthenics udstyr: Hvad skal du bruge for at komme i gang"
 description: "Calisthenics kræver ikke meget udstyr, men det rigtige gør træningen nemmere. Her får du en guide til pull-up bars, parallettes, modstandsband og mere."
 pubDate: 2026-08-05
 author: "Karsten Hansen"
@@ -7,7 +7,7 @@ category: "Træningsguides"
 image: "https://urbancoast.dk/wp-content/uploads/2026/08/calisthenics-udstyr.jpg"
 ---
 
-# Calisthenics Udstyr: Hvad Skal du Bruge for at Komme i Gang
+# Calisthenics udstyr: Hvad skal du bruge for at komme i gang
 
 Calisthenics er en af de billigste træningsformer du kan dyrke. Du skal bruge din egen kropsvægt, og det er det hele. Men det rigtige udstyr kan gøre træningen nemmere, sjovere og mere effektiv.
 
