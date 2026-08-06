@@ -30,3 +30,10 @@ Eksempel: Hvis du kan [bænkpresse](/blog/bænkpres) 80 kg i 5 repetitioner, er 
 ## 1RM og okklusionstræning
 
 Ved [okklusionstræning](/blog/okklusionstraening-den-store-guide) træner man med så lidt som 20-30% af 1RM, hvilket gør det til et skånsomt alternativ for dem, der ikke kan træne tungt.
+
+
+## Relaterede artikler
+
+- [1RM beregner](/tools/1rm-beregner)
+- [RPE](/ordbog/hvad-er-rpe)
+- [Bænkpres](/blog/baenkpres-teknik)

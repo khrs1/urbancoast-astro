@@ -12,3 +12,9 @@ HIIT er en forkortelse for High Intencency Interval Training og er en type inter
 Ønsker du at forbedre dig aerobic, dvs. kondition, så skal programmerne sammensættes, så du udøvelse kontra hvile er i et 1:1 forhold, eller 1:2. Det vil sige du kører øvelsen igennem på 2 minutter, så hviler du 2 minutter.
 
 Ønsker du at opnå øget eksplosivitet, eller power, så er hvile-intervallerne ofte længere for at man kan lade mere op inden næste interval. Her bruger noget 1:5 forholdet, så det vil f.eks. sige du laver en eksplosiv bevægelse i 30 sekunder og hviler i 2 minutter og 3 sekunder.
+
+
+## Relaterede artikler
+
+- [Cardio](/ordbog/hvad-er-cardio)
+- [10 punkter til hurtigt vægttab](/blog/10-punkter-til-et-hurtigt-vaegttab)

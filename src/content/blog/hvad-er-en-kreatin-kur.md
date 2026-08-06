@@ -4,7 +4,7 @@ description: "Hvad er Kreatin Kur? Hvad er en kreatin loading fase? Læs svaret 
 pubDate: 2017-09-15
 author: "Jakob Thestrup"
 category: "Kosttilskudguides"
-image: "https://urbancoast.dk/wp-content/uploads/2017/09/urbancoast_infographic3-661x1024.png"
+image: ""
 ---
 
 Vi har lavet en kort artikel, der forklarer dig, hvad en kreatin kur er. Du har måske hørt udtrykket på træningsforum, eller nede i dit lokale træningscenter.
@@ -13,7 +13,7 @@ Vi har lavet en kort artikel, der forklarer dig, hvad en kreatin kur er. Du har 
 
 [Kreatin](https://urbancoast.dk/kategori/kosttilskud/muskelopbygning/kreatin/) findes primært i kroppens skeletmuskler, hvor det hjælper til cellernes energiforsyning i forbindelse med muskelarbejde. Det er som sådan ikke et næringsstof, som vi skal have tilført, eftersom kroppen selv er i stand til producere det, og det findes i mindre mængder i forskellige fødevarer. Kroppen producerer dog kun omkring 1g kreatin dagligt og er dermed i stand til at optage "ekstra" kreatin fra kosten eller tilskud.
 
-![kreatin infografik urbancoast.dk](https://urbancoast.dk/wp-content/uploads/2017/09/urbancoast_infographic3-661x1024.png)
+
 
 ## Effekt af kreatin
 
@@ -27,7 +27,7 @@ Det typiske skema ved kreatin kur er at indtage ca. 5g kreatin fire gange daglig
 
 > Da kroppen "vænner sig" til et større indtag og lagrene hermed mindskes igen, anbefales det at køre kreatin kur i et par måneder og derefter holde en længere pause, indtil man starter igen. Hold gerne minimum en måneds pause før du starter igen for at være sikker på, at depoterne er tilbage til normalniveau.
 
-![kreatin kur og din krop](https://urbancoast.dk/wp-content/uploads/2017/03/info-block-img.jpg)
+
 
 ## Kreatin loading fase - den komplette guide
 

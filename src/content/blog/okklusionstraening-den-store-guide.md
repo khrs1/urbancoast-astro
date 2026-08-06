@@ -4,7 +4,7 @@ description: "Okklusionstræning, KAATSU-træning, blood flow restricted exercis
 pubDate: 2017-09-19
 author: "Jakob Thestrup"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2017/09/okklusionstr%C3%A6ning-med-bfr-pro-bfr-arm-bands.jpg"
+image: ""
 ---
 
 Denne artikel indeholder affiliate links
@@ -21,7 +21,7 @@ Eftersom okklusionstræning kan betragtes som skånsom i en belastningsmæssig f
 
 Det kan bruges til de-load, da den mekaniske belastning af leddene som sagt er noget lavere end traditionel tung styrketræning. Der hvor det måske giver mest mening at benytte sig af okklusionstræning er til at bryde igennem det plateau, man oplever når man har styrketrænet kontinuerligt i et stykke tid. Styrketræning af varierende karakter synes at være en af præmisserne for at forsat opleve fremgang i muskelmasse, og her kan okklusionstræning være et træningstiltag, som kan muliggøre forsat fremgang. Især da træningsformen også er bevist til at kunne øge muskelmassen hos veltrænede atleter, som ellers er en gruppe man ikke har store forventninger til at tage yderligere på i muskelmasse (6).
 
-![okklusionstræning med bfr pro - bfr arm bands](https://urbancoast.dk/wp-content/uploads/2017/09/okklusionstr%C3%A6ning-med-bfr-pro-bfr-arm-bands.jpg)
+
 
 ## Hvad ligger bag muskelvækst ved okklusionstræning?
 
@@ -29,13 +29,13 @@ Den øgede muskelmasse ved okklusionstræning er formentlig bl.a. foranlediget a
 
 En afklemning af blodomløbet, som der praktiseres ved okklusionstræning, medfører et reduceret ilttilbud til de arbejdende muskler. Dette betyder, at musklen udtrættes hurtigere, som får affaldsprodukter fra metabolismen til at ophobe sig. Disse metaboliske ændringer menes at stimulere centralnervesystemet til at øge muskelaktiviteten, så store dele af musklen arbejder. Dette medvirker at muskelproteinsyntesen øges i både type I og II-fibre, som på længere sigt kan betyde en øget muskelmasse.
 
-![bfr professional arm bands urbancoast.dk](https://urbancoast.dk/wp-content/uploads/2017/09/bfr-professional-arm-bands-urbancoast.dk_.jpg)
 
-[![BfR Pro ARMS okklusions bånd 2](https://urbancoast.dk/wp-content/uploads/2017/09/BfR-Pro-ARMS-okklusions-straps-2.jpg)](https://urbancoast.dk/go/?id=bfr-straps)
+
+[](https://urbancoast.dk/go/?id=bfr-straps)
 
 [Køb BfR Pro okklusionsstraps til arme](https://urbancoast.dk/go/?id=bfr-straps)
 
-[![BfR Professional GluteBuilder 2](https://urbancoast.dk/wp-content/uploads/2017/09/BfR-Professional-GluteBuilder-2.jpg)](https://urbancoast.dk/go/?id=bfr-glutebuilder)
+[](https://urbancoast.dk/go/?id=bfr-glutebuilder)
 
 [Køb BfR Pro Glutebuilder til bentræning](https://urbancoast.dk/go/?id=bfr-glutebuilder)
 

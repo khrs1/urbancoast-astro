@@ -8,3 +8,10 @@ tags: ["en BARBELL"]
 ---
 
 En 'barbell' betyder vægtstang på dansk. Det vil med andre ord sige en vægtstang du kan sætte vægtskiver på. I træningsprogrammer, hvor udstyr nævnes, forkortes barbell ofte som BB.
+
+
+## Relaterede artikler
+
+- [Dumbbell](/ordbog/hvad-er-en-dumbell)
+- [Bænkpres](/blog/baenkpres-teknik)
+- [Dødløft](/blog/doedloeft)

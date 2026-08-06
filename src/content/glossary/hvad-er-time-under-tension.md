@@ -12,3 +12,9 @@ Hvad er Time under Tension? Time under tension, eller TUT, bruges ofte i sammenh
 Mindre Time under tension betyder musklen ikke belastes på samme måde. Derfor anbefaler bodybuildere ofte, at man laver den excentriske del af øvelsen i et langsomt tempo fremfor høj hastighed for at have maksimal udbytte af øvelsen.
 
 I bænkpreseksemplet vil den exentriske fase af løftet være, når man "holder igen" og bremser vægten i den nedadgående bevægelse mod brystet.
+
+
+## Relaterede artikler
+
+- [Excentrisk træning](/ordbog/hvad-er-excentrisk-traening)
+- [Koncentrisk træning](/ordbog/hvad-er-koncentrisk-traening)

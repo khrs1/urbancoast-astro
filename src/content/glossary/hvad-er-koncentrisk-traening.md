@@ -8,3 +8,9 @@ tags: ["KONCENTRISK TRÆNING"]
 ---
 
 Koncentrisk træning er det modsatte af excentrisk træning og et modstykke til at f.eks. 'holde igen' mod en vægt, der sænkes. Koncentrisk muskelarbejde er en sammentrækning i musklen under belastning. Det kunne være når man løfter, eller presser en vægt væk. Et eksempel kunne være ved en armbøjning, hvor man skubber kroppen væk fra jorden, eller i en bicpescurl, hvor man hæver vægten fra hoftehøjde til kravebenshøjde ved at bøje armen.
+
+
+## Relaterede artikler
+
+- [Excentrisk træning](/ordbog/hvad-er-excentrisk-traening)
+- [Time under tension](/ordbog/hvad-er-time-under-tension)

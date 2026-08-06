@@ -32,3 +32,9 @@ Du skal holde hele kroppen strakt som et flag, mens kun skuldrene har kontakt me
 5. **Hold kroppen strakt:** Undgå at bøje i hoften, da det fjerner belastningen fra core.
 
 Dragon flag passer godt sammen med [calisthenics](/ordbog/hvad-er-calisthenics) træning. Læs også om [front lever](/ordbog/hvad-er-front-lever) for en lignende statisk øvelse, der bygger core og ryg.
+
+
+## Relaterede artikler
+
+- [Handstand guide](/blog/handstand-guide)
+- [Human flag](/ordbog/hvad-er-human-flag)

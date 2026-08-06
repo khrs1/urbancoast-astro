@@ -4,7 +4,7 @@ description: "Adidas laver nogle af de bedste vægtløftersko på markedet. Her 
 pubDate: 2021-04-15
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2021/04/adidas-weightlifting-shoes.jpg"
+image: ""
 ---
 
 Vægtløftersko fra Adidas er blandt de mest populære sko til squat og vægtløftning. Adidas har lavet vægtløftersko i årtier og har tre hovedmodeller på markedet. Her gennemgår vi dem alle tre så du kan vælge den rigtige til din træning.

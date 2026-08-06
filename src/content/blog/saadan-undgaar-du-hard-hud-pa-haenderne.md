@@ -4,7 +4,7 @@ description: "Hård hud og vabler fra træning er irriterende men kan undgås. H
 pubDate: 2021-04-10
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2021/03/crossfit-grips-til-pullups2.jpg"
+image: ""
 ---
 
 Hård hud og vabler på hænderne er et velkendt problem for alle der træner CrossFit eller vægtløftning. Det er irriterende når du holder kæresten i hånden. Det er værre når vablerne sprækker og du må springe træningen over.

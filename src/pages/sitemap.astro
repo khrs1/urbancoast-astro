@@ -1,0 +1,73 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const blogPosts = (await getCollection('blog')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+const glossaryEntries = (await getCollection('glossary')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const tools = [
+  { slug: 'bmi-beregner', title: 'BMI beregner' },
+  { slug: 'kalorieberegner', title: 'Kalorieberegner' },
+  { slug: 'makro-beregner', title: 'Makro beregner' },
+  { slug: 'protein-beregner', title: 'Protein beregner' },
+  { slug: '1rm-beregner', title: '1RM beregner' },
+  { slug: 'fedtprocent-beregner', title: 'Fedtprocent beregner' },
+  { slug: 'idealvaegt-beregner', title: 'Idealvægt beregner' },
+  { slug: 'kreatin-beregner', title: 'Kreatin beregner' },
+  { slug: 'vand-beregner', title: 'Vand beregner' },
+  { slug: 'pull-up-beregner', title: 'Pull up beregner' },
+];
+---
+
+<Layout title="Sitemap" description="Oversigt over alle sider på UrbanCoast.dk">
+  <div class="category-hero">
+    <div class="container">
+      <h1>Sitemap</h1>
+      <p>Oversigt over alle sider på UrbanCoast.dk</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:2rem">
+        <div>
+          <h2>Hovedsider</h2>
+          <ul>
+            <li><a href="/">Forside</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/tools">Værktøj</a></li>
+            <li><a href="/ordbog">Ordbog</a></li>
+            <li><a href="/produkter">Produkter</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h2>Værktøj</h2>
+          <ul>
+            {tools.map(tool => (
+              <li><a href={`/tools/${tool.slug}`}>{tool.title}</a></li>
+            ))}
+          </ul>
+        </div>
+
+        <div>
+          <h2>Blog indlaeg</h2>
+          <ul>
+            {blogPosts.map(post => (
+              <li><a href={`/blog/${post.slug}`}>{post.data.title}</a></li>
+            ))}
+          </ul>
+        </div>
+
+        <div>
+          <h2>Ordbog</h2>
+          <ul>
+            {glossaryEntries.map(entry => (
+              <li><a href={`/ordbog/${entry.slug}`}>{entry.data.title}</a></li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

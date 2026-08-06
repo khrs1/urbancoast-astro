@@ -4,14 +4,14 @@ description: "Proteinpandekager | Nemme pandekager med protein og få ingrediens
 pubDate: 2017-09-19
 author: "Karsten Hansen"
 category: "Proteinopskrifter"
-image: "https://urbancoast.dk/wp-content/uploads/2018/03/proteinpandekager-med-sirup.jpg"
+image: ""
 ---
 
 Denne artikel indeholder affiliate links
 
 De fleste ved protein er vigtig i forhold til træning, men den evige protein shake kan blive ensformig og kedelig. Proteinpandekager er en lækker og nem afveksling til din proteinholdige kost.
 
-![proteinpandekager-med-sirup](https://urbancoast.dk/wp-content/uploads/2018/03/proteinpandekager-med-sirup.jpg)
+
 
 Vi har lavet en lækker lille opskrift som både er sund og tilsat [proteinpulver](/blog/proteinpulver-fakta), så det dermed er en rigtig fin proteinkilde.
 
@@ -47,15 +47,15 @@ Servér med proteinpandekagerne med akaciehonning, sirup, eller en slags bær al
 
 Proteinpandekager er en lækker snack, som er sund samtidig med det er nemt at lave. Det smager godt, og er det er et udemærket supplement til en sund nærende kost, der trænger til en øget mængde protein. Lige som der er et utal af opskrifter på protein shakes, så findes der også et utal pandekageopskrifter – og proteinpandekager ligeså. Derfor ligner en "almindelig" pandekages ingredienser også meget proteinpandekagers ingredienser. Dog er det ikke helt ligegyldigt hvilken proteinpulver du bruger, og derfor kan du med stor succes benytte en whey proteinpulver. Whey proteinpulver har en god smag og varianter med banan, chokolade eller vaniljesmag passer perfekt i proteinpandekager. Vi anbefaler nogle af de produkter til vores "fitness pandekager" nederst i dette indlæg.
 
-[![bodylab whey100 proteinpulver](https://urbancoast.dk/wp-content/uploads/2019/05/whey100-3x-pouches-shine.jpg)](https://urbancoast.dk/go/?id=bodylab-protein)
+[](https://urbancoast.dk/go/?id=bodylab-protein)
 
 [Køb hos Bodylab](https://urbancoast.dk/go/?id=bodylab-protein)
 
-[![](https://urbancoast.dk/wp-content/uploads/2017/09/Myprotein-Impact-Whey-Protein-2-2nd.png)](https://urbancoast.dk/go/?id=myprotein-protein)
+[](https://urbancoast.dk/go/?id=myprotein-protein)
 
 [Køb hos MYPROTEIN](https://urbancoast.dk/go/?id=myprotein-protein)
 
-[![](https://urbancoast.dk/wp-content/uploads/2017/09/bulkpowder-proteinpulver-til-pandekager.jpg)](https://urbancoast.dk/go/?id=bulkpowders-protein)
+[](https://urbancoast.dk/go/?id=bulkpowders-protein)
 
 [Køb hos BulkPowders](https://urbancoast.dk/go/?id=bulkpowders-protein)
 

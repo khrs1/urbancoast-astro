@@ -11,7 +11,7 @@ Denne artikel indeholder affiliate links
 
 Vægtløftersko, også kaldet løftesko, er et specialiseret fodtøj designet til at give maksimal stabilitet og teknik under tunge løft. De er især populære blandt styrkeløftere, vægtløftere og CrossFit-udøvere, men kan også være en fordel for dig, der træner squats og andre knæbøjningsøvelser regelmæssigt.
 
-Læs også vores guide til [squats](/blog/squats-guide) og [bænkpres](/blog/baenkpres) for at dykke dybere i de store løft.
+Læs også vores guide til [squats](/blog/squats-guide) og [bænkpres](/blog/baenkpres-teknik) for at dykke dybere i de store løft.
 
 ## Hvad er vægtløftersko?
 

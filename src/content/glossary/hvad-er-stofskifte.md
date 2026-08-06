@@ -30,3 +30,10 @@ En almindelig misforståelse er, at man kan "booste" sit stofskifte markant med 
 ## Stofskifte og vægttab
 
 For [vægttab](/blog/10-punkter-til-et-hurtigt-vaegttab) skal du være i et kalorieunderskud — altså forbrænde mere energi end du indtager. Stofskiftet bestemmer, hvor meget du kan spise og stadig tabe dig.
+
+
+## Relaterede artikler
+
+- [BMR](/ordbog/hvad-er-bmr)
+- [TDEE](/ordbog/hvad-er-tdee)
+- [Kalorieberegner](/tools/kalorieberegner)

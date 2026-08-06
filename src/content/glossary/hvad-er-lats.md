@@ -8,3 +8,9 @@ tags: ["LATS"]
 ---
 
 Lats er også kendt som Latissimus dorsi, og er den muskel, er den brede muskel på ryggen. Faktisk betyder 'latus' bred på latin. Musklen går fra hver sin side af ryggen og hæfter ved lænden og lige under trapezius. Lats er den muskel på ryggen som betyder mest for udviklingen af ryggens muskulatur og er et fokuspunkt for bodybuildere.
+
+
+## Relaterede artikler
+
+- [Pull up guide](/blog/pull-up-guide)
+- [Delts](/ordbog/hvad-er-delts)

@@ -12,3 +12,9 @@ Kilojoule, eller forkortet kj, er en måde at beregne energi på. En kalorie sva
 Hvis noget indeholder 300 kcal pr 100g, indeholder det altså (300 x 4,186) = 1255,8 kj
 
 Hvis noget indeholder 300 kj pr 100g, indeholder det (300 x 0,2389) = 71,67 kcal
+
+
+## Relaterede artikler
+
+- [kcal til kJ](/blog/kcal-til-kj)
+- [Kalorier i mad](/blog/kalorier-i-mad)

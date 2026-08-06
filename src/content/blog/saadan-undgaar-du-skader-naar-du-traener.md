@@ -20,7 +20,7 @@ Udover at mindske risikoen for skader, så hjælper en omgang opvarmning dig ogs
 
 Efter en træning er det vigtigt, at kroppen får mulighed for at komme tilbage i en hviletilstand, hvor restitutionen er mest optimal. Ved at introducere en kort nedkøling i form af f.eks. 3-5 minutter let gang efterfulgt af 3-5 minutters udstrækning, fremmer du bortskaffelsen af metaboliske affaldsstoffer samt en forøget ilttilførsel, og begge er faktorer, der fører til en hurtigere restitution efter træningen. Hvis man har udført styrketræning, er det vigtigt, at træningen afsluttes med udspænding af de brugte muskelgrupper.
 
-![sådan undgår du træningsskader](https://urbancoast.dk/wp-content/uploads/2018/03/ringegreb-undg%C3%A5-tr%C3%A6ningsskader.jpg)
+
 
 ### Undgå dårlig teknik!
 

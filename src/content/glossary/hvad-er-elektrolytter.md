@@ -16,3 +16,8 @@ De vigtigste elektrolytter er natrium, kalium, [magnesium](/ordbog/hvad-er-magne
 For de fleste er det ikke nødvendigt. En sund kost med bananer, kartofler, spinat og mælkeprodukter dækker dit behov. Et tilskud kan være relevant ved hård træning over 60 minutter eller i varmt vejr.
 
 Læs vores komplette [guide til elektrolytter](/blog/elektrolytter-guide) for mere detaljeret information.
+
+
+## Relaterede artikler
+
+- [Vand beregner](/tools/vand-beregner)

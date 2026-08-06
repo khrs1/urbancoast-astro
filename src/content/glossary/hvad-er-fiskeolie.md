@@ -18,3 +18,8 @@ Omega-3 bruges til at opbygge cellemembraner, regulere inflammation og understø
 Hvis du spiser fed fisk 2-3 gange om ugen, har du sandsynligvis ikke brug for tilskud. Spiser du det sjældent, er et dagligt tilskud på 1-2 g EPA+DHA en god idé.
 
 Læs meget mere i vores [fiskeolie guide](/blog/fiskeolie-guide).
+
+
+## Relaterede artikler
+
+- [Magnesium](/ordbog/hvad-er-magnesium)

@@ -28,3 +28,8 @@ Gode proteinkilder inkluderer kylling, æg, fisk, mejeriprodukter, bælgfrugter 
 ## Fordeling gennem dagen
 
 For at maksimere muskelproteinsyntesen bør proteinet fordeles over 3-5 måltider med 20-40 g protein per måltid, frem for at indtage det hele på én gang.
+
+
+## Relaterede artikler
+
+- [Protein beregner](/tools/protein-beregner)

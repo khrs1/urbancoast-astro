@@ -4,7 +4,7 @@ description: "Muscle-up er en af de sejeste calisthenics-øvelser. Her får du e
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2026/08/muscle-up-guide.jpg"
+image: ""
 ---
 
 # Muscle-up Guide: Lær at Lave din Første Muscle-up
@@ -37,7 +37,7 @@ Du skal kunne:
 - 10-15 dips (også kaldet armstræks) på parallelle barer
 - 5-10 strakte push-ups
 
-Kan du det, er du stærk nok til at begynde på progressionen. Kan du ikke, så start med at bygge styrke op med [pull-ups](/blog/crossfit-grips) og dips først.
+Kan du det, er du stærk nok til at begynde på progressionen. Kan du ikke, så start med at bygge styrke op med [pull-ups](/blog/crossfit-grips-pull-up-grips) og dips først.
 
 En undersøgelse af calisthenics-atleter viste at pull-up styrke er den største prædiktor for om man kan lære en muscle-up [1]. Så det er her du skal lægge fundamentet.
 

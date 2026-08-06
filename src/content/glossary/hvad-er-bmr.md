@@ -40,3 +40,10 @@ Kender du din BMR og TDEE, kan du planlægge din [kost](/blog/sund-kostplan) pr�
 - **Muskelopbygning:** Spis 300-500 kcal over TDEE
 
 Læs mere om [kalorieoverskud](/ordbog/hvad-er-kalorieoverskud) og [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud) i vores ordbog.
+
+
+## Relaterede artikler
+
+- [Kalorieberegner](/tools/kalorieberegner)
+- [TDEE](/ordbog/hvad-er-tdee)
+- [BMI beregner](/tools/bmi-beregner)

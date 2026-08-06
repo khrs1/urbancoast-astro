@@ -28,3 +28,9 @@ Muscle-up kræver både styrke og teknik. Du skal kunne lave en streng pull-up m
 Hold baren tæt på kroppen og før den ud over maven. Drej håndleddene når du skifter til dip-positionen. Hold kroppen stram for at undgå at svinge.
 
 Muscle-up er en klatre-øvelse, der bygger [calisthenics](/ordbog/hvad-er-calisthenics) fundamentet. Du kan læse mere om relaterede øvelser som [front lever](/ordbog/hvad-er-front-lever) og [back lever](/ordbog/hvad-er-back-lever) i vores ordbog.
+
+
+## Relaterede artikler
+
+- [Muscle up guide](/blog/muscle-up-guide)
+- [Pull up guide](/blog/pull-up-guide)

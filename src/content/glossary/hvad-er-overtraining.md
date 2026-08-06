@@ -32,3 +32,8 @@ Overtraining er en tilstand, hvor kroppens evne til at restituere er overskredet
 3. **Progressiv overbelastning** — Øg ikke træningsmængden med mere end 10% om ugen
 4. **Variation** — Skift øvelser og intensitet for at undgå ensformig belastning
 5. **Lyt til kroppen** — Hvis du føler dig svagere, tag en ekstra hviledag
+
+
+## Relaterede artikler
+
+- [Søvn restitution](/ordbog/hvad-er-soevn-restitution)

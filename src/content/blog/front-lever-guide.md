@@ -4,7 +4,7 @@ description: "Front lever er en af de mest krævende calisthenics-øvelser. Her 
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2026/08/front-lever-guide.jpg"
+image: ""
 ---
 
 # Front lever guide: Lær en af de sværeste calisthenics-skills

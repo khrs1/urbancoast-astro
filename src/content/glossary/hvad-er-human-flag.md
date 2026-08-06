@@ -32,3 +32,9 @@ Du skal have stærke skuldre, en stærk core og god kropskontrol. Den øverste a
 5. **Saml benene:** Når straddle er stabil, gå til full flag.
 
 Brug en stærk stang eller parallettes med solid fod. Human flag kræver stabilt udstyr, da du belaster det sidelæns. Læs mere om [calisthenics](/ordbog/hvad-er-calisthenics) for flere imponerende øvelser.
+
+
+## Relaterede artikler
+
+- [Dragon flag](/ordbog/hvad-er-dragon-flag)
+- [Planche](/ordbog/hvad-er-planche)

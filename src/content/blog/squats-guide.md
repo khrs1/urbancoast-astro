@@ -4,7 +4,7 @@ description: "Så du vil gerne lære at squatte? Velkommen til den mest gennemf�
 pubDate: 2018-10-21
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2018/10/back-squat-form-tips.jpg"
+image: ""
 ---
 
 # Squats: Stor guide til squat-teknik
@@ -17,7 +17,7 @@ Squats er meget vigtige for dig, der forsøger at blive stærkere, sundere og ta
 
 Mange nybegyndere overanalyserer deres squat, og ligger øvelsen på hylden, da de er bange for at få skader. Der findes mange holdninger til, hvordan et squat skal se ud blandt nybegyndere inden for styrketræning, og de fravælger derfor øvelsen. Der er et skadespotentiale i squat ligesom alle andre øvelser, men med få fokusområder kan du sqautte med en meget fin form. Sandheden er, der findes ikke en gylden løsning for, hvordan et squat skal se ud. Det kommer meget an på din kropsbygning, smidighed og hvad du har det bedst med. De ting vi vil gennemgå i denne artikel, er vejen til det perfekte squat, så du kan komme godt i gang, eller fintune dit squat.
 
-![back squat guide](https://urbancoast.dk/wp-content/uploads/2018/10/back-squat-form-tips.jpg)
+
 
 # ”Squat is just the act of sitting down”
 

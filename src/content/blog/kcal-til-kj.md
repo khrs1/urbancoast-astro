@@ -4,12 +4,12 @@ description: "Kalorier i din kost? & hvad er kiloJoule? Vi har svarene her"
 pubDate: 2018-03-27
 author: "Jakob Thestrup"
 category: "Artikler"
-image: "https://urbancoast.dk/wp-content/uploads/2018/03/burger-kalorier-988x516px.jpg"
+image: ""
 ---
 
 Kalorier og kiloJoule er den målestok mange bruger om deres madindtag og til at holde øje med, hvor meget energi man får ind igennem kosten. I denne artikel forklarer vi, hvad kcal og kJ er – **og vigtigst af alt, hvis du læser lidt videre giver vi dig en smart måde til at regne kcal til kJ.**
 
-![kcal til kj - burger billede](https://urbancoast.dk/wp-content/uploads/2018/03/burger-kalorier-988x516px.jpg)
+
 
 ## Historien bag kalorier
 

@@ -25,7 +25,7 @@ vigtige aminosyrer i forbindelse med muskelvækst. Et andet kendetegn er, at val
 anses som et hurtigt protein. Det betyder, at det optages i kroppen kort efter
 indtagelse og dermed hurtigt bliver tilgængeligt i musklerne.
 
-![fakta om proteinpulver artikel - billede af linuspro basic 1 kg pose](https://urbancoast.dk/wp-content/uploads/2018/02/Linus-Basic-Whey100-blueberry-new.jpg)
+
 
 ### Kasein proteinpulver fakta
 

@@ -26,3 +26,8 @@ Effektive core-øvelser inkluderer:
 - Squat — kræver core-stabilitet gennem hele bevægelsen
 
 Core bør trænes som enhver anden muskelgruppe — med progression og variation, ikke kun med endeløse mavebøjninger.
+
+
+## Relaterede artikler
+
+- [Hvad er styrketræning](/blog/hvad-er-styrketraening)

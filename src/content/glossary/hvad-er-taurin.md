@@ -23,3 +23,8 @@ For de fleste der [styrketræner](/blog/hvad-er-styrketraening), er taurin ikke 
 Hvis du dyrker udholdenhedssport, kan et tilskud på 1-3 g før træning være relevant. Det findes ofte i [pre-workout](/ordbog/hvad-er-pwo) produkter.
 
 [1] Waldman, M., et al. (2018). "Effect of taurine supplementation on exercise performance." *Amino Acids*, 50(1), 1-12.
+
+
+## Relaterede artikler
+
+- [Pre workout guide](/blog/pre-workout-guide)

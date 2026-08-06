@@ -41,7 +41,7 @@ Kalkpulver er det produkt, der sviner mest. Det støver meget og man skal til ti
 
 ### Flydende kalk
 
-[![flydende kalk til træning og vægtløftning](https://urbancoast.dk/wp-content/uploads/2020/05/MEGAGRIP-LIQUID-CHALK-250-ML.jpg)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-flydende-kalk-16402p.html)
+[](https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-flydende-kalk-16402p.html)
 
 [Køb flydende kalk hos Bodyman her](https://urbancoast.dk/go/?id=flydende-kalk)
 
@@ -57,7 +57,7 @@ Flydende kalk er ofte lidt dyrere end pulverkalk og nogle brugere oplever deres 
 
 ### Kalkblokke
 
-[![Kalkblokke til fitness, klatring og træning](https://urbancoast.dk/wp-content/uploads/2020/05/bmchackpic2.jpg)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-kalk-magnesium-16432p.html)
+[](https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-kalk-magnesium-16432p.html)
 
 [Køb kalkblokke hos Bodyman her](https://urbancoast.dk/go/?id=kalkblokke)
 
@@ -82,5 +82,5 @@ Uanset hvilken type kalk du vælger, er der nogle generelle retningslinjer, der 
 
 ## Kalk og grebsudstyr
 
-Kalk er ikke den eneste måde at forbedre dit greb på. Hvis du dyrker CrossFit eller laver mange pull-ups, kan du med fordel bruge [CrossFit grips](/blog/crossfit-grips), som beskytter dine hænder og giver et bedre greb om stangen. Læs også vores guide til [vægtløftersko](/blog/vaegtloeftersko), hvis du vil optimere dit udstyr til de tunge løft.
+Kalk er ikke den eneste måde at forbedre dit greb på. Hvis du dyrker CrossFit eller laver mange pull-ups, kan du med fordel bruge [CrossFit grips](/blog/crossfit-grips-pull-up-grips), som beskytter dine hænder og giver et bedre greb om stangen. Læs også vores guide til [vægtløftersko](/blog/vaegtloeftersko), hvis du vil optimere dit udstyr til de tunge løft.
 

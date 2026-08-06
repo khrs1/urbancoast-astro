@@ -8,3 +8,10 @@ tags: ["HAMMIS, eller HAMSTRINGS"]
 ---
 
 Hamstrings er det engelske udtryk for hasemusklerne. Hasemusklerne sidder bagpå låret og er en gruppe af muskler, der sidder modsat af Quadriceps som sidder foran på låret. Hasemusklerne er ansvarlige for at strække benene og strække knæet ud.
+
+
+## Relaterede artikler
+
+- [Dødløft](/blog/doedloeft)
+- [Squats guide](/blog/squats-guide)
+- [Glutes](/ordbog/hvad-er-glutes)

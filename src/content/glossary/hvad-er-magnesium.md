@@ -46,3 +46,9 @@ Det er det bedste valg hvis du tager magnesium for at sove bedre eller reducere 
 Magnesium olie er en flydende form for magnesium chloride som du smører på huden. Det optages direkte gennem huden og går uden om fordøjelsessystemet.
 
 Nogle foretrækker magnesium olie hvis de får maveproblemer af orale magnesiumtilskud. Forskningen på optagelsen gennem huden er dog begrænset.
+
+
+## Relaterede artikler
+
+- [Elektrolytter](/ordbog/hvad-er-elektrolytter)
+- [Søvn restitution](/ordbog/hvad-er-soevn-restitution)

@@ -4,7 +4,7 @@ description: "Planche er en af de mest avancerede calisthenics-skills. Her får 
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2026/08/planche-guide.jpg"
+image: ""
 ---
 
 # Planche Guide: Lær Planche fra Bunden

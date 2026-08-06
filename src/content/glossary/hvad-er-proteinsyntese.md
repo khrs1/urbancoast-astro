@@ -32,3 +32,9 @@ For at bygge muskler skal MPS være højere end MPB over tid (positiv nitrogenba
 Proteinsyntese kræver alle 9 essentielle aminosyrer. Animalske proteiner (kød, æg, mælk, whey) indeholder alle essentielle aminosyrer i optimale proportioner. Veganske proteiner bør kombineres for at sikre fuld aminosyreprofil.
 
 L-leucin er den aminosyre, der primært "tænder" for proteinsyntesen. Derfor anbefales ofte 2-3 g leucin per måltid.
+
+
+## Relaterede artikler
+
+- [Gains](/ordbog/hvad-er-gains)
+- [Protein beregner](/tools/protein-beregner)

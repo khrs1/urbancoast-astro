@@ -8,3 +8,9 @@ tags: ["AMQRAP"]
 ---
 
 AMQRAP betyder "As Many Quality Reps As Possible", hvilket er tæt på at være det samme som AMRAP. Forskellen er at her skal du have fokus på at lave gentagelser uden, at miste koncentrationen og fokus fra teknikken.
+
+
+## Relaterede artikler
+
+- [AMRAP](/ordbog/hvad-er-amrap)
+- [Calisthenics begynder guide](/blog/calisthenics-begynder-guide)

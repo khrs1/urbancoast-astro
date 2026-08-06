@@ -28,3 +28,9 @@ Du skal ikke bruge et træningscenter for at komme i gang. En pull-up bar i en d
 Start med de basale øvelser og byg gradvist op. Hvis du ikke kan lave en pull-up endnu, kan du begynde med negativte reps eller bruge en modstandsbånd. Konsistens er vigtigere end sværhedsgrad i starten.
 
 Du kan træne calisthenics med [parallettes](/ordbog/hvad-er-parallettes) for at få mere rækkevidde og variation i dine øvelser.
+
+
+## Relaterede artikler
+
+- [Calisthenics begynder guide](/blog/calisthenics-begynder-guide)
+- [Planche](/ordbog/hvad-er-planche)

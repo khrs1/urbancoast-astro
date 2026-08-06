@@ -20,3 +20,9 @@ AMRAP er et udtryk, der er en stor del af CrossFit verdenen. AMRAP står for "As
 > 10 x KB Swings
 
 Hver gang du har lavet 10 air squats går du videre til burpees osv. 10 af hver øvelse vil være én runde. Dvs. en runde består af 30 gentagelser i alt fordelt på de tre øvelser.
+
+
+## Relaterede artikler
+
+- [AMQRAP](/ordbog/hvad-er-amqrap)
+- [Calisthenics program](/blog/calisthenics-program)

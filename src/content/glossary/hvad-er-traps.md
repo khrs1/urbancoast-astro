@@ -8,3 +8,9 @@ tags: ["TRAPS"]
 ---
 
 Trap, eller traps, er også kendt som trapezius og er den muskel, der går fra nakken af og ned på midten af ryggen og ud til skulderbladet. Musklen er flad, bred og fylder det meste af den øvre ryg. På dansk kaldes musklen også kappemusklen. Da musklen er en stor del af den øvre ryg ynder bodybuildere at have fokus på denne muskel under rygtræning.
+
+
+## Relaterede artikler
+
+- [Dødløft](/blog/doedloeft)
+- [Squats guide](/blog/squats-guide)

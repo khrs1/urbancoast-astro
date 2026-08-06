@@ -23,7 +23,7 @@ Når man styrketræner, er der mange faktorer, der spiller ind, når man er inte
 
 Metabolisk belastende styrketræning foregår oftest med sæt af** 6 til 12 repetitioner** og stimulerer primært muskelvæksten og muskeludholdenheden. På den anden side har vi tung styrketræning, som udføres med høj intensitet og få repetitioner. Den tunge styrketræning foregår med sæt af 1 til 6 repetitioner, og øger den maksimale styrke. Her er det afgørende, at der holdes længere pauser mellem hvert sæt, så musklerne er helt friske til at yde en maksimal indsats under hvert løft.
 
-![hvad er Styrketræning](https://urbancoast.dk/wp-content/uploads/2018/03/Pige-pull-up-988x659px.jpg)
+
 
 
 ## **Varier dine træningøvelser**

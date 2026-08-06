@@ -32,3 +32,8 @@ Back lever belaster skuldre og bryst mere end front lever. Du skal have stærke 
 5. **Brug modstandsbånd:** Et bånd kan hjælpe dig i starten.
 
 Vær forsigtig med skuldrene. Back lever belaster skulderleddet i en unaturlig vinkel, så opbyg langsomt og hold pause ved smerter. Læs også om [planche](/ordbog/hvad-er-planche) og [calisthenics](/ordbog/hvad-er-calisthenics) for relaterede øvelser.
+
+
+## Relaterede artikler
+
+- [Front lever guide](/blog/front-lever-guide)

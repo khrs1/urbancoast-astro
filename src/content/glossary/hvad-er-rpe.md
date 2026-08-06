@@ -28,3 +28,9 @@ Mange moderne programmer angiver intensitet som "RPE 8" i stedet for "80% af 1RM
 ## RPE vs RIR
 
 RIR (Repetitions in Reserve) er en relateret skala, der tæller, hvor mange gentaginger du mener du kunne have klaret mere. RPE 8 svarer til 2 RIR, RPE 9 svarer til 1 RIR, osv. Begge metoder er valide — vælg den, der virker mest intuitiv for dig.
+
+
+## Relaterede artikler
+
+- [1RM beregner](/tools/1rm-beregner)
+- [Failure træning](/ordbog/hvad-er-failure-traening)

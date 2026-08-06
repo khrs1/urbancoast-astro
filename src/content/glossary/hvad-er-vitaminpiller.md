@@ -29,3 +29,9 @@ Vælg en vitaminpille der:
 Spiser du en [sund kostplan](/blog/sund-kostplan) med masser af frugt og grønt, har du sandsynligvis ikke brug for en multivitamin.
 
 [1] Sundhedsstyrelsen (2021). "D-vitamin." VisitDenmark, sundhedsstyrelsen.dk.
+
+
+## Relaterede artikler
+
+- [Kosttilskud guide](/blog/kosttilskud-guide)
+- [Fiskeolie guide](/blog/fiskeolie-guide)

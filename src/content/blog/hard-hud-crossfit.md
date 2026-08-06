@@ -4,7 +4,7 @@ description: "Vil du slippe af med hård hud og vablerne fra træning? Vi afdæk
 pubDate: 2020-12-12
 author: "Karsten Hansen"
 category: "Artikler"
-image: "https://urbancoast.dk/wp-content/uploads/2021/03/crossfit-grips-til-pullups2.jpg"
+image: ""
 ---
 
 # Sådan undgår du hård hud fra CrossFit & vægtløftning
@@ -59,4 +59,4 @@ Her er vores tips til at undgå hård hud på hænderne og fingrene uden du køb
 
 ## Brug grips, der beskytter dine hænder
 
-Du kan med fordel bruge [CrossFit grips,](/blog/crossfit-grips) som beskytter dine hænder med et lag læder, eller andet materiale. Her kan nævnes et mærke som Victory Grips, der er meget populære i CrossFit kredse. CrossFit grips kan bruges, så du undgår friktion opstår mellem stangen og din hud, så der opstår vabler på dine hænder.
+Du kan med fordel bruge [CrossFit grips,](/blog/crossfit-grips-pull-up-grips) som beskytter dine hænder med et lag læder, eller andet materiale. Her kan nævnes et mærke som Victory Grips, der er meget populære i CrossFit kredse. CrossFit grips kan bruges, så du undgår friktion opstår mellem stangen og din hud, så der opstår vabler på dine hænder.

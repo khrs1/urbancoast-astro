@@ -4,7 +4,7 @@ description: "Calisthenics kræver ikke meget udstyr, men det rigtige gør træn
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2026/08/calisthenics-udstyr.jpg"
+image: ""
 ---
 
 # Calisthenics udstyr: Hvad skal du bruge for at komme i gang
@@ -204,7 +204,7 @@ Total: 500-1000 kr. ekstra
 
 Der er meget udstyr du kan købe, men ikke behøver. Her er nogle ting du kan spare penge på:
 
-- **Calisthenics-handsker:** De er ikke nødvendige. Hård hud er en del af sporten. Brug [grips til CrossFit](/blog/crossfit-grips) hvis du har brug for beskyttelse.
+- **Calisthenics-handsker:** De er ikke nødvendige. Hård hud er en del af sporten. Brug [grips til CrossFit](/blog/crossfit-grips-pull-up-grips) hvis du har brug for beskyttelse.
 - Pull-up handsker: Samme historie. Magnesia er bedre.
 - Særlige calisthenics-sko: Du kan træne i bare fødder eller i hvilken som helst sko. Læs vores guide til [løbesko](/blog/din-guide-til-loebesko) hvis du også løber.
 - Crossfit-udstyr: CrossFit og calisthenics er to forskellige ting. Du kan bruge nogle ting fra CrossFit, men du behøver ikke kettebells, bokse osv. for at træne calisthenics.

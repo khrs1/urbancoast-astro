@@ -4,7 +4,7 @@ description: "Hvad er mass gainer, og hvem har brug for det? Læs vores guide ti
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: "https://urbancoast.dk/wp-content/uploads/2019/05/whey100-3x-pouches-shine.jpg"
+image: ""
 tags: ["mass gainer", "vægtøgning", "kosttilskud", "kalorier", "hardgainer"]
 ---
 

@@ -22,3 +22,9 @@ Denne metode involverer at faste i 24 timer enten én eller to gange om ugen. De
 ### 5:2 DIÆTEN
 
 Denne metode er meget kendt og tidligere meget kendt som "5:2 kuren". 5:2 diæten går ud på at kun spise 500-600 kalorier to dage om ugen, der ikke ligger opad hinanden. Det vil sige du spiser som du normalt vil undtagen to dage i ugen. Det kunne f.eks. være almindelig kost Mandag, Onsdag, Torsdag, Fredag, Søndag også kun spiser 500-600 kalorier Tirsdag og Lørdag.
+
+
+## Relaterede artikler
+
+- [Sund kostplan](/blog/sund-kostplan)
+- [10 punkter til hurtigt vægttab](/blog/10-punkter-til-et-hurtigt-vaegttab)

@@ -49,3 +49,9 @@ Dehydrering er et tab af kropsvæske, der opstår når du mister mere væske end
 ## Brug af kalk og dehydrering
 
 Kalk (magnesium) tørrer hænderne ud og kan i store mængder bidrage til mild dehydrering. Skyl hænder og drik ekstra vand ved brug af kalk.
+
+
+## Relaterede artikler
+
+- [Vand beregner](/tools/vand-beregner)
+- [Elektrolytter guide](/blog/elektrolytter-guide)

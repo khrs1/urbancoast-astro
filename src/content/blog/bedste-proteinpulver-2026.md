@@ -4,7 +4,7 @@ description: "Se hvilket proteinpulver der er bedst i 2026. Vi sammenligner whey
 pubDate: 2026-08-04
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: "https://urbancoast.dk/wp-content/uploads/2019/05/whey100-3x-pouches-shine.jpg"
+image: ""
 tags: ["proteinpulver", "test", "bedste i test", "whey", "kasein", "vegansk"]
 ---
 

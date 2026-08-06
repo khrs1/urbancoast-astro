@@ -8,3 +8,9 @@ tags: ["GLUTES"]
 ---
 
 Hvad er glutes? Glutes er bagpartiet, eller numsen om man vil. Gluteus maximus er den latinske betegnelse og på dansk kalder vi det den store sædemuskel. Gluteus maximus er det man vil kalde for den store ballemuskel, hvor Gluteus medius, er den anden største der ligger opad gluteus maximus.
+
+
+## Relaterede artikler
+
+- [Squats guide](/blog/squats-guide)
+- [Lunges guide](/blog/lunges-guide)

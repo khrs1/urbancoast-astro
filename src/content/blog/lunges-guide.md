@@ -4,7 +4,7 @@ description: "Lunges er en effektiv styrketræningsøvelse, som både aktiverer 
 pubDate: 2018-03-27
 author: "Jakob Thestrup"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2018/03/løb-guide-til-skader2.jpg"
+image: ""
 ---
 
 
@@ -19,7 +19,7 @@ Lunges er en udbredt indenfor styrketræning og kan udføres ved flere forskelli
 
 Selvom denne øvelse er en af de mest effektive underkropsøvelser, så undgår mange mennesker øvelsen, da de er bange for skader i knæet. Med mindre man i forvejen lider af knæskader/knæproblemer, så er dette dog en fejlfortolkning, da lunges rent faktisk kan være med til at styrke dit knæ, nærmere end at skade det. For at undgå overbelastning af vores knæ, er det dog vigtigt, at lunges udføres korrekt, og nedenfor kan du se, hvordan det skal gøres.
 
-![lunges hvordan](https://urbancoast.dk/wp-content/uploads/2018/03/squatter-isquatrack.jpg)
+
 
 
 ## **Hvordan laver man lunges? **

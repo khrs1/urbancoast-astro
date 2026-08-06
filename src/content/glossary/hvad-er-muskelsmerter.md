@@ -34,3 +34,8 @@ Hvis du har været væk fra træningen et stykke tid eller har prøvet nye øvel
 Læs mere om [restitution](/ordbog/hvad-er-restitution) og hvordan du undgår [overtraining](/ordbog/hvad-er-overtraining).
 
 [1] Cheung, K., et al. (2003). "Delayed onset muscle soreness." *Sports Medicine*, 33(2), 145-164.
+
+
+## Relaterede artikler
+
+- [DOMS](/ordbog/hvad-er-doms)

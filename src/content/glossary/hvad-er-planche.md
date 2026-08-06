@@ -28,3 +28,9 @@ Du skal balancere din kropsvægt på hænderne, mens tyngdepunktet hviler over d
 Du kan træne planche på [parallettes](/ordbog/hvad-er-parallettes) for at få et bedre greb og spare håndleddene. Start med frog stand og byg langsomt op. Det tager ofte måneder eller år at nå en full planche.
 
 Vær tålmodig. Planche er en af de øvelser, der belønner konsistens. Læs også om [front lever](/ordbog/hvad-er-front-lever) for en lignende statisk øvelse.
+
+
+## Relaterede artikler
+
+- [Planche guide](/blog/planche-guide)
+- [Calisthenics](/ordbog/hvad-er-calisthenics)

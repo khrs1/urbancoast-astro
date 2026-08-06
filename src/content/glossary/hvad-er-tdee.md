@@ -32,3 +32,9 @@ TDEE = 1800 × 1,55 = **2790 kcal**
 - **Muskelopbygning:** TDEE + 300-500 kcal
 
 Læs mere i vores [sund kostplan](/blog/sund-kostplan) for eksempel på hvordan du lægger en kostplan ud fra dit TDEE.
+
+
+## Relaterede artikler
+
+- [Kalorieberegner](/tools/kalorieberegner)
+- [Ligevægtsindtag](/ordbog/hvad-er-ligevaegtsindtag)

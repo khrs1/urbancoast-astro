@@ -28,3 +28,9 @@ Restitution er den proces, hvormed kroppen genopbygger muskler, bindevæv og ner
 - Maksimal belastning (1RM forsøg): op til 5 dage
 
 Lyt til din krop. Hvis du oplever [DOMS](/ordbog/hvad-er-doms) (forsinkede muskelsmerter), er det et tegn på, at musklen stadig restituerer.
+
+
+## Relaterede artikler
+
+- [Overtraining](/ordbog/hvad-er-overtraining)
+- [Søvn restitution](/ordbog/hvad-er-soevn-restitution)

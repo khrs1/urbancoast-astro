@@ -4,7 +4,7 @@ description: "Handstand er en af de bedste calisthenics-øvelser. Her får du en
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2026/08/handstand-guide.jpg"
+image: ""
 ---
 
 # Handstand Guide: Lær at Stå på Hænder

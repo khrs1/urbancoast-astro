@@ -8,3 +8,10 @@ tags: ["CARBS"]
 ---
 
 Hvad er carbs? Carbs er det samme som Carbohydrates, der hedder kulhydrater på dansk. Kulhydrater er et af de tre makronæringsstoffer dvs. fedt, protein og kulhydrat.
+
+
+## Relaterede artikler
+
+- [Makronæringsstoffer](/ordbog/hvad-er-makronaeringsstoffer)
+- [Kalorier i mad](/blog/kalorier-i-mad)
+- [Komplekse kulhydrater](/ordbog/hvad-er-komplekse-kulhydrater)

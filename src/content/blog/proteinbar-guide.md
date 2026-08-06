@@ -4,7 +4,7 @@ description: "Se hvilke proteinbarer der er bedst i 2026. Vi sammenligner protei
 pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Kosttilskudguides"
-image: "https://urbancoast.dk/wp-content/uploads/2019/05/whey100-3x-pouches-shine.jpg"
+image: ""
 tags: ["proteinbar", "test", "bedste i test", "protein", "snack"]
 ---
 

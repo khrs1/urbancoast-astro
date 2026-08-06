@@ -8,3 +8,9 @@ tags: ["KB og KETTLEBELLS"]
 ---
 
 I nogle træningsprogrammer vil du støde på KB som forkortelse for kettlebells. Kettlebells er en rund vægt med hank, der ofte bruges i CrossFit. En eksempel på en øvelse kunne være "30 KB Swings" Dvs. øvelsen er 30 gentagelser af kettlebell swings.
+
+
+## Relaterede artikler
+
+- [Dumbbell](/ordbog/hvad-er-en-dumbell)
+- [Hvad er styrketræning](/blog/hvad-er-styrketraening)

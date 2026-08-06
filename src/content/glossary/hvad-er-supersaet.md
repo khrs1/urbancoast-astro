@@ -26,3 +26,9 @@ Et supersæt er to øvelser udført umiddelbart efter hinanden uden pause. Når 
 ## Hvornår skal du undgå supersæt?
 
 Supersæt er ikke ideelt til tunge [sæt](/ordbog/hvad-er-saet-eller-sets) med lav [RPE](/ordbog/hvad-er-rpe) under 7, da pauserne mellem sættene er for korte til at restituere det centrale nervesystem. Brug supersæt primært til hypertrofi-træning med moderate vægte.
+
+
+## Relaterede artikler
+
+- [Dropset](/ordbog/hvad-er-dropset)
+- [Hvad er styrketræning](/blog/hvad-er-styrketraening)

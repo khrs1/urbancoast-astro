@@ -32,3 +32,9 @@ Du skal trække kroppen op i en vandret position og holde den stille. Det kræve
 5. **Brug modstandsbånd:** Et bånd kan hjælpe dig i den sidste del af bevægelsen.
 
 Læs også om den beslægtede [back lever](/ordbog/hvad-er-back-lever) og vores guide til [calisthenics](/ordbog/hvad-er-calisthenics) for flere øvelser.
+
+
+## Relaterede artikler
+
+- [Front lever guide](/blog/front-lever-guide)
+- [Planche](/ordbog/hvad-er-planche)

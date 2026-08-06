@@ -13,7 +13,7 @@ image: "https://images.unsplash.com/photo-1534368786749-b63e05c90863?w=800&auto=
 
 Bænkpres er en yndet favorit i de danske træningscentre, og er lidt en målestok for mange mænd om, hvor stærk man er. Hvor mange gange har du ikke hørt sætningen ”Hvad bænker du?”, når du snakker med nogle fyre om træning.
 
-![](https://urbancoast.dk/wp-content/uploads/2018/10/9b7z1i-300x300.jpg)
+
 
 Bænkpres en rigtig god øvelse til at øge din styrke i overkroppen. Du rammer i høj grad dit bryst, den forreste del af dine skuldre og den bagerste muskulatur af din arm, kaldet triceps. Der er dog forskelle på, hvad du vil have ud af bænkpres som øvelse. Alt efter hvad dit mål er med træningen, så kan bænkpres variere ift. udførelse – både mht. teknik, men også variabler som antal sæt, kilo og repetitioner. Bodybuildere bænkpresser typisk med øget muskelmasse som formål, som bl.a. kommer til udtryk ved, at udførslen ikke nødvendigvis er med henblik på at kunne løfte så tungt som muligt. Denne artikel vil dog have fokus på et mere styrkeløfts-lignende bænkpres med korrekt teknik, som helt sikkert vil hjælpe dig med at øge maksimal styrke og opbygge muskelmasse.
 
@@ -99,7 +99,7 @@ Mange vælger at bænke med en åben hånd, da de føler de bedre kan skubbe sta
 
 Overstående er fra hjemmesiden Stronglifts.com, og viser korrekte bænkpres greb, f.eks. bulldog greb.
 
-![bænkpres bulldog greb](https://urbancoast.dk/wp-content/uploads/2018/10/b%C3%A6nkpres-bulldog-greb.jpg)![korrekt bænkpres greb](https://urbancoast.dk/wp-content/uploads/2018/10/korrekt-greb-ved-b%C3%A6nkpres.jpg)![low grip bænkpres](https://urbancoast.dk/wp-content/uploads/2018/10/b%C3%A6nkpres-lavt-greb.jpg)
+
 
 # 2 TRIN: Løftet
 

@@ -21,7 +21,7 @@ Akutte skader: Vridning af foden, hvor sener bliver belastet, brud på ben, hån
 - Overbelastningsskader: De to hyppigste overbelastningsskader findes i knæ (forreste knæsmerte) eller smerter, der er svær at definere, hvor de stammer fra.
 - Symptomerne er ofte smerter i varierende grad og mange har smerter andre steder, end der skaden rent faktisk stammer. Hvis man har overbelastningsskader kan det være et væld af ting og smerterne kan virke som om de kommer fra et sted – men stamme et helt andet sted fra.
 
-![løb-guide-til-skader2](https://urbancoast.dk/wp-content/uploads/2018/02/l%C3%B8b-guide-til-skader2.jpg)
+
 
 Dette kan være fordi man har en nerve, der sidder i klemme, eller noget helt andet. Disse smerter føles ofte først ved hugsiddende stilling, hop, løb, trappegang og benbøjninger. Andre hyppige overbelastningsskader er betændelsestilstande i sener og led, som f.eks. skedehinde betændelse i fodleddet eller skinnebensbetændelse.
 

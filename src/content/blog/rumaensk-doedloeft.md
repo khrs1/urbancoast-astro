@@ -4,7 +4,7 @@ description: "Rumænsk dødløft | Komplet guide med video | Sådan undgår du s
 pubDate: 2018-03-26
 author: "Jakob Thestrup"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2018/03/rum%C3%A6nsk-d%C3%B8dl%C3%B8ft-crossfit.jpg"
+image: ""
 ---
 
 ## Hvad er konventionelt dødløft?
@@ -17,7 +17,7 @@ Den traditionelle form for dødløft kaldes konventionel dødløft, og er den me
 
 ## Hvad er rumænsk dødløft?
 
-![rumænsk dødløft crossfit](https://urbancoast.dk/wp-content/uploads/2018/03/rum%C3%A6nsk-d%C3%B8dl%C3%B8ft-crossfit.jpg)
+
 
 Hvis du har gået og udført det samme dødløft igennem flere år og efterhånden trænger til at variere, så bør du prøve rumænsk dødløft. Navnet stammer fra en gammel rumænsk vægtløfter kaldet "Nicu Vlad", som bl.a. vandt guld ved OL i 1984.
 

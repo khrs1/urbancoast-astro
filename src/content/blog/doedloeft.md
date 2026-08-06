@@ -4,7 +4,7 @@ description: "Dødløft Guide | Dødløft teknik & gode råd til Konventionel D�
 pubDate: 2018-03-29
 author: "Jakob Thestrup"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2018/03/powerlifter-pige-d%C3%B8dl%C3%B8fter.jpg"
+image: ""
 ---
 
 ## Hvad er dødløft?
@@ -41,7 +41,7 @@ Dødløft er en effektiv øvelse for det meste af kroppen, og der er derfor ogs�
 
 Der findes flere forskellige varianter af dødløft, og en af de populære er "Sumo dødløftet". De to varianter minder om hinanden på mange måder, men udgangspunktet er anderledes. Ved sumo dødløft er dine ben spredt mere, mens fødderne vender lidt udad. Derfor har man her armene indenfor benene fremfor at have dem udenfor benene som i konventionelt dødløft. Ved sumo dødløft trænes ryggen ikke i helt lige så stor grad, men vi sætter derimod et større pres på inderlårene og bagdelen. Udover Sumo dødløft findes der andre varianter, som f.eks. rumænsk dødløft. Du kan finde en guide og læse meget mere om rumænske dødløft i vores artikel: [Guide til rumænsk dødløft](/blog/rumaensk-doedloeft).
 
-![hvad-er-dødløft-powerlifter-pige-dødløfter](https://urbancoast.dk/wp-content/uploads/2018/03/powerlifter-pige-d%C3%B8dl%C3%B6fter.jpg)
+
 
 ## Skal jeg dødløfte?
 

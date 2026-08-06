@@ -4,7 +4,7 @@ description: "CrossFit grips og pull-up grips beskytter dine hænder mod vabler 
 pubDate: 2021-04-18
 author: "Karsten Hansen"
 category: "Træningsguides"
-image: "https://urbancoast.dk/wp-content/uploads/2021/03/crossfit-grips-til-pullups2.jpg"
+image: ""
 ---
 
 CrossFit grips og pull-up grips er det mest effektive middel mod vabler og hård hud fra træning. Hvis du træner meget pull-ups, toes-to-bar eller muscle-ups, kender du problemet. Huden slider, vabler opstår, og du må springe træning over mens hænderne hele.
@@ -49,7 +49,7 @@ Victory Grips bruges af topatleter i hele verden. Det er netop derfor mærket er
 - Dyrere end JAW Pull-up Grips
 - Kan tage tid at vænne sig til
 
-[![Victory Grips CrossFit grips](https://urbancoast.dk/wp-content/uploads/2021/05/victory-grips-crossfit-grips.jpg)](https://urbancoast.dk/go/?id=victory-grips-3-finger)
+[](https://urbancoast.dk/go/?id=victory-grips-3-finger)
 
 [Køb Victory Grips 3 Finger hos forhandler](https://urbancoast.dk/go/?id=victory-grips-3-finger)
 
@@ -68,7 +68,7 @@ JAW Pull-up Grips er et godt valg hvis du er nybegynder eller ikke vil bruge for
 - Ikke samme premium-kvalitet som Victory Grips
 - Mindre kendt brand
 
-[![JAW Pull-up Grips](https://urbancoast.dk/wp-content/uploads/2021/05/1098-15r_jaw_-pullup-grips-leather_black_1.jpg)](https://urbancoast.dk/go/?id=jaw-pullup-grips)
+[](https://urbancoast.dk/go/?id=jaw-pullup-grips)
 
 [Køb JAW Pull-up Grips hos forhandler](https://urbancoast.dk/go/?id=jaw-pullup-grips)
 

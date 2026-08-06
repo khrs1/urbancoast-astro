@@ -23,7 +23,7 @@ Læs også vores guide til at [undgå hård hud på hænderne](/blog/saadan-undg
 
 Dette er den mest almindelige type. Den dækker håndfladen og har åbne fingerspidser. Du får stadig et godt greb men huden er beskyttet.
 
-Bedst til: [dødløft](/blog/doedloeft), [bænkpres](/blog/baenkpres), maskiner og generel styrketræning.
+Bedst til: [dødløft](/blog/doedloeft), [bænkpres](/blog/baenkpres-teknik), maskiner og generel styrketræning.
 
 ### 2. Full finger handske
 

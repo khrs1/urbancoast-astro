@@ -31,3 +31,9 @@ Parallettes løfter dine hænder fra jorden, hvilket giver dig mere rækkevidde 
 - **Stabilitet:** Barerne skal være stabile og ikke vippe under brug.
 
 Parallettes er et godt sted at starte, hvis du vil ind i [calisthenics](/ordbog/hvad-er-calisthenics). De åbner op for mange øvelser og gør det nemmere at bygge en stærk overkrop hjemme eller udendørs.
+
+
+## Relaterede artikler
+
+- [Calisthenics udstyr](/blog/calisthenics-udstyr)
+- [Dips guide](/blog/dips-guide)

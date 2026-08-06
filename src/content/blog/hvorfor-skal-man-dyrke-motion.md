@@ -4,7 +4,7 @@ description: "Hvorfor skal man dyrke motion? Fordi motion er godt for dit helbre
 pubDate: 2018-03-29
 author: "Jakob Thestrup"
 category: "Artikler"
-image: "https://urbancoast.dk/wp-content/uploads/2018/03/styrketr%C3%A6ning-og-livsstilssygdomme-988x599px.jpg"
+image: ""
 ---
 
 Hvorfor skal man dyrke motion? Der er ingen tvivl om, at en aktiv livsstil er godt for det generelle helbred, og flere studier har endda bevist, at fysisk aktivitet er med til at forlænge livet. Et stort studie fra 2012 med mere end 650.000 deltagere viste, at folk, der er fysisk aktive og normalvægtige lever op mod 7,2 år længere end folk, der er inaktive og overvægtige (Moore SC, et al. 2012).
@@ -39,7 +39,7 @@ Nogle tænker måske "Hvorfor skal man dyrke motion?". Fysisk inaktivitet er for
 
 Nedenunder kan du læse beskrivelser af nogle af de punkter, hvor et aktivt liv har en positiv effekt.
 
-![hvorfor skal man dyrke motion](https://urbancoast.dk/wp-content/uploads/2018/03/styrketr%C3%A6ning-og-livsstilssygdomme-988x599px.jpg)
+
 
 ### Styrk dit hjerte
 
