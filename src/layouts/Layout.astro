@@ -1,5 +1,15 @@
 ---
 import SEO from '../components/SEO.astro';
+import { getCollection } from 'astro:content';
+
+// Build search data for header search
+const allBlog = await getCollection('blog');
+const allGlossary = await getCollection('glossary');
+const headerSearchData = JSON.stringify([
+  ...allBlog.map(p => ({ title: p.data.title, url: `/blog/${p.slug}` })),
+  ...allGlossary.map(e => ({ title: e.data.title, url: `/ordbog/${e.slug}` })),
+]);
+
 interface Props {
   title: string;
   description?: string;
@@ -134,6 +144,16 @@ nav a:hover{color:#fff}
 .social-links{display:flex;gap:1rem}
 .social-links a{color:rgba(255,255,255,.5);text-decoration:none;font-size:.9rem}
 .social-links a:hover{color:#fff}
+.header-search{position:relative;display:inline-block;margin-left:1rem}
+.header-search input{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.1);color:#fff;border-radius:20px;padding:.5rem 1rem;font-size:.85rem;width:160px;outline:none;transition:width .2s,background .15s}
+.header-search input::placeholder{color:rgba(255,255,255,.4)}
+.header-search input:focus{width:220px;background:rgba(255,255,255,.12)}
+.header-search-btn{position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:none;color:rgba(255,255,255,.5);cursor:pointer;padding:0;display:flex;align-items:center}
+.header-search-btn:hover{color:#fff}
+.header-search-results{display:none;position:absolute;top:100%;right:0;left:0;background:#fff;border:1px solid #e2e8f0;border-radius:12px;margin-top:.5rem;box-shadow:0 8px 24px rgba(0,0,0,.15);z-index:200;overflow:hidden;max-height:400px;overflow-y:auto}
+.header-search-results a{display:block;padding:.65rem 1rem;color:#0f172a;text-decoration:none;border-bottom:1px solid #f1f5f9;font-size:.85rem}
+.header-search-results a:hover{background:#f8fafc;color:#22c55e}
+@media (max-width:768px){.header-search{display:none}}
 </style>
 </head>
 <body>
@@ -149,6 +169,11 @@ nav a:hover{color:#fff}
 <a href="/kategori/Træningsguides">Træning</a>
 <a href="/kategori/Kosttilskudguides">Kosttilskud</a>
 </nav>
+<div class="header-search">
+<input type="text" id="header-search-input" placeholder="Søg..." autocomplete="off" aria-label="Søg" />
+<button class="header-search-btn" id="header-search-btn" aria-label="Søg"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></button>
+<div id="header-search-results" class="header-search-results"></div>
+</div>
 <button class="nav-toggle" onclick="document.getElementById('mm').classList.toggle('open')" aria-label="Åbn menu" aria-expanded="false">
 <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
 </button>
@@ -215,5 +240,48 @@ nav a:hover{color:#fff}
 </div>
 </div>
 </footer>
+<script is:inline define:vars={{ headerSearchData }}>
+(function() {
+  var pages = JSON.parse(headerSearchData);
+  var input = document.getElementById('header-search-input');
+  var results = document.getElementById('header-search-results');
+  var btn = document.getElementById('header-search-btn');
+  if (!input || !results) return;
+
+  function doSearch() {
+    var q = input.value.toLowerCase().trim();
+    if (q.length < 2) { results.style.display = 'none'; results.innerHTML = ''; return; }
+    var matches = pages.filter(function(p) { return p.title.toLowerCase().indexOf(q) !== -1; }).slice(0, 8);
+    if (matches.length === 0) {
+      results.innerHTML = '<a href="javascript:void(0)" style="color:#94a3b8;cursor:default">Ingen resultater</a>';
+    } else {
+      results.innerHTML = matches.map(function(m) { return '<a href="' + m.url + '">' + m.title + '</a>'; }).join('');
+    }
+    results.style.display = 'block';
+    return matches;
+  }
+
+  input.addEventListener('input', doSearch);
+  input.addEventListener('focus', doSearch);
+
+  btn.addEventListener('click', function(e) {
+    e.preventDefault();
+    var matches = doSearch();
+    if (matches && matches.length > 0) window.location.href = matches[0].url;
+  });
+
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      var matches = doSearch();
+      if (matches && matches.length > 0) window.location.href = matches[0].url;
+    }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.header-search')) results.style.display = 'none';
+  });
+})();
+</script>
 </body>
 </html>
