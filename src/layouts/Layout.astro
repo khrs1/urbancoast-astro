@@ -41,7 +41,7 @@ const { title, description = "Vejledning, Tests & Guides til træning & kost", i
 <link rel="stylesheet" href="/fonts/inter.css" media="print" onload="this.media='all'" />
 <style is:global>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{--bg:#fff;--surface:#f8fafc;--border:#e2e8f0;--text:#0f172a;--muted:#64748b;--accent:#22c55e;--accent-dk:#16a34a;--dark:#0a0f1e;--dark2:#111827;--r:12px}
+:root{--bg:#fff;--surface:#f8fafc;--border:#e2e8f0;--text:#0f172a;--muted:#64748b;--accent:#15803d;--accent-dk:#166534;--dark:#0a0f1e;--dark2:#111827;--r:12px}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 body{font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;-webkit-font-smoothing:antialiased}
 img{max-width:100%;height:auto;display:block}
@@ -153,7 +153,7 @@ nav a:hover{color:#fff}
 .header-search input{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.1);color:#fff;border-radius:20px;padding:.5rem 2rem .5rem 1rem;font-size:.85rem;width:160px;outline:none;transition:width .2s,background .15s;box-sizing:border-box}
 .header-search input::placeholder{color:rgba(255,255,255,.4)}
 .header-search input:focus{width:220px;background:rgba(255,255,255,.12)}
-.header-search-btn{position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:none;color:rgba(255,255,255,.5);cursor:pointer;padding:0;display:flex;align-items:center}
+.header-search-btn{position:absolute;right:2px;top:50%;transform:translateY(-50%);background:none;border:none;color:rgba(255,255,255,.5);cursor:pointer;padding:8px;display:flex;align-items:center;min-width:36px;min-height:36px;justify-content:center}
 .header-search-btn:hover{color:#fff}
 .header-search-results{display:none;position:absolute;top:100%;right:0;left:0;background:#fff;border:1px solid #e2e8f0;border-radius:12px;margin-top:.5rem;box-shadow:0 8px 24px rgba(0,0,0,.15);z-index:200;overflow:hidden;max-height:400px;overflow-y:auto}
 .header-search-results a{display:block;padding:.65rem 1rem;color:#0f172a;text-decoration:none;border-bottom:1px solid #f1f5f9;font-size:.85rem}
