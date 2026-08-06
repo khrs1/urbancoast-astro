@@ -100,15 +100,19 @@ function search() {
 searchInput.addEventListener('input', search);
 searchInput.addEventListener('focus', search);
 
-document.getElementById('search-btn').addEventListener('click', function() {
-  if (searchResults.style.display === 'block') {
-    var firstResult = searchResults.querySelector('a');
-    if (firstResult) window.location.href = firstResult.href;
+document.getElementById('search-btn').addEventListener('click', function(e) {
+  e.preventDefault();
+  search();
+  var firstResult = searchResults.querySelector('a');
+  if (firstResult) {
+    window.location.href = firstResult.href;
   }
 });
 
 searchInput.addEventListener('keydown', function(e) {
   if (e.key === 'Enter') {
+    e.preventDefault();
+    search();
     var firstResult = searchResults.querySelector('a');
     if (firstResult) window.location.href = firstResult.href;
   }
