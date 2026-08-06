@@ -1,5 +1,5 @@
 ---
-title: Stor guide til Bænkpres teknik test
+title: Stor guide til Bænkpres teknik
 description: Bliv den bedste til bænkpres. Bænkpres er en yndet favorit i
   fitnesscentret og en af the big 3. Lær den korrekte teknik her.
 pubDate: 2018-12-10
@@ -8,14 +8,9 @@ category: Træningsguides
 image: https://images.unsplash.com/photo-1534368786749-b63e05c90863?w=800&auto=format&fit=crop
 updatedDate: 2026-08-06
 ---
-
-## Stor guide til Bænkpres teknik
-
 ## Bliv den bedste til bænkpres
 
-Bænkpres er en yndet favorit i de danske træningscentre, og er lidt en målestok for mange mænd om, hvor stærk man er. Hvor mange gange har du ikke hørt sætningen ”Hvad bænker du?”, når du snakker med nogle fyre om træning.
-
-
+TEST Bænkpres er en yndet favorit i de danske træningscentre, og er lidt en målestok for mange mænd om, hvor stærk man er. Hvor mange gange har du ikke hørt sætningen ”Hvad bænker du?”, når du snakker med nogle fyre om træning.
 
 Bænkpres en rigtig god øvelse til at øge din styrke i overkroppen. Du rammer i høj grad dit bryst, den forreste del af dine skuldre og den bagerste muskulatur af din arm, kaldet triceps. Der er dog forskelle på, hvad du vil have ud af bænkpres som øvelse. Alt efter hvad dit mål er med træningen, så kan bænkpres variere ift. udførelse – både mht. teknik, men også variabler som antal sæt, kilo og repetitioner. Bodybuildere bænkpresser typisk med øget muskelmasse som formål, som bl.a. kommer til udtryk ved, at udførslen ikke nødvendigvis er med henblik på at kunne løfte så tungt som muligt. Denne artikel vil dog have fokus på et mere styrkeløfts-lignende bænkpres med korrekt teknik, som helt sikkert vil hjælpe dig med at øge maksimal styrke og opbygge muskelmasse.
 
@@ -23,11 +18,11 @@ Bænkpres en rigtig god øvelse til at øge din styrke i overkroppen. Du rammer 
 
 Mark Rippetoe giver i videoen herunder en introduktion til bænkpres. Mark Rippetoe er tidligere vægtløfter, powerlifter og ophavsmanden til Starting Strength træningsprogrammet, som bestemt kan anbefales, hvis du er ny i styrketræning og mangler et sted at starte. I videoen herunder forklarer Mark Rippetoe hvordan man skal placere sig på bænken og har en række gode trick og råd.
 
-How to Bench Press With Mark Rippetoe \| Art of Manliness - YouTube
+How to Bench Press With Mark Rippetoe | Art of Manliness - YouTube
 
 Tap to unmute
 
-[How to Bench Press With Mark Rippetoe \| Art of Manliness](https://www.youtube.com/watch?v=4T9UQ4FBVXI) [Art of Manliness](https://www.youtube.com/channel/UCkRMqL3hLrIYhxNCac4vR3w)
+[How to Bench Press With Mark Rippetoe | Art of Manliness](https://www.youtube.com/watch?v=4T9UQ4FBVXI) [Art of Manliness](https://www.youtube.com/channel/UCkRMqL3hLrIYhxNCac4vR3w)
 
 Art of Manliness1.39M subscribers
 
@@ -101,8 +96,6 @@ Mange vælger at bænke med en åben hånd, da de føler de bedre kan skubbe sta
 
 Overstående er fra hjemmesiden Stronglifts.com, og viser korrekte bænkpres greb, f.eks. bulldog greb.
 
-
-
 # 2 TRIN: Løftet
 
 Nu skal alt det overstående gå op i en højere enhed: Nemlig løftet!
@@ -125,22 +118,22 @@ Alan Thrall forklarer i videoen herunder, hvordan du skal forestille dig, at du 
 
 #### En Gentagelse er:
 
-- Startposition med stangen i strakte arme
-- Stangen sænkes til brystet
-- Stangen presses fra brystet tilbage til startposition
+* Startposition med stangen i strakte arme
+* Stangen sænkes til brystet
+* Stangen presses fra brystet tilbage til startposition
 
 # Ti hurtigere til en god bænkpresteknik:
 
-- Klem skulderbladene sammen og hold ryggen stram under hele øvelsen
-- Hold lidt bredere end skulderbredde, og pak altid tommelfingeren RUNDT om stangen for at låse dit greb
-- Hold albuerne låst i øverste del af løftet, så du er sikret, at du har balancen med vægtstangen
-- Husk dine arme skal, set ovenfra, danne en ca. 45-75 graders vinkel fra din overkrop i den nederste del af løftet. 90 grader er forbudt!
-- Din underarm og vægtstangen skal danne en ret vinkel, når vægtstangen rører dit bryst.
-- De tre kontaktpunkter med bænken og jorden: Øverste ryg, bagdel og fødder.
-- Husk at trække stangen fra vægtstativet og at, du ikke skal strække dig for at nå stangen og miste opspændet.
-- Sænk vægtstangen til det sted på brystkassen, hvor din brystmuskulatur starter. Ram dette sted i hver eneste gentagelse.
-- Husk at bruge hele kroppen under løftet, dvs. hold skuldrene klemt stramt sammen, skab en bue i ryggen og spænd benene mod gulvet for at yde maksimalt. Skub din ryg i bænken samtidig med, at du skubber vægtstangen væk fra dig selv.
-- Safety first! Hvis du bevæger dig udenfor din comfort zone, og prøver med mere vægt end du plejer, så få hjælp af en spotter.
+* Klem skulderbladene sammen og hold ryggen stram under hele øvelsen
+* Hold lidt bredere end skulderbredde, og pak altid tommelfingeren RUNDT om stangen for at låse dit greb
+* Hold albuerne låst i øverste del af løftet, så du er sikret, at du har balancen med vægtstangen
+* Husk dine arme skal, set ovenfra, danne en ca. 45-75 graders vinkel fra din overkrop i den nederste del af løftet. 90 grader er forbudt!
+* Din underarm og vægtstangen skal danne en ret vinkel, når vægtstangen rører dit bryst.
+* De tre kontaktpunkter med bænken og jorden: Øverste ryg, bagdel og fødder.
+* Husk at trække stangen fra vægtstativet og at, du ikke skal strække dig for at nå stangen og miste opspændet.
+* Sænk vægtstangen til det sted på brystkassen, hvor din brystmuskulatur starter. Ram dette sted i hver eneste gentagelse.
+* Husk at bruge hele kroppen under løftet, dvs. hold skuldrene klemt stramt sammen, skab en bue i ryggen og spænd benene mod gulvet for at yde maksimalt. Skub din ryg i bænken samtidig med, at du skubber vægtstangen væk fra dig selv.
+* Safety first! Hvis du bevæger dig udenfor din comfort zone, og prøver med mere vægt end du plejer, så få hjælp af en spotter.
 
 ## Bonus info til nybegynderen
 
