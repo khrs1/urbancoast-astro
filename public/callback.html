@@ -3,11 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="robots" content="noindex, nofollow">
-  <title>Redirecting...</title>
-  <link rel="canonical" href="/admin/index.html">
-  <script>location.replace("/admin/index.html"+location.hash)</script>
+  <title>Authorizing...</title>
+  <!-- Preserve the access_token from the URL hash, then load Decap so its
+       completeAuth() can read the token. Do NOT redirect (would drop the hash). -->
+  <script>document.location.replace("/admin/index.html"+location.hash)</script>
 </head>
-<body>
-  <h1>Redirecting...</h1>
-</body>
+<body></body>
 </html>
