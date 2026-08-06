@@ -12,17 +12,17 @@ const searchData = JSON.stringify([
 ]);
 ---
 
-<Layout title="Siden blev ikke fundet" description="Siden du leder efter findes ikke. Brug sogefunktionen eller linksene til at finde det du soger.">
+<Layout title="Siden blev ikke fundet" description="Siden du leder efter findes ikke. Brug søgefunktionen eller linksene til at finde det du søger.">
   <div class="error-hero">
     <div class="container">
-      <img src="/img/404-illustration.svg" alt="" class="error-illustration" />
       <h1>Hovsa!</h1>
-      <p class="error-subtitle">Vi kan desvaerre ikke finde siden du soger</p>
+      <p class="error-subtitle">Vi kan desværre ikke finde siden du søger</p>
       <p class="error-code">Error 404</p>
+      <img src="/img/404-illustration.svg" alt="" class="error-illustration" />
       
       <div class="search-box">
-        <input type="text" id="search-input" placeholder="Sog efter det du leder efter..." autocomplete="off" />
-        <button id="search-btn" aria-label="Sog">Sog</button>
+        <input type="text" id="search-input" placeholder="Søg efter det du leder efter..." autocomplete="off" />
+        <button id="search-btn" aria-label="Søg">Søg</button>
         <div id="search-results" class="search-results"></div>
       </div>
     </div>
