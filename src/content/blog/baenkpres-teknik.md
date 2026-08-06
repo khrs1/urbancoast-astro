@@ -1,11 +1,12 @@
 ---
-title: "Stor guide til Bænkpres teknik"
-description: "Bliv den bedste til bænkpres. Bænkpres er en yndet favorit i fitnesscentret og en af the big 3. Lær den korrekte teknik her."
+title: Stor guide til Bænkpres teknik test
+description: Bliv den bedste til bænkpres. Bænkpres er en yndet favorit i
+  fitnesscentret og en af the big 3. Lær den korrekte teknik her.
 pubDate: 2018-12-10
-author: "Karsten Hansen"
-category: "Træningsguides"
-image: "https://images.unsplash.com/photo-1534368786749-b63e05c90863?w=800&auto=format&fit=crop"
-updatedDate: "2026-08-06"
+author: Karsten Hansen
+category: Træningsguides
+image: https://images.unsplash.com/photo-1534368786749-b63e05c90863?w=800&auto=format&fit=crop
+updatedDate: 2026-08-06
 ---
 
 ## Stor guide til Bænkpres teknik
