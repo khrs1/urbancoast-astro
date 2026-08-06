@@ -72,7 +72,7 @@ const searchData = JSON.stringify([
   </section>
 </Layout>
 
-<script is:inline define:vars={{ searchData }}>
+<script is:inline defer define:vars={{ searchData }}>
 var pages = JSON.parse(searchData);
 
 var searchInput = document.getElementById('search-input');
