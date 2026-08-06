@@ -11,7 +11,7 @@ Magnesium er et mineral din krop har brug for til over 300 forskellige kemiske p
 
 ## Hvorfor er magnesium vigtigt for træning?
 
-Når du [styrketræner](/blog/hvad-er-styrketræning), bruger du magnesium til:
+Når du [styrketræner](/blog/hvad-er-styrketraening), bruger du magnesium til:
 - At afslappe musklerne efter sammentrækning
 - At producere energi (ATP)
 - At opretholde et stabilt nervesystem

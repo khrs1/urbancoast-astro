@@ -29,7 +29,7 @@ Komplekse kulhydrater er kulhydrater med lang kæde-struktur, der nedbrydes lang
 
 ## Betydning for styrketræning
 
-Komplekse kulhydrater er essentielle for [styrketræning](/blog/hvad-er-styrketræning), fordi:
+Komplekse kulhydrater er essentielle for [styrketræning](/blog/hvad-er-styrketraening), fordi:
 
 1. De fylder glykogendepoterne i musklerne op — din primære energikilde ved intensiv træning
 2. De giver langvarig energi til træningspas

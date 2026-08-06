@@ -18,7 +18,7 @@ En mass gainer er et kosttilskud med højt kalorieindhold, designet til at hjæl
 
 En typisk portion mass gainer indeholder mellem 500 og 1200 kalorier. Det svarer til et helt måltid, men i flydende form og med en kop vand. Det gør det nemt at få mange kalorier uden at skulle spise mere mad.
 
-Mass gainers er populære blandt folk der træner [styrketræning](/blog/hvad-er-styrketræning) og gerne vil bygge muskelmasse, men har svært ved at spise nok.
+Mass gainers er populære blandt folk der træner [styrketræning](/blog/hvad-er-styrketraening) og gerne vil bygge muskelmasse, men har svært ved at spise nok.
 
 ## Hvem har brug for en mass gainer?
 
@@ -59,7 +59,7 @@ Kulhydrat udgør den største del, fordi det er den nemmeste måde at få mange 
 
 Proteinindholdet er lavere end i proteinpulver, men stadig højt nok til at bidrage til dit daglige proteinbehov. De fleste mass gainers bruger whey protein eller en blanding af whey og kasein.
 
-Læs mere om hvordan kalorier fordeler sig på protein, kulhydrat og fedt i vores artikel om [makronæringsstoffer](/ordbog/hvad-er-makronæringsstoffer).
+Læs mere om hvordan kalorier fordeler sig på protein, kulhydrat og fedt i vores artikel om [makronæringsstoffer](/ordbog/hvad-er-makronaeringsstoffer).
 
 ## Hvordan bruger du en mass gainer?
 

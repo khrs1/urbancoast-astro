@@ -40,7 +40,7 @@ Nordiske Næringsstofanbefalinger [1] giver dig retningslinjerne for sund kost. 
 3. **Brug bønner og linser** i maden. De er billige, mættende og fulde af protein og fibre.
 4. **Vælg fuldkorn** frem for hvidt brød og pasta. Fuldkorn har flere næringsstoffer og holder dig mæt.
 5. **Vælg magre mejeriprodukter** som skyr, minimælk og letmælk. Du får calcium og protein uden for meget fedt.
-6. **Spis varieret protein.** Skift mellem fisk, kylling, æg, bønner og magert kød. Læs om [makronæringsstoffer](/ordbog/hvad-er-makronæringsstoffer) for at forstå hvorfor.
+6. **Spis varieret protein.** Skift mellem fisk, kylling, æg, bønner og magert kød. Læs om [makronæringsstoffer](/ordbog/hvad-er-makronaeringsstoffer) for at forstå hvorfor.
 7. **Brug umættet fedt** fra olivenolie, nødder og avocado. Begræns mættet fedt fra smør og fedt kød.
 8. **Begræns sukker, salt og alkohol.** Det er de tre største synder i den danske kost.
 9. **Drik vand.** Sodavand og juice har mange kalorier uden at mætte. Vand er det bedste valg.

@@ -21,7 +21,7 @@ De vigtigste elektrolytter er:
 - **Calcium**. Nødvendig for muskelsammentrækning og knogler
 - **Klorid**. Hjælper med at opretholde væskebalancen
 
-Du mister elektrolytter gennem sved, især natrium og kalium. Ved hård [styrketræning](/blog/hvad-er-styrketræning) eller løb i varmt vejr kan tabet være betydeligt.
+Du mister elektrolytter gennem sved, især natrium og kalium. Ved hård [styrketræning](/blog/hvad-er-styrketraening) eller løb i varmt vejr kan tabet være betydeligt.
 
 ## Hvorfor mister du elektrolytter?
 

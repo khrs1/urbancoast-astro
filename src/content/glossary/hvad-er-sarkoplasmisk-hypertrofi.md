@@ -15,7 +15,7 @@ Der findes to hovedtyper af hypertrofi:
 
 **Sarkoplasmisk hypertrofi** — Øget muskelvolumen gennem mere væske og energilagre i muskelcellen. Dette er det, bodybuildere typisk opnår gennem højvolumen-træning med moderate vægte. Det giver større muskler, men ikke nødvendigvis øget maksimal styrke.
 
-**Myofibrillær hypertrofi** — Øget muskelvolumen gennem flere kontraktile elementer (myofibriller). Dette opnås typisk gennem tung [styrketræning](/blog/hvad-er-styrketræning) med få repetitioner og giver øget maksimal styrke.
+**Myofibrillær hypertrofi** — Øget muskelvolumen gennem flere kontraktile elementer (myofibriller). Dette opnås typisk gennem tung [styrketræning](/blog/hvad-er-styrketraening) med få repetitioner og giver øget maksimal styrke.
 
 ## Hvordan træner du for sarkoplasmisk hypertrofi?
 
@@ -24,7 +24,7 @@ Der findes to hovedtyper af hypertrofi:
 - Korte pauser (60-90 sekunder)
 - Høj frekvens (flere sæt per muskelgruppe)
 
-Dette skaber metabolisk stress, som er den primære driver for sarkoplasmisk hypertrofi. Teknikker som [dropset](/ordbog/hvad-er-dropset) og [supersæt](/ordbog/hvad-er-supersæt) er særligt effektive.
+Dette skaber metabolisk stress, som er den primære driver for sarkoplasmisk hypertrofi. Teknikker som [dropset](/ordbog/hvad-er-dropset) og [supersæt](/ordbog/hvad-er-supersaet) er særligt effektive.
 
 ## Betydning for okklusionstræning
 

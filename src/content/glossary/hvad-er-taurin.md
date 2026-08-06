@@ -18,7 +18,7 @@ Forskning peger på at taurin kan:
 
 ## Skal du tage taurin som tilskud?
 
-For de fleste der [styrketræner](/blog/hvad-er-styrketræning), er taurin ikke nødvendigt. Du får det gennem en normal kost med kød, fisk og mejeriprodukter.
+For de fleste der [styrketræner](/blog/hvad-er-styrketraening), er taurin ikke nødvendigt. Du får det gennem en normal kost med kød, fisk og mejeriprodukter.
 
 Hvis du dyrker udholdenhedssport, kan et tilskud på 1-3 g før træning være relevant. Det findes ofte i [pre-workout](/ordbog/hvad-er-pwo) produkter.
 

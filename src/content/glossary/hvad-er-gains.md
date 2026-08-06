@@ -17,11 +17,11 @@ Gains er engelsk og betyder "gevinst" eller "fortjeneste". Udtrykket stammer fra
 
 For at opbygge muskelmasse skal tre ting spille sammen:
 
-1. **Styrketræning** - Du skal udsætte musklerne for progressiv overbelastning. Det betyder, at du gradvist øger vægten, antallet af reps eller antallet af sæt. Læs vores guide til [styrketræning](/blog/hvad-er-styrketræning) for at komme i gang.
+1. **Styrketræning** - Du skal udsætte musklerne for progressiv overbelastning. Det betyder, at du gradvist øger vægten, antallet af reps eller antallet af sæt. Læs vores guide til [styrketræning](/blog/hvad-er-styrketraening) for at komme i gang.
 
 2. **Protein** - Musklerne bygges af protein. Du skal have cirka 1,6-2,2 g protein per kg kropsvægt dagligt for at maksimere [proteinsyntese](/ordbog/hvad-er-proteinsyntese). Brug vores [proteinberegner](/tools/protein-beregner) til at beregne dit behov.
 
-3. **Restitution** - Musklerne vokser ikke under træningen, men mens du hviler. Sørg for nok [restitution](/ordbog/hvad-er-restitution) og god [søvn](/ordbog/hvad-er-søvn-restitution) mellem træningspas.
+3. **Restitution** - Musklerne vokser ikke under træningen, men mens du hviler. Sørg for nok [restitution](/ordbog/hvad-er-restitution) og god [søvn](/ordbog/hvad-er-soevn-restitution) mellem træningspas.
 
 ## Gains kræver tålmodighed
 

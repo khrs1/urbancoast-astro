@@ -11,7 +11,7 @@ Træningshandsker beskytter dine hænder når du løfter vægte eller hænger i 
 
 ## Hvorfor bruge træningshandsker?
 
-Hvis du [styrketræner](/blog/hvad-er-styrketræning) regelmæssigt, kender du måske problemet. Vabler på hænderne, hård hud i håndfladerne og sprukken hud fra vægtstangen. Det er frustrerende og kan holde dig væk fra træningen i dage eller uger.
+Hvis du [styrketræner](/blog/hvad-er-styrketraening) regelmæssigt, kender du måske problemet. Vabler på hænderne, hård hud i håndfladerne og sprukken hud fra vægtstangen. Det er frustrerende og kan holde dig væk fra træningen i dage eller uger.
 
 Træningshandsker giver et lag beskyttelse mellem din hud og vægtstangen. De reducerer friktion og forhindrer vabler.
 

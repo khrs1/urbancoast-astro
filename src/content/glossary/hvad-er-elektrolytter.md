@@ -9,7 +9,7 @@ tags: ["elektrolytter", "mineraler", "væskebalance", "træning"]
 
 Elektrolytter er mineraler i din krop der bærer en elektrisk ladning. De er nødvendige for at dine muskler kan trække sig sammen og dine nerver kan sende signaler.
 
-De vigtigste elektrolytter er natrium, kalium, [magnesium](/ordbog/hvad-er-magnesium), calcium og klorid. Du mister dem gennem sved når du [styrketræner](/blog/hvad-er-styrketræning) eller løber.
+De vigtigste elektrolytter er natrium, kalium, [magnesium](/ordbog/hvad-er-magnesium), calcium og klorid. Du mister dem gennem sved når du [styrketræner](/blog/hvad-er-styrketraening) eller løber.
 
 ## Skal du tage tilskud?
 

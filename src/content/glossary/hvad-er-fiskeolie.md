@@ -11,7 +11,7 @@ Fiskeolie er et fedtstof der udvindes fra fed fisk som laks, makrel og sild. Det
 
 ## Hvad gør omega-3?
 
-Omega-3 bruges til at opbygge cellemembraner, regulere inflammation og understøtte hjerte og hjernefunktion. Forskning peger også på at det kan hjælpe med [muskelrestitution](/ordbog/hvad-er-restitution) efter [styrketræning](/blog/hvad-er-styrketræning).
+Omega-3 bruges til at opbygge cellemembraner, regulere inflammation og understøtte hjerte og hjernefunktion. Forskning peger også på at det kan hjælpe med [muskelrestitution](/ordbog/hvad-er-restitution) efter [styrketræning](/blog/hvad-er-styrketraening).
 
 ## Skal du tage fiskeolie?
 

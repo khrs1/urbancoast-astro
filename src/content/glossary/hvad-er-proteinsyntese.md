@@ -7,7 +7,7 @@ category: "Ordbog"
 tags: ["ernæring", "protein", "proteinsyntese", "muskelvækst"]
 ---
 
-Proteinsyntese er den biologiske proces, hvor kroppen bygger nye proteiner — herunder muskelprotein. I træningssammenhæng taler vi primært om muskelproteinsyntese (MPS), som er nøgleprocessen for [muskelvækst](/blog/hvad-er-styrketræning).
+Proteinsyntese er den biologiske proces, hvor kroppen bygger nye proteiner — herunder muskelprotein. I træningssammenhæng taler vi primært om muskelproteinsyntese (MPS), som er nøgleprocessen for [muskelvækst](/blog/hvad-er-styrketraening).
 
 ## Muskelproteinsyntese vs muskelproteinnedbrydelse
 
@@ -24,7 +24,7 @@ For at bygge muskler skal MPS være højere end MPB over tid (positiv nitrogenba
 1. **Styrketræning** — Aktiverer MPS gennem mekanisk spænding på muskelfibrene
 2. **Protein efter træning** — 20-40 g kvalitetsprotein inden for 1-2 timer efter træning. [Whey protein](/blog/proteinpulver-fakta) er særligt effektivt pga. hurtig optagelse
 3. **Jævn fordeling** — 3-5 måltider med 20-40 g protein per måltid gennem dagen
-4. **Tilstrækkelig [søvn](/ordbog/hvad-er-søvn-restitution)** — MPS er højest under dyb søvn
+4. **Tilstrækkelig [søvn](/ordbog/hvad-er-soevn-restitution)** — MPS er højest under dyb søvn
 5. **Tilstrækkeligt kalorieindtag** — I [kalorieunderskud](/ordbog/hvad-er-kalorieunderskud) er MPS nedsat
 
 ## Proteinkvalitet og aminosyrer

@@ -11,7 +11,7 @@ Søvn er den enkelt vigtigste faktor for [restitution](/ordbog/hvad-er-restituti
 
 ## Søvnstadier og muskelvækst
 
-Søvnen består af cyklusser af REM-søvn og non-REM-søvn. Den dybe søvn (fase 3-4, også kaldet slow-wave sleep) er hvor den største del af væksthormon udskilles. Dette er afgørende for [muskelvækst](/blog/hvad-er-styrketræning) og restitution.
+Søvnen består af cyklusser af REM-søvn og non-REM-søvn. Den dybe søvn (fase 3-4, også kaldet slow-wave sleep) er hvor den største del af væksthormon udskilles. Dette er afgørende for [muskelvækst](/blog/hvad-er-styrketraening) og restitution.
 
 ## Hvor meget søvn behøver du?
 

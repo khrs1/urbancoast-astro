@@ -20,7 +20,7 @@ Der findes tre former:
 
 ## Hvornår skal du bruge whey?
 
-Whey er bedst lige efter [træning](/blog/hvad-er-styrketræning) fordi det optages hurtigt. Tag 20-40 g inden for 1-2 timer efter dit træningspas for at understøtte [muskelrestitution](/ordbog/hvad-er-restitution).
+Whey er bedst lige efter [træning](/blog/hvad-er-styrketraening) fordi det optages hurtigt. Tag 20-40 g inden for 1-2 timer efter dit træningspas for at understøtte [muskelrestitution](/ordbog/hvad-er-restitution).
 
 Læs hvilke produkter der er bedst i vores [proteinpulver test](/blog/bedste-proteinpulver-2026). Brug også vores [protein beregner](/tools/protein-beregner) til at se hvor meget du skal have.
 

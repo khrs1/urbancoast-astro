@@ -27,7 +27,7 @@ Cardio har også en gavnlig effekt på dit hjertes sundhed og kan reducere risik
 
 ## Cardio og styrketræning
 
-Mange tror, at cardio modvirker [styrketræning](/blog/hvad-er-styrketræning), men de to former for træning kan sagtens kombineres. Hvis dit mål er muskelopbygning, skal du blot planlægge cardio på dage, hvor du ikke løfter tunge vægte, eller lave det efter din styrketræning.
+Mange tror, at cardio modvirker [styrketræning](/blog/hvad-er-styrketraening), men de to former for træning kan sagtens kombineres. Hvis dit mål er muskelopbygning, skal du blot planlægge cardio på dage, hvor du ikke løfter tunge vægte, eller lave det efter din styrketræning.
 
 ## Referencer
 

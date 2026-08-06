@@ -48,7 +48,7 @@ Grøntsager har få kalorier. Det er det bedste valg hvis du vil tabe dig.
 | Skyr | 63 kcal | 11 g |
 | [Proteinpulver](/blog/proteinpulver-fakta) | 380 kcal | 76 g |
 
-Proteinkilder er vigtige når du [styrketræner](/blog/hvad-er-styrketræning). De hjælper dig med at opbygge muskler og holde dig mæt. Brug vores protein beregner til at se hvor meget du skal have.
+Proteinkilder er vigtige når du [styrketræner](/blog/hvad-er-styrketraening). De hjælper dig med at opbygge muskler og holde dig mæt. Brug vores protein beregner til at se hvor meget du skal have.
 
 ## Kalorier i kulhydrater
 

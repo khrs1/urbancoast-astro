@@ -18,7 +18,7 @@ Pre workout er et kosttilskud du tager før træning for at øge din energi, fok
 
 De fleste PWO indeholder en blanding af stimulerende ingredienser som koffein, og ingredienser der støtter muskelfunktionen som kreatin og beta-alanin. Sammensætningen varierer meget fra produkt til produkt, så det giver mening at læse ingredienslisten før du køber.
 
-Du kan læse mere om selve træningen i vores guide til [hvad styrketræning er](/blog/hvad-er-styrketræning).
+Du kan læse mere om selve træningen i vores guide til [hvad styrketræning er](/blog/hvad-er-styrketraening).
 
 ## De mest almindelige ingredienser i PWO
 

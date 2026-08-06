@@ -27,7 +27,7 @@ Mænd har naturligt lavere fedtprocent end kvinder, da kvinder har brug for mere
 
 ## Fedtprocent vs BMI
 
-En [styrketræner](/blog/hvad-er-styrketræning) med 100 kg og 10% fedtprocent vil have en BMI i overvægts-kategorien, men er tydeligvis ikke overvægtig. Fedtprocent giver et mere præcist billede af kropssammensætning end BMI.
+En [styrketræner](/blog/hvad-er-styrketraening) med 100 kg og 10% fedtprocent vil have en BMI i overvægts-kategorien, men er tydeligvis ikke overvægtig. Fedtprocent giver et mere præcist billede af kropssammensætning end BMI.
 
 ## Hvordan reducerer du fedtprocent?
 

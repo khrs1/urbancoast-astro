@@ -26,7 +26,7 @@ Hvis du har været væk fra træningen et stykke tid eller har prøvet nye øvel
 ## Hvad hjælper mod muskelsmerter?
 
 - **Bevægelse.** Let aktivitet øger blodtilførslen til musklerne
-- **Søvn.** De fleste reparationer sker mens du sover. Læs om [søvn og restitution](/ordbog/hvad-er-søvn-restitution)
+- **Søvn.** De fleste reparationer sker mens du sover. Læs om [søvn og restitution](/ordbog/hvad-er-soevn-restitution)
 - **Protein.** Spis nok protein så musklerne har byggesten til reparation. Brug vores [protein beregner](/tools/protein-beregner)
 - **Varme.** Et varmt bad kan lindre ømheden midlertidigt
 - **Tid.** Den bedste kur er at vente. Kroppen klarer det selv

@@ -15,7 +15,7 @@ Stofskifte (også kaldet metabolisme) er den samlede proces, hvor kroppen omsæt
 
 2. **Termisk effekt af mad (TEF)** — Energien der bruges på at fordøje mad. Udgør ca. 10% af dagligt forbrug. Protein har den højeste TEF (20-30%), efterfulgt af kulhydrat (5-10%) og fedt (0-3%).
 
-3. **Fysisk aktivitet** — Den mest variable komponent. Alt fra [styrketræning](/blog/hvad-er-styrketræning) til gåturen til arbejde. Kan udgøre 15-30% afhængig af aktivitetsniveau.
+3. **Fysisk aktivitet** — Den mest variable komponent. Alt fra [styrketræning](/blog/hvad-er-styrketraening) til gåturen til arbejde. Kan udgøre 15-30% afhængig af aktivitetsniveau.
 
 ## Kan du øge dit stofskifte?
 

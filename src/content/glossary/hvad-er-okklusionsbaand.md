@@ -11,7 +11,7 @@ Okklusionsbånd er elastiske bånd du sætter på overmusklen du vil træne. De 
 
 ## Hvordan virker okklusionsbånd?
 
-Når du sætter et okklusionsbånd på, begrænser det blodet i at løbe tilbage fra musklen. Det betyder at blodet hoper sig op i musklen. Dette skaber et miljø i musklen der minder om hvad der sker ved hård [styrketræning](/blog/hvad-er-styrketræning), men med meget lettere vægte.
+Når du sætter et okklusionsbånd på, begrænser det blodet i at løbe tilbage fra musklen. Det betyder at blodet hoper sig op i musklen. Dette skaber et miljø i musklen der minder om hvad der sker ved hård [styrketræning](/blog/hvad-er-styrketraening), men med meget lettere vægte.
 
 Læs mere i vores store [guide til okklusionstræning](/blog/okklusionstraening-den-store-guide).
 

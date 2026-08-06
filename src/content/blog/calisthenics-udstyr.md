@@ -135,7 +135,7 @@ Du kan købe magnesia i blokke, som pulver eller som flydende. Blokke er de mest
 
 **Brug ikke for meget.** Et tyndt lag er nok. For meget kalk kan give et for "klæbrigt" greb, der gør det sværere at glide rundt på stangen.
 
-Se vores guide til [hard hud og kalk til træning](/blog/kalk-til-træning) for mere om emnet.
+Se vores guide til [hard hud og kalk til træning](/blog/kalk-til-traening) for mere om emnet.
 
 ## Lifting Straps
 

@@ -23,7 +23,7 @@ Protein er essentielt for muskelopbygning og [restitution](/ordbog/hvad-er-resti
 
 ## Kulhydrat
 
-Kulhydrater er kroppens foretrukne brændstof ved højintensiv træning. De opdeles i [komplekse kulhydrater](/ordbog/hvad-er-carbs) (fuldkorn, grøntsager) og simple kulhydrater (sukker). For [styrketræning](/blog/hvad-er-styrketræning) er kulhydrat vigtigt for at fylde glykogendepoterne op.
+Kulhydrater er kroppens foretrukne brændstof ved højintensiv træning. De opdeles i [komplekse kulhydrater](/ordbog/hvad-er-carbs) (fuldkorn, grøntsager) og simple kulhydrater (sukker). For [styrketræning](/blog/hvad-er-styrketraening) er kulhydrat vigtigt for at fylde glykogendepoterne op.
 
 ## Fedt
 

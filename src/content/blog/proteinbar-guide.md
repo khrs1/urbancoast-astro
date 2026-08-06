@@ -110,7 +110,7 @@ Hvis du har brug for protein men ikke har tid til at tilberede noget, er en prot
 
 ### Efter træning
 
-Efter [styrketræning](/blog/hvad-er-styrketræning) har dine muskler brug for protein til at genopbygge sig. En proteinbar kan være en praktisk måde at få 20 gram protein med det samme, før du når hjem og kan lave et rigtigt måltid.
+Efter [styrketræning](/blog/hvad-er-styrketraening) har dine muskler brug for protein til at genopbygge sig. En proteinbar kan være en praktisk måde at få 20 gram protein med det samme, før du når hjem og kan lave et rigtigt måltid.
 
 Det er ikke det bedste valg, da rigtig mad ofte har flere næringsstoffer og er mere mættende. Men det er bedre end ingenting.
 

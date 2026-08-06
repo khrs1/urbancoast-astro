@@ -19,7 +19,7 @@ Restitution er den proces, hvormed kroppen genopbygger muskler, bindevæv og ner
 
 1. **Søvn** — Den vigtigste faktor. Under dybsøvn udskilles væksthormon, og muskelproteinsyntesen er højest. Sigt efter 7-9 timer.
 2. **Ernæring** — [Protein](/blog/proteinpulver-fakta) og kulhydrater efter træning fremskynder restitutionen betydeligt.
-3. **Træningsmængde** — Hvis du træner samme muskelgruppe to dage i træk, får musklen ikke tid til at restituere. Et [split program](/blog/hvad-er-styrketræning) kan hjælpe med at sikre tilstrækkelig hvile.
+3. **Træningsmængde** — Hvis du træner samme muskelgruppe to dage i træk, får musklen ikke tid til at restituere. Et [split program](/blog/hvad-er-styrketraening) kan hjælpe med at sikre tilstrækkelig hvile.
 
 ## Hvor lang tid tager restitution?
 

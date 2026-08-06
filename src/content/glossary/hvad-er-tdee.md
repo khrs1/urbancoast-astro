@@ -22,7 +22,7 @@ TDEE (Total Daily Energy Expenditure) er den samlede mængde energi, din krop fo
 | Meget aktiv | Hård træning 6-7 dage/uge | 1,725 |
 | Ekstremt aktiv | Hård træning + fysisk arbejde | 1,9 |
 
-Eksempel: En person med BMR på 1800 kcal, der [styrketræner](/blog/hvad-er-styrketræning) 4 gange om ugen:
+Eksempel: En person med BMR på 1800 kcal, der [styrketræner](/blog/hvad-er-styrketraening) 4 gange om ugen:
 TDEE = 1800 × 1,55 = **2790 kcal**
 
 ## Brug TDEE til dine mål

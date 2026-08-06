@@ -105,7 +105,7 @@ Det betyder i praksis:
 - Du kan lave 1-2 ekstra gentagelser før du er udmattet
 - Du [restitutionerer](/ordbog/hvad-er-restitution) hurtigere mellem sæt
 
-Det er derfor kreatin er mest effektivt ved [styrketræning](/blog/hvad-er-styrketræning) med vægte på 1-8 repetitioner. Ved længere udholdenhed har det mindre effekt [4].
+Det er derfor kreatin er mest effektivt ved [styrketræning](/blog/hvad-er-styrketraening) med vægte på 1-8 repetitioner. Ved længere udholdenhed har det mindre effekt [4].
 
 [4] Kreider RB et al., 2017. *International Society of Sports Nutrition position stand: creatine.* Journal of the International Society of Sports Nutrition.
 

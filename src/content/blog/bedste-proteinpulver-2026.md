@@ -14,7 +14,7 @@ Vil du finde det bedste proteinpulver? Så er du kommet til det rigtige sted. He
 
 Det afhænger af hvad du skal bruge det til. Der er ikke ét proteinpulver der er bedst for alle. Her er de tre hovedtyper:
 
-**Whey protein** er det mest populære valg. Det optages hurtigt i kroppen og er perfekt lige efter [træning](/blog/hvad-er-styrketræning). Læs mere om whey i vores [ordbog](/ordbog/hvad-er-whey-protein).
+**Whey protein** er det mest populære valg. Det optages hurtigt i kroppen og er perfekt lige efter [træning](/blog/hvad-er-styrketraening). Læs mere om whey i vores [ordbog](/ordbog/hvad-er-whey-protein).
 
 **Kasein** er et langsommere protein. Det giver en jævn frigivelse af aminosyrer over flere timer. Bedst inden sengetid.
 

@@ -19,7 +19,7 @@ Proteinkvotient er et udtryk for, hvor meget protein du indtager i forhold til d
 | Styrketræning (hypertrofi) | 1,6 - 2,2 |
 | Styrketræning (cut) | 2,2 - 2,8 |
 
-En person på 80 kg, der [styrketræner](/blog/hvad-er-styrketræning) for muskelvækst, bør altså indtage mellem 128 og 176 g protein dagligt.
+En person på 80 kg, der [styrketræner](/blog/hvad-er-styrketraening) for muskelvækst, bør altså indtage mellem 128 og 176 g protein dagligt.
 
 ## Proteinkilder
 
