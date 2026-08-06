@@ -1,0 +1,90 @@
+backend:
+  name: git-gateway
+  branch: main
+  commit_messages:
+    create: 'Create {{collection}} "{{slug}}"'
+    update: 'Update {{collection}} "{{slug}}"'
+    delete: 'Delete {{collection}} "{{slug}}"'
+    uploadMedia: '[skip ci] Upload "{{path}}"'
+    deleteMedia: '[skip ci] Delete "{{path}}"'
+
+local_backend: false
+
+media_folder: "public/img/uploads"
+public_folder: "/img/uploads"
+
+# Site logo (top left of admin bar)
+logo_url: /img/urban-coast-logo.png
+
+collections:
+  - name: "blog"
+    label: "Blog indlæg"
+    label_singular: "Blog indlæg"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}}"
+    sortable_fields: ["pubDate", "title"]
+    fields:
+      - { label: "Titel (H1 + tab-titel)", name: "title", widget: "string", required: true }
+      - { label: "Meta description (til Google)", name: "description", widget: "text", required: true }
+      - { label: "Udgivelsesdato", name: "pubDate", widget: "datetime", required: true }
+      - { label: "Forfatter", name: "author", widget: "string", required: true, default: "Karsten Hansen" }
+      - { label: "Kategori", name: "category", widget: "select", required: true, options: ["Træningsguides", "Kosttilskudguides", "Vægttab og diæt", "Proteinopskrifter", "Artikler"] }
+      - { label: "Billede (URL)", name: "image", widget: "image", required: false, allow_multiple: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Opdateret dato", name: "updatedDate", widget: "datetime", required: false }
+      - { label: "Indhold", name: "body", widget: "markdown", required: true }
+
+  - name: "glossary"
+    label: "Ordbog / Glossary"
+    label_singular: "Ordbog entry"
+    folder: "src/content/glossary"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}}"
+    sortable_fields: ["title"]
+    fields:
+      - { label: "Titel", name: "title", widget: "string", required: true }
+      - { label: "Meta description", name: "description", widget: "text", required: true }
+      - { label: "Udgivelsesdato", name: "pubDate", widget: "datetime", required: true }
+      - { label: "Forfatter", name: "author", widget: "string", required: true, default: "Karsten Hansen" }
+      - { label: "Kategori", name: "category", widget: "string", required: true, default: "Ordbog" }
+      - { label: "Billede (URL)", name: "image", widget: "image", required: false, allow_multiple: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Indhold", name: "body", widget: "markdown", required: true }
+
+  - name: "products"
+    label: "Produkter"
+    label_singular: "Produkt"
+    folder: "src/content/products"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}}"
+    sortable_fields: ["title"]
+    fields:
+      - { label: "Produktnavn", name: "title", widget: "string", required: true }
+      - { label: "Beskrivelse", name: "description", widget: "text", required: true }
+      - { label: "Udgivelsesdato", name: "pubDate", widget: "datetime", required: true }
+      - { label: "Forfatter", name: "author", widget: "string", required: true, default: "Karsten Hansen" }
+      - { label: "Kategori", name: "category", widget: "string", required: true }
+      - { label: "Billede (URL)", name: "image", widget: "image", required: false, allow_multiple: false }
+      - { label: "Pris", name: "price", widget: "string", required: false }
+      - { label: "Affiliate ID", name: "affiliateId", widget: "string", required: false }
+      - { label: "Affiliate URL", name: "affiliateUrl", widget: "string", required: false }
+      - { label: "Netværk", name: "network", widget: "select", required: false, default: "direct", options: ["partner-ads", "adtraction", "direct"] }
+      - { label: "Bedømmelse (0-5)", name: "rating", widget: "number", required: false, min: 0, max: 5, step: 0.5 }
+      - { label: "Badge", name: "badge", widget: "string", required: false }
+      - { label: "Brand", name: "brand", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Indhold", name: "body", widget: "markdown", required: true }
+
+# Preview / styling for the markdown editor
+editor:
+  preview: true
