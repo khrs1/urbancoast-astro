@@ -4,9 +4,7 @@
 name = "urbancoast-dk"
 compatibility_date = "2024-09-01"
 
-# Bind a KV namespace for click logging.
-# Create one in Cloudflare dashboard: Workers & Pages > KV > "affiliate-clicks"
-# then uncomment and set the id:
-# [[kv_namespaces]]
-# binding = "AFFILIATE_CLICKS"
-# id = "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
+# KV namespace for click logging
+[[kv_namespaces]]
+binding = "AFFILIATE_CLICKS"
+id = "a35c55226ddd414186fb1c27825f0ba9"
