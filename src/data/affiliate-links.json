@@ -1,0 +1,74 @@
+{
+  "partner-ads": {
+    "label": "Partner Ads (partnerid 27805)",
+    "links": {
+      "flydende-kalk": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-flydende-kalk-16402p.html"
+      },
+      "kalkblokke": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-kalk-magnesium-16432p.html"
+      },
+      "bodylab-protein": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=bodylab"
+      },
+      "linuspro-protein": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=linuspro-protein"
+      },
+      "linuspro-kreatin": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=linuspro-kreatin"
+      },
+      "linuspro-oeko-protein": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=linuspro-oeko-protein"
+      },
+      "bfr-straps": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=bfr-straps"
+      },
+      "bfr-glutebuilder": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=bfr-glutebuilder"
+      },
+      "victory-grips-3-finger": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=victory-grips-3-finger"
+      },
+      "jaw-pullup-grips": {
+        "url": "https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=jaw-pullup-grips"
+      }
+    }
+  },
+  "awin": {
+    "label": "Awin (affid 602713)",
+    "links": {
+      "myprotein-protein": {
+        "url": "https://www.awin1.com/cread.php?awinmid=12345&awinaffid=602713&clickref=myprotein&p=https://www.myprotein.dk"
+      },
+      "bulkpowders-protein": {
+        "url": "https://www.awin1.com/cread.php?awinmid=12345&awinaffid=602713&clickref=bulkpowders"
+      }
+    }
+  },
+  "direct": {
+    "label": "Direct (Kensui etc.)",
+    "links": {
+      "kensui-ez-vest": {
+        "url": "https://kensui.com/products/kensui-ez-vest?ref=pqyznkds"
+      },
+      "kensui-ez-boot": {
+        "url": "https://kensui.com/products/ez-boot?ref=pqyznkds"
+      },
+      "kensui-swissies": {
+        "url": "https://kensui.com/products/swissies-v2?ref=pqyznkds"
+      },
+      "kensui-adaptabell": {
+        "url": "https://kensui.com/products/adjustabell?ref=pqyznkds"
+      },
+      "kensui-ez-helm": {
+        "url": "https://kensui.com/products/ez-helm?ref=pqyznkds"
+      },
+      "kensui-ez-mace": {
+        "url": "https://kensui.com/products/adjustable-wooden-mace?ref=pqyznkds"
+      },
+      "kensui-ez-rope": {
+        "url": "https://kensui.com/products/ez-rope?ref=pqyznkds"
+      }
+    }
+  }
+}
