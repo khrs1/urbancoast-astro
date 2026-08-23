@@ -1,0 +1,122 @@
+---
+// Reusable exercise animation component.
+// Renders an inline SVG stick figure doing a calisthenics exercise, with
+// auto-play loop + clickable step buttons (mirrors dimsstudio napkin pattern).
+// Usage: <ExerciseAnimation exercise="front-lever" />
+
+interface Props {
+  exercise?: string;
+}
+const { exercise = "front-lever" } = Astro.props;
+
+// Exercise configs: stages, figure geometry, and labels (Danish)
+const configs = {
+  "front-lever": {
+    title: "Front lever",
+    caption: "Front lever progression: klik et trin for at holde stillingen fast, eller ▶ for at afspille animationen.",
+    stages: [
+      { id: "s1", label: "Tuck", num: "1" },
+      { id: "s2", label: "Adv. tuck", num: "2" },
+      { id: "s3", label: "Half lay", num: "3" },
+      { id: "s4", label: "Fuld front lever", num: "4" },
+    ],
+  },
+};
+
+const cfg = configs[exercise] || configs["front-lever"];
+const playId = `ex-${exercise}-play`;
+---
+
+<div class="ex-anim">
+  <div class="ex-anim-figure">
+    <input type="radio" name={`ex-${exercise}`} id={playId} class="ex-anim-play" checked />
+    {cfg.stages.map((s) => (
+      <input type="radio" name={`ex-${exercise}`} id={`ex-${exercise}-${s.id}`} class="ex-anim-step" />
+    ))}
+
+    <svg viewBox="0 0 480 280" role="img" aria-label={`Animation af ${cfg.title} progression.`}>
+      <rect class="ex-bar" x="0" y="34" width="480" height="10" rx="4" />
+      <text class="ex-stage-label" x="240" y="62" text-anchor="middle">{cfg.title}</text>
+      <g class="ex-body">
+        <g class="ex-arms">
+          <line x1="215" y1="44" x2="215" y2="95" />
+          <line x1="265" y1="44" x2="245" y2="95" />
+        </g>
+        <line class="ex-torso" x1="215" y1="95" x2="330" y2="95" />
+        <circle class="ex-head" cx="200" cy="97" r="14" />
+        <g class="ex-legs">
+          <line class="ex-thigh" x1="330" y1="95" x2="400" y2="95" />
+          <line class="ex-shin" x1="400" y1="95" x2="450" y2="95" />
+        </g>
+      </g>
+      <path class="ex-arrow" d="M240 250 q0 -40 0 -60" />
+      <polygon class="ex-arrowhead" points="235,185 245,185 240,175" />
+    </svg>
+
+    <div class="ex-anim-steps">
+      <label for={playId} class="ex-play">▶ Afspil</label>
+      {cfg.stages.map((s) => (
+        <label for={`ex-${exercise}-${s.id}`} class="ex-step">
+          <span class="ex-num">{s.num}</span>{s.label}
+        </label>
+      ))}
+    </div>
+  </div>
+  <figcaption>{cfg.caption}</figcaption>
+</div>
+
+<style is:global>
+  .ex-anim { margin: 1.75rem 0; background: #fff; border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; }
+  .ex-anim-figure { position: relative; }
+  .ex-anim-figure > svg { display: block; width: 100%; height: auto; background: linear-gradient(#f8fafc, #eef2f7); }
+  .ex-anim-figure input { position: absolute; opacity: 0; pointer-events: none; }
+  .ex-bar { fill: #64748b; }
+  .ex-body line { stroke: #0a0f1e; stroke-width: 6; stroke-linecap: round; fill: none; }
+  .ex-head { fill: #0a0f1e; }
+  .ex-stage-label { fill: #64748b; font-size: 13px; font-weight: 600; letter-spacing: .5px; }
+  .ex-arrow { fill: none; stroke: #15803d; stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 6 5; }
+  .ex-arrowhead { fill: #15803d; }
+
+  .ex-anim-figure .ex-body { animation: exFlLoop 12s ease-in-out infinite; }
+  .ex-anim-figure .ex-legs { transform-box: fill-box; transform-origin: 0 0; animation: exLegsLoop 12s ease-in-out infinite; }
+
+  .ex-anim-figure input:checked.ex-anim-step ~ svg .ex-body,
+  .ex-anim-figure input:checked.ex-anim-step ~ svg .ex-legs { animation: none; }
+  .ex-anim-figure input.ex-anim-step:nth-of-type(2):checked ~ svg .ex-legs { transform: translateY(0) scale(1,.5); }
+  .ex-anim-figure input.ex-anim-step:nth-of-type(3):checked ~ svg .ex-legs { transform: translateY(-8px) scale(1,.72); }
+  .ex-anim-figure input.ex-anim-step:nth-of-type(4):checked ~ svg .ex-legs { transform: translateY(-14px) scale(1,.88); }
+  .ex-anim-figure input.ex-anim-step:nth-of-type(5):checked ~ svg .ex-legs { transform: translateY(0) scale(1,1); }
+
+  .ex-anim-steps { display:flex; flex-wrap:wrap; gap:6px; padding:12px 14px; background:#f8fafc; border-top:1px solid #e2e8f0; }
+  .ex-anim-steps label { display:inline-flex; align-items:center; gap:6px; padding:7px 13px; border:1.5px solid #e2e8f0; border-radius:999px; background:#fff; font-size:13px; font-weight:600; color:#0f172a; cursor:pointer; transition:all .15s; }
+  .ex-anim-steps label:hover { border-color:#15803d; }
+  .ex-num { display:inline-flex; align-items:center; justify-content:center; width:20px; height:20px; border-radius:50%; background:#e2e8f0; font-size:11px; font-weight:700; color:#0f172a; }
+  .ex-anim-steps label:hover .ex-num { background:#15803d; color:#fff; }
+  .ex-anim-figure input:nth-of-type(1):checked ~ .ex-anim-steps label:nth-of-type(1) { background:#0a0f1e; border-color:#0a0f1e; color:#fff; }
+  .ex-anim-figure input:nth-of-type(2):checked ~ .ex-anim-steps label:nth-of-type(2),
+  .ex-anim-figure input:nth-of-type(3):checked ~ .ex-anim-steps label:nth-of-type(3),
+  .ex-anim-figure input:nth-of-type(4):checked ~ .ex-anim-steps label:nth-of-type(4),
+  .ex-anim-figure input:nth-of-type(5):checked ~ .ex-anim-steps label:nth-of-type(5) { background:#15803d; border-color:#15803d; color:#fff; }
+  .ex-anim-figure input:nth-of-type(1):checked ~ .ex-anim-steps label:nth-of-type(1) .ex-num,
+  .ex-anim-figure input:nth-of-type(2):checked ~ .ex-anim-steps label:nth-of-type(2) .ex-num,
+  .ex-anim-figure input:nth-of-type(3):checked ~ .ex-anim-steps label:nth-of-type(3) .ex-num,
+  .ex-anim-figure input:nth-of-type(4):checked ~ .ex-anim-steps label:nth-of-type(4) .ex-num,
+  .ex-anim-figure input:nth-of-type(5):checked ~ .ex-anim-steps label:nth-of-type(5) .ex-num { background:#fff; color:#15803d; }
+  .ex-anim figcaption { padding:10px 14px; font-size:13.5px; line-height:1.5; color:#475569; background:#f8fafc; border-top:1px solid #e2e8f0; }
+  @media (max-width:480px) { .ex-anim-steps{ gap:4px; padding:10px; } .ex-anim-steps label{ font-size:12px; padding:6px 10px; } .ex-anim figcaption{ font-size:12.5px; } }
+
+  @keyframes exLegsLoop {
+    0%,12% { transform: translateY(0) scale(1,.45); }
+    25%,37% { transform: translateY(-8px) scale(1,.70); }
+    50%,62% { transform: translateY(-14px) scale(1,.88); }
+    75%,87% { transform: translateY(0) scale(1,1); }
+    100% { transform: translateY(0) scale(1,.45); }
+  }
+  @keyframes exFlLoop {
+    0%,12% { transform: translateY(2px); }
+    25%,37% { transform: translateY(-3px); }
+    50%,62% { transform: translateY(-8px); }
+    75%,87% { transform: translateY(-12px); }
+    100% { transform: translateY(2px); }
+  }
+</style>

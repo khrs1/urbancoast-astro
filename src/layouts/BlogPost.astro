@@ -1,5 +1,6 @@
 ---
 import Layout from './Layout.astro';
+import ExerciseAnimation from '../components/ExerciseAnimation.astro';
 
 interface Props {
   title: string;
@@ -9,8 +10,9 @@ interface Props {
   author: string;
   category: string;
   image?: string;
+  animation?: string;
 }
-const { title, description, pubDate, updatedDate, author, category, image } = Astro.props;
+const { title, description, pubDate, updatedDate, author, category, image, animation } = Astro.props;
 const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(pubDate);
 const formattedUpdated = updatedDate ? new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(updatedDate) : null;
 const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-');
@@ -51,6 +53,9 @@ const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').r
   )}
 
   <article class="post-content">
+    {animation && (
+      <ExerciseAnimation exercise={animation} />
+    )}
     <slot />
   </article>
 
