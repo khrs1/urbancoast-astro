@@ -5,7 +5,6 @@ pubDate: 2026-08-05
 author: "Karsten Hansen"
 category: "Træningsguides"
 image: "https://images.unsplash.com/photo-1517344884509-a0c97ec11bcc?w=800&auto=format&fit=crop"
-animation: "front-lever"
 ---
 
 ## Front lever guide: Lær en af de sværeste calisthenics-skills
