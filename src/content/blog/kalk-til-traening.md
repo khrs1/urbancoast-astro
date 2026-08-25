@@ -42,10 +42,6 @@ Kalkpulver er det produkt, der sviner mest. Det støver meget og man skal til ti
 
 ### Flydende kalk
 
-[](https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-flydende-kalk-16402p.html)
-
-[Køb flydende kalk hos Bodyman her](https://urbancoast.dk/go/?id=flydende-kalk)
-
 Flydende kalk er magnesiumkarbonat og er et naturligt produkt ligesom pulverkalk.
 
 #### Fordele:
@@ -57,10 +53,6 @@ Flydende kalk holder meget bedre end pulverkalk og det betyder du ikke behøver 
 Flydende kalk er ofte lidt dyrere end pulverkalk og nogle brugere oplever deres hænder udtørres mere af flydende kalk. Nogle styrkeløftere oplever ikke flydende kalk kan give samme grebsstyrke som pulverkalk.
 
 ### Kalkblokke
-
-[](https://www.partner-ads.com/dk/klikbanner.php?partnerid=27805&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/megagrip-kalk-magnesium-16432p.html)
-
-[Køb kalkblokke hos Bodyman her](https://urbancoast.dk/go/?id=kalkblokke)
 
 Blokkalk er blot pulverkalk, som er presset hårdt sammen. Dette er ofte brugt i træningscentre, da blokkalk ikke sviner i samme grad som pulverkalk hurtigt kan komme til. Blokkalk tillader også man minimerer hvor meget kalk man får på hænderne.
 
