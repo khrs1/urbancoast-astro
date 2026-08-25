@@ -54,6 +54,8 @@ Flydende kalk er ofte lidt dyrere end pulverkalk og nogle brugere oplever deres 
 
 ### Kalkblokke
 
+[Køb kalkblokke hos Billig-fitness her](https://urbancoast.dk/go/?id=kalk-blokke)
+
 Blokkalk er blot pulverkalk, som er presset hårdt sammen. Dette er ofte brugt i træningscentre, da blokkalk ikke sviner i samme grad som pulverkalk hurtigt kan komme til. Blokkalk tillader også man minimerer hvor meget kalk man får på hænderne.
 
 #### Fordele:
