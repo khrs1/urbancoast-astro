@@ -50,6 +50,7 @@ Et par ting der gør det nemmere:
 - En bar der tillader "false grip" (falsk greb), hvor du lægger håndleddet over stangen
 - Modstandsband til at hjælpe dig i starten
 - Magnesia eller kalk til bedre greb
+- En [vægtvest](/go/?id=bodystore-vaegtvest-20) til når du vil gøre pull-ups sværere
 
 Modstandsband er især genialt til at lære bevægelsen uden at være nødt til at have fuld styrke endnu.
 

@@ -51,6 +51,7 @@ Et par ting der hjælper:
 - Magnesia eller kalk til bedre greb
 - Modstandsband til at hjælpe i starten
 - Lifting straps hvis dit greb er en flaskehals
+- En [vægtvest](/go/?id=bodystore-vaegtvest-20) til når du vil gøre progressionen sværere
 
 Lifter du tungt i dødløft, har du måske allerede styrke i grebet. Ellers kan lifting straps være en god idé, så grebet ikke begrænser din front lever træning.
 

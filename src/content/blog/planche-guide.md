@@ -48,6 +48,7 @@ Du skal bruge meget lidt:
 - Et plant underlag (gulvet er fint)
 - Gerne parallettes (parallelle barer) til at spare håndled
 - Magnesia til bedre greb
+- En [vægtvest](/go/?id=bodystore-vaegtvest-20) til når du vil gøre progressionen sværere
 
 Parallettes er ikke et krav, men de gør det lettere for håndledene, fordi du kan gribe rundt om dem i stedet for at have flade hænder. Det er især vigtigt i de svære progressionsøvelser.
 
