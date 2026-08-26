@@ -67,5 +67,22 @@
         "url": "https://kensui.com/products/ez-rope?ref=pqyznkds"
       }
     }
+  },
+  "adtraction": {
+    "label": "Adtraction (channel 2104258336)",
+    "links": {
+      "bodystore-whey-protein": {
+        "url": "https://go.adt267.com/t/t?a=1487386089&as=2104258336&t=2&tk=1&cupa_sku=SETWHEY100MIX2&url=https://www.bodystore.dk/mixogmatch-2-x-whey-100-valleprotein-1-kg/SETWHEY100MIX2.html"
+      },
+      "fitnessshoppen-vaegtvest": {
+        "url": "https://go.fitnessshoppen.dk/t/t?a=1873812174&as=2104258336&t=2&tk=1&cupa_sku=14TUSCF097I-ONE+SIZE&url=https://fitnessshoppen.dk/shop/tunturi-pro-vaegtvest-66947p.html"
+      },
+      "fitnessshoppen-pullup-bar": {
+        "url": "https://go.fitnessshoppen.dk/t/t?a=1873812174&as=2104258336&t=2&tk=1&cupa_sku=14TUSCF085I-ONE+SIZE&url=https://fitnessshoppen.dk/shop/tunturi-pro-pull-66945p.html"
+      },
+      "gorillasports-vaegtstang": {
+        "url": "https://at.gorillasports.dk/t/t?a=1954027013&as=2104258336&t=2&tk=1&cupa_sku=49725927358767&url=https://gorillasports.dk/products/vegtstangpakke-gs-5st-10st-130cm-30mm?variant=49725927358767"
+      }
+    }
   }
 }
