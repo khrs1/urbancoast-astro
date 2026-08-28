@@ -120,6 +120,12 @@ Du kan naturligvis godt squatte uden, og her vil vi aldrig nogensinde anbefale b
 
 [Læs vores guide til vægtløftersko](https://urbancoast.dk/vaegtloeftersko/)
 
+**Anbefalede vægtløftersko:**
+
+- [Adidas Powerlift 5](https://urbancoast.dk/go/?id=adidas-powerlift-4) – god til begyndere og low-bar squat (809 kr)
+- [Adidas AdiPower Weightlifting 3](https://urbancoast.dk/go/?id=adidas-adipower) – premium sko til high-bar og olympiske løft (1019 kr)
+- [Adidas Power Perfect 3](https://urbancoast.dk/go/?id=adidas-powerperfect-iii) – alsidig mellemklasse-sko (525 kr)
+
 En løbesko er designet til at absorbere stød og fordele stødet i det bløde skum i sålen. Dette er bogstaveligt talt præcis det modsatte af, hvad man ønsker i et squat. Nogle bruger også Converse, eller Vans til at squatte i, hvilket er et alternativ. Sko som disse, selvom de har en hårdere sål, vil dog aldrig kunne hjælpe dig med at flytte den maksimale vægt.
 
 ## **Lowbar squat**
