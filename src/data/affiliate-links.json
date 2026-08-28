@@ -35,10 +35,13 @@
     "label": "Awin (affid 602713)",
     "links": {
       "myprotein-protein": {
-        "url": "https://www.awin1.com/cread.php?awinmid=12345&awinaffid=602713&clickref=myprotein&p=https://www.myprotein.dk"
+        "url": "https://www.awin1.com/cread.php?awinmid=8983&awinaffid=602713&clickref=myprotein&p=https://www.myprotein.dk"
       },
       "bulkpowders-protein": {
-        "url": "https://www.awin1.com/cread.php?awinmid=12345&awinaffid=602713&clickref=bulkpowders"
+        "url": "https://www.awin1.com/cread.php?awinmid=18540&awinaffid=602713&clickref=bulkpowders&p=https://www.bulkpowders.dk"
+      },
+      "adidas-sko": {
+        "url": "https://www.awin1.com/cread.php?awinmid=77028&awinaffid=602713&clickref=adidas&p=https://www.adidas.dk"
       }
     }
   },
