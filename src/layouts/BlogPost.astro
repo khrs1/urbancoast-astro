@@ -1,6 +1,7 @@
 ---
 import Layout from './Layout.astro';
 import ExerciseAnimation from '../components/ExerciseAnimation.astro';
+import TableOfContents from '../components/TableOfContents.astro';
 
 interface Props {
   title: string;
@@ -11,8 +12,9 @@ interface Props {
   category: string;
   image?: string;
   animation?: string;
+  toc?: boolean;
 }
-const { title, description, pubDate, updatedDate, author, category, image, animation } = Astro.props;
+const { title, description, pubDate, updatedDate, author, category, image, animation, toc = false } = Astro.props;
 const formattedDate = new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(pubDate);
 const formattedUpdated = updatedDate ? new Intl.DateTimeFormat('da-DK', { year: 'numeric', month: 'long', day: 'numeric' }).format(updatedDate) : null;
 const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').replace(/å/g,'aa').replace(/\s+/g,'-');
@@ -52,14 +54,64 @@ const catSlug = category.toLowerCase().replace(/æ/g,'ae').replace(/ø/g,'oe').r
     </div>
   )}
 
-  <article class="post-content">
-    {animation && (
-      <ExerciseAnimation exercise={animation} />
-    )}
-    <slot />
-  </article>
+  {toc ? (
+    <div class="post-layout">
+      <aside class="post-toc-sidebar">
+        <TableOfContents />
+      </aside>
+      <article class="post-content">
+        {animation && (
+          <ExerciseAnimation exercise={animation} />
+        )}
+        <slot />
+      </article>
+    </div>
+  ) : (
+    <article class="post-content">
+      {animation && (
+        <ExerciseAnimation exercise={animation} />
+      )}
+      <slot />
+    </article>
+  )}
 
   <div style="border-top:1px solid #e5e7eb;padding:2rem 0;margin:0 auto;max-width:780px;padding-left:1.5rem;padding-right:1.5rem">
     <a href="/blog" style="color:#0f3460;font-weight:600;font-size:.9rem">&#8592; Tilbage til alle indlæg</a>
   </div>
 </Layout>
+
+<style>
+  .post-layout {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 3rem;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 280px;
+    gap: 2.5rem;
+    align-items: start;
+  }
+  .post-layout .post-content {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .post-toc-sidebar {
+    position: sticky;
+    top: 1.5rem;
+    max-height: calc(100vh - 3rem);
+    overflow-y: auto;
+  }
+  @media (max-width: 900px) {
+    .post-layout {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+      padding: 2rem 1.5rem 3rem;
+    }
+    .post-toc-sidebar {
+      position: static;
+      max-height: none;
+      overflow: visible;
+      order: -1;
+    }
+  }
+</style>

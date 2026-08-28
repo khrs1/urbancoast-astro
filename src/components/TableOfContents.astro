@@ -1,7 +1,7 @@
 ---
-// Table of contents — builds a jump menu from the article's h2/h3 headings.
-// Client-side island: scans the rendered post-content for headings and
-// renders a sticky "Indhold" box with anchor links.
+// Table of contents — sticky sidebar with scroll-spy, smooth scroll,
+// section numbers, and a back-to-top button.
+// Client-side island: scans the rendered post-content for headings.
 interface Props {
   title?: string;
 }
@@ -11,76 +11,119 @@ const { title = "Indhold" } = Astro.props;
 <div class="toc" id="toc">
   <div class="toc-head">
     <span class="toc-title">📋 {title}</span>
-    <button class="toc-toggle" type="button" aria-expanded="false" aria-controls="toc-list">Vis</button>
   </div>
   <nav id="toc-list" class="toc-list" aria-label="Indholdsfortegnelse"></nav>
 </div>
+
+<button class="back-to-top" id="backToTop" type="button" aria-label="Til toppen" hidden>↑</button>
 
 <style>
   .toc {
     background: var(--surface, #f8fafc);
     border: 1px solid var(--border, #e2e8f0);
     border-radius: 12px;
-    padding: 1rem 1.25rem;
-    margin: 1.5rem 0 2rem;
-    max-width: 780px;
+    padding: 1rem 1.1rem;
   }
-  .toc-head {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: .5rem;
-  }
-  .toc-title { font-weight: 700; color: var(--navy, #0f3460); font-size: 1.05rem; }
-  .toc-toggle {
-    background: none; border: 1px solid var(--border, #e2e8f0);
-    border-radius: 6px; padding: .2rem .6rem; font-size: .8rem;
-    color: var(--navy, #0f3460); cursor: pointer;
-  }
-  .toc-list { display: none; }
-  .toc.open .toc-list { display: block; }
+  .toc-head { margin-bottom: .75rem; }
+  .toc-title { font-weight: 700; color: var(--navy, #0f3460); font-size: 1rem; }
   .toc-list ul { list-style: none; margin: 0; padding: 0; }
-  .toc-list li { margin: .3rem 0; }
+  .toc-list li { margin: 0; }
   .toc-list a {
-    color: #334155; text-decoration: none; font-size: .95rem;
-    display: inline-block; padding: .15rem 0;
+    color: #475569; text-decoration: none; font-size: .9rem;
+    display: block; padding: .35rem .5rem; border-radius: 6px;
+    border-left: 3px solid transparent; line-height: 1.35;
+    transition: color .15s, background .15s, border-color .15s;
   }
-  .toc-list a:hover { color: var(--orange, #f97316); }
-  .toc-list .lvl-3 { padding-left: 1.25rem; font-size: .88rem; }
+  .toc-list a:hover { color: var(--orange, #f97316); background: #f1f5f9; }
+  .toc-list a.active {
+    color: var(--orange, #f97316); font-weight: 600;
+    background: #fff7ed; border-left-color: var(--orange, #f97316);
+  }
+  .toc-list .lvl-3 { padding-left: 1.4rem; font-size: .85rem; }
+  .toc-list .num { color: var(--orange, #f97316); font-weight: 700; margin-right: .4rem; font-size: .8rem; }
+
+  .back-to-top {
+    position: fixed; bottom: 1.5rem; right: 1.5rem;
+    width: 44px; height: 44px; border-radius: 50%;
+    border: none; background: var(--navy, #0f3460); color: #fff;
+    font-size: 1.2rem; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,.2);
+    z-index: 50; transition: opacity .2s, transform .2s;
+  }
+  .back-to-top:hover { transform: translateY(-2px); }
+  .back-to-top[hidden] { opacity: 0; pointer-events: none; }
 </style>
 
 <script>
   const toc = document.getElementById('toc');
   const list = document.getElementById('toc-list');
-  const toggle = toc.querySelector('.toc-toggle');
-
-  // Find the article content container
+  const backToTop = document.getElementById('backToTop');
   const article = document.querySelector('.post-content');
+
   if (article) {
-    const headings = article.querySelectorAll('h2, h3');
+    const headings = Array.from(article.querySelectorAll('h2, h3')).filter(h => h.id);
     if (headings.length > 0) {
       const ul = document.createElement('ul');
+      let h2count = 0;
       headings.forEach((h) => {
-        if (!h.id) return;
         const li = document.createElement('li');
         const a = document.createElement('a');
         a.href = '#' + h.id;
-        a.textContent = h.textContent;
-        if (h.tagName === 'H3') a.classList.add('lvl-3');
+        if (h.tagName === 'H2') {
+          h2count++;
+          const num = document.createElement('span');
+          num.className = 'num';
+          num.textContent = h2count + '.';
+          a.appendChild(num);
+        } else {
+          a.classList.add('lvl-3');
+        }
+        a.appendChild(document.createTextNode(h.textContent));
         li.appendChild(a);
         ul.appendChild(li);
       });
       list.appendChild(ul);
+
+      // Smooth scroll for TOC links
+      list.querySelectorAll('a').forEach((a) => {
+        a.addEventListener('click', (e) => {
+          const target = document.querySelector(a.getAttribute('href'));
+          if (target) {
+            e.preventDefault();
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            history.replaceState(null, '', a.getAttribute('href'));
+          }
+        });
+      });
+
+      // Scroll-spy: highlight the current section
+      const links = Array.from(list.querySelectorAll('a'));
+      const spy = () => {
+        const pos = window.scrollY + 120;
+        let current = links[0];
+        for (const h of headings) {
+          if (h.offsetTop <= pos) {
+            current = links[headings.indexOf(h)];
+          }
+        }
+        links.forEach(l => l.classList.remove('active'));
+        if (current) current.classList.add('active');
+      };
+      window.addEventListener('scroll', spy, { passive: true });
+      spy();
+
+      // Back-to-top visibility
+      const onScroll = () => {
+        backToTop.hidden = window.scrollY < 600;
+      };
+      window.addEventListener('scroll', onScroll, { passive: true });
+      onScroll();
+      backToTop.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
     } else {
       toc.style.display = 'none';
     }
   } else {
     toc.style.display = 'none';
   }
-
-  toggle.addEventListener('click', () => {
-    const open = toc.classList.toggle('open');
-    toggle.textContent = open ? 'Skjul' : 'Vis';
-    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
-  });
 </script>

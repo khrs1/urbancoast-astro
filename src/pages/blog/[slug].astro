@@ -1,6 +1,5 @@
 ---
 import BlogPost from '../../layouts/BlogPost.astro';
-import TableOfContents from '../../components/TableOfContents.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -24,7 +23,7 @@ const showToc = post.slug === 'squats-guide';
   category={post.data.category}
   image={post.data.image}
   animation={post.data.animation}
+  toc={showToc}
 >
-  {showToc && <TableOfContents />}
   <Content />
 </BlogPost>
