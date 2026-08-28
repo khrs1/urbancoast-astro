@@ -42,15 +42,6 @@
       },
       "adidas-sko": {
         "url": "https://www.awin1.com/cread.php?awinmid=77028&awinaffid=602713&clickref=adidas&p=https://www.adidas.dk"
-      },
-      "adidas-adipower": {
-        "url": "https://www.awin1.com/cread.php?awinmid=77028&awinaffid=602713&clickref=adidas-adipower&p=https%3A%2F%2Fwww.adidas.dk%2Fadipower-weightlifting-3-sko%2FIG1773.html"
-      },
-      "adidas-powerlift-4": {
-        "url": "https://www.awin1.com/cread.php?awinmid=77028&awinaffid=602713&clickref=adidas-powerlift&p=https%3A%2F%2Fwww.adidas.dk%2Fpowerlift-5-vaegtloftningssko%2FIH8236.html"
-      },
-      "adidas-powerperfect-iii": {
-        "url": "https://www.awin1.com/cread.php?awinmid=77028&awinaffid=602713&clickref=adidas-powerperfect&p=https%3A%2F%2Fwww.adidas.dk%2Fpower-perfect-3-vaegtloftningssko%2FIH8243.html"
       }
     }
   },
@@ -106,6 +97,15 @@
       },
       "bodystore-vaegtvest-10": {
         "url": "https://go.adt267.com/t/t?a=1487386089&as=2104258336&t=2&tk=1&cupa_sku=400-600011&url=https://www.bodystore.dk/vaegtvest-10-kg/400-600011.html"
+      },
+      "adidas-adipower": {
+        "url": "https://go.adt267.com/t/t?a=1487386089&as=2104258336&t=2&tk=1&cupa_sku=JP6206-40&url=https://www.bodystore.dk/adidas-adipower-weightlifting-iii-core-blackwhitepure-ruby-40/JP6206-40.html"
+      },
+      "adidas-powerlift-4": {
+        "url": "https://go.adt267.com/t/t?a=1487386089&as=2104258336&t=2&tk=1&cupa_sku=JP6201-40&url=https://www.bodystore.dk/adidas-powerlift-5-dark-bluesilver-metallic-40/JP6201-40.html"
+      },
+      "adidas-powerperfect-iii": {
+        "url": "https://go.adt267.com/t/t?a=1487386089&as=2104258336&t=2&tk=1&cupa_sku=HQ3524-40&url=https://www.bodystore.dk/adidas-power-perfect-iii-blackwhite-40/HQ3524-40.html"
       }
     }
   }
