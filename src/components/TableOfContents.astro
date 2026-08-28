@@ -1,0 +1,86 @@
+---
+// Table of contents — builds a jump menu from the article's h2/h3 headings.
+// Client-side island: scans the rendered post-content for headings and
+// renders a sticky "Indhold" box with anchor links.
+interface Props {
+  title?: string;
+}
+const { title = "Indhold" } = Astro.props;
+---
+
+<div class="toc" id="toc">
+  <div class="toc-head">
+    <span class="toc-title">📋 {title}</span>
+    <button class="toc-toggle" type="button" aria-expanded="false" aria-controls="toc-list">Vis</button>
+  </div>
+  <nav id="toc-list" class="toc-list" aria-label="Indholdsfortegnelse"></nav>
+</div>
+
+<style>
+  .toc {
+    background: var(--surface, #f8fafc);
+    border: 1px solid var(--border, #e2e8f0);
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0 2rem;
+    max-width: 780px;
+  }
+  .toc-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: .5rem;
+  }
+  .toc-title { font-weight: 700; color: var(--navy, #0f3460); font-size: 1.05rem; }
+  .toc-toggle {
+    background: none; border: 1px solid var(--border, #e2e8f0);
+    border-radius: 6px; padding: .2rem .6rem; font-size: .8rem;
+    color: var(--navy, #0f3460); cursor: pointer;
+  }
+  .toc-list { display: none; }
+  .toc.open .toc-list { display: block; }
+  .toc-list ul { list-style: none; margin: 0; padding: 0; }
+  .toc-list li { margin: .3rem 0; }
+  .toc-list a {
+    color: #334155; text-decoration: none; font-size: .95rem;
+    display: inline-block; padding: .15rem 0;
+  }
+  .toc-list a:hover { color: var(--orange, #f97316); }
+  .toc-list .lvl-3 { padding-left: 1.25rem; font-size: .88rem; }
+</style>
+
+<script>
+  const toc = document.getElementById('toc');
+  const list = document.getElementById('toc-list');
+  const toggle = toc.querySelector('.toc-toggle');
+
+  // Find the article content container
+  const article = document.querySelector('.post-content');
+  if (article) {
+    const headings = article.querySelectorAll('h2, h3');
+    if (headings.length > 0) {
+      const ul = document.createElement('ul');
+      headings.forEach((h) => {
+        if (!h.id) return;
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.textContent = h.textContent;
+        if (h.tagName === 'H3') a.classList.add('lvl-3');
+        li.appendChild(a);
+        ul.appendChild(li);
+      });
+      list.appendChild(ul);
+    } else {
+      toc.style.display = 'none';
+    }
+  } else {
+    toc.style.display = 'none';
+  }
+
+  toggle.addEventListener('click', () => {
+    const open = toc.classList.toggle('open');
+    toggle.textContent = open ? 'Skjul' : 'Vis';
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+</script>

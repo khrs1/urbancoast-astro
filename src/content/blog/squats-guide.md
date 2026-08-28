@@ -40,17 +40,7 @@ Nu spørger du måske, jamen, hvordan ved jeg hvordan mine fødder skal placeres
 
 De tre S’er er som Jacob Beerman fortæller i denne video herunder, Stand, Stang og Start.
 
-maxer.dk: Squat - de 3 vigtigste parametre - meget øvet - YouTube
-
-Tap to unmute
-
-[maxer.dk: Squat - de 3 vigtigste parametre - meget øvet](https://www.youtube.com/watch?v=ctnTCAkN1_g) [Maxer af Jacob Beermann](https://www.youtube.com/channel/UCz0v-1FLS9ONCopv272dE9g)
-
-![thumbnail-image](https://yt3.ggpht.com/6CaI69G0ba0PADxHpgiKe_nQIqxymHonpGxAtMhgQSx5zHoOsQROzOjh3zhM_5ytAqf1jgDI5A=s68-c-k-c0x00ffffff-no-rj)
-
-Maxer af Jacob Beermann8.66K subscribers
-
-[Watch on](https://www.youtube.com/watch?v=ctnTCAkN1_g)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ctnTCAkN1_g" title="Squat - de 3 vigtigste parametre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 Som Jacob også siger i videoen herover, så er der forskel på hvordan din krop er sat sammen, dvs. længden af dine lemmer. Dette vil have en stor indflydelse på, hvilken squatstil, der er den korrekte for dig, og hvor bredt du skal stå, hvor stangen skal ligge på ryggen mm.
 
@@ -72,17 +62,7 @@ Der er mange, der har super meget fokus på at smække mange, mange kilo på væ
 
 En effektiv måde, at finde ud af om du squatter til en ordentlig dybde, er at kigge på hvor langt ned du kommer med dit hofteled ift. toppen af dit knæ. Alan Thrall forklarer det rigtigt godt i videoen herunder. Jeg har tilladt mig at spole lidt frem i videoen, da den er lidt omfattende (26 minutter), men hvis du har tid til det, så se videoen! Alan Thrall har en powerlifter tilgang til styrketræning, og sætter nogle rigtigt fine grundprincipper op for squat.
 
-Untamed Strength: "How To" SQUAT - High bar/Low bar - YouTube
-
-Tap to unmute
-
-[Untamed Strength: "How To" SQUAT - High bar/Low bar](https://www.youtube.com/watch?v=bs_Ej32IYgo) [Alan Thrall (Untamed Strength)](https://www.youtube.com/channel/UCRLOLGZl3-QTaJfLmAKgoAw)
-
-![thumbnail-image](https://yt3.ggpht.com/ytc/AIdro_lGX-fFbClOveFbW6p8WoyyZfag6ueTwwBEnAgFSfoThpA=s68-c-k-c0x00ffffff-no-rj)
-
-Alan Thrall (Untamed Strength)849K subscribers
-
-[Watch on](https://www.youtube.com/watch?v=bs_Ej32IYgo)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/bs_Ej32IYgo" title="How To SQUAT - High bar/Low bar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ## Opspænd? Hvad er det?
 
