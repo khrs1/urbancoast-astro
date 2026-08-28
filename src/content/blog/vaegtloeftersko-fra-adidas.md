@@ -18,9 +18,11 @@ En vægtløftersko har en hård sål og en forhøjet hæl. Den hårde sål giver
 
 Hvis du squatter med ordentlig teknik, ved du at ankelmobilitet er afgørende. En hæl der er forhøjet 1-2 cm gør det nemmere at komme dybt ned uden at hælene løfter sig.
 
-## Adidas Powerlift 4
+## Adidas Powerlift 5
 
-Adidas Powerlift 4 er den mest overkommelige af de tre modeller. Den har en lavere hæl end de andre to modeller, hvilket gør den velegnet til dig der laver low-bar squat eller powerlifter.
+![Adidas Powerlift 5](/img/adidas-powerlift-5.jpg)
+
+Adidas Powerlift 5 er den mest overkommelige af de tre modeller. Den har en lavere hæl end de andre to modeller, hvilket gør den velegnet til dig der laver low-bar squat eller powerlifter.
 
 Hælen er lavere end på AdiPower og Power Perfect. Det betyder at du ikke får samme dybde i high-bar squat, men til gengæld er skoen mere alsidig og nem at gå i.
 
@@ -35,9 +37,11 @@ Hælen er lavere end på AdiPower og Power Perfect. Det betyder at du ikke får 
 
 Pris: ca. 1399 kr.
 
-[Køb Adidas Powerlift 4 hos forhandler](https://urbancoast.dk/go/?id=adidas-powerlift-4)
+[Køb Adidas Powerlift 5 hos forhandler](https://urbancoast.dk/go/?id=adidas-powerlift-4)
 
 ## Adidas Power Perfect III
+
+![Adidas Power Perfect III](/img/adidas-power-perfect-3.jpg)
 
 Adidas Power Perfect III er den alsidige mellemklasse-sko. Den er bygget til at være en kompromis mellem den billigere Powerlift og den dyrere AdiPower.
 
@@ -57,6 +61,8 @@ Pris: ca. 1049 kr.
 [Køb Adidas Power Perfect III hos forhandler](https://urbancoast.dk/go/?id=adidas-powerperfect-iii)
 
 ## Adidas AdiPower
+
+![Adidas AdiPower](/img/adidas-adipower-3.jpg)
 
 Adidas AdiPower er flagskibet blandt Adidas vægtløftersko. Den er lettere og af højere kvalitet end de andre to modeller. Det er skoen som professionelle vægtløftere og CrossFit atleter foretrækker.
 

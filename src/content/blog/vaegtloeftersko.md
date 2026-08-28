@@ -68,17 +68,23 @@ Herunder finder du nogle af de mest populære løftesko på markedet. Alle er ke
 
 ### Adidas Adipower
 
+![Adidas AdiPower](/img/adidas-adipower-3.jpg)
+
 Adipower er en af de mest anerkendte vægtløftersko nogensinde. De har en stiv såle, god hælhældning og en solid metatarsal-rem. Brugt af professionelle vægtløftere over hele verden.
 
 [Køb Adidas Adipower](https://urbancoast.dk/go/?id=adidas-adipower)
 
-### Adidas Powerlift 4
+### Adidas Powerlift 5
 
-Adidas Powerlift 4 er en mere overkommelig model, der er god til begyndere ogIntermediate løftere. De har en lidt lavere hæl og en lidt blødere såle end Adipower, men giver stadig god stabilitet til de fleste squats.
+![Adidas Powerlift 5](/img/adidas-powerlift-5.jpg)
 
-[Køb Adidas Powerlift 4](https://urbancoast.dk/go/?id=adidas-powerlift-4)
+Adidas Powerlift 5 er en mere overkommelig model, der er god til begyndere ogIntermediate løftere. De har en lidt lavere hæl og en lidt blødere såle end Adipower, men giver stadig god stabilitet til de fleste squats.
+
+[Køb Adidas Powerlift 5](https://urbancoast.dk/go/?id=adidas-powerlift-4)
 
 ### Adidas PowerPerfect III
+
+![Adidas Power Perfect III](/img/adidas-power-perfect-3.jpg)
 
 Adidas PowerPerfect III er en mellemklassemodel, der kombinerer stabilitet med en mere overkommelig pris. God valg for dig, der vil have kvalitet uden at betale for topmodellen.
 
